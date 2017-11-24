@@ -25,6 +25,8 @@ If you'd like to find info that's not discussion related, you can try other AI c
         * [Machine Learning](#machine-learning)
         * [Deep Learning](#deep-learning)
         * [Computer Vision](#computer-vision)
+        * [NLP](#nlp)
+        * [Speech](#speech)
         * [Comparing Resources](#comparing-resources)
         * [Scientific Papers](#scientific-papers)
         * [Public Datasets](#public-datasets)
