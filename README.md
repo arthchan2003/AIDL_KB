@@ -110,6 +110,12 @@ Firstly start with one or two Machine Learning classes, because Deep Learning is
 #### Computer Vision
 Momentarily the most recommended resource for Deep Learning on Computer Vision is the [cs231n](http://cs231n.stanford.edu/), most of the other resources are either derivative or have glaring problems.
 
+#### NLP
+NLP one of the important area of research in AI. A good resource for NLP is [cs228](https://people.eecs.berkeley.edu/~klein/cs288/fa14/) it talks about statistical techniques and there application to NLP.
+
+#### Speech 
+For audio the data requires different preprocessing, the course [cs224s](http://web.stanford.edu/class/cs224s/syllabus.html) can be good starting point.
+
 #### Comparing Resources
 How do you compare different resources on machine learning and deep learning? As mentioned before, there's an [Arthur Chan's article](http://thegrandjanitor.com/2016/08/15/learning-deep-learning-my-top-five-resource/) that's comparing different resources and their prerequisites. YerevaNN Lab has made [A guide to Deep Learning](http://yerevann.com/a-guide-to-deep-learning/) that is very handy for learning because all concepts are ranked by its difficulty. There also exists [A16Z AI playbook](http://aiplaybook.a16z.com/docs/reference/links), a list that completes the lists before, placing more focus on AI. [Reddit's Machine Learning FAQ](https://www.reddit.com/r/MachineLearning/wiki/index) has another list of great resources.
 
