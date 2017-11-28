@@ -109,7 +109,7 @@ Find a problem concerning this topic to play with and solve it. If you have no i
 
 ### Where To Learn
 
-#### [PRE: Prerequisites](./KB/PRE)
+#### [PRE: Prerequisites](./KB/PRE.md)
 
 #### ML: Machine Learning
 ##### Classes
