@@ -93,7 +93,7 @@ Finally, there is Matlab/Octave, it is also useful to learn because many Courser
 
 ### Where To Learn
 
-#### [PRE: Prerequisites](KB/PRE.md)
+#### [Prerequisites](KB/PRE.md)
 
 #### [ML: Machine Learning](KB/ML.md)
 
