@@ -12,31 +12,19 @@ Other contents published by AIDL staffs.
 * [AIDL Weekly Newsletter](http://aidl.io/)
 * [AIDL Office Hour](https://www.youtube.com/channel/UC3YM5TEbSqIpFGH85d6gjKg) Youtube channel
 
-
 ## Contents
 
 * [Group Etiquette](FB.md) (mandatory for new group members)
-
 * [How To Learn & Basics](BAS.md)
-
 * Where To Learn
-
-** [Prerequisites](KB/PRE.md)
-
-** [Machine Learning (ML)](KB/ML.md)
-
-** [Deep Learning (DL)](KB/DL.md)
-
-** [Computer Vision (CV)](KB/CV.md)
-
-** [Natural Language Processing (NLP)](KB/NLP.md)
-
-** [Speech (ASR)](KB/ASR.md)
-
-** [Scientific Papers](KB/SCI.md)
-
-** [Public Datasets](KB/DAT.md)
-
+  * [Prerequisites](KB/PRE.md)
+  * [Machine Learning (ML)](KB/ML.md)
+  * [Deep Learning (DL)](KB/DL.md)
+  * [Computer Vision (CV)](KB/CV.md)
+  * [Natural Language Processing (NLP)](KB/NLP.md)
+  * [Speech (ASR)](KB/ASR.md)
+  * [Scientific Papers](KB/SCI.md)
+  * [Public Datasets](KB/DAT.md)
 * [How do I](HOW.md)
 
 ### TODO: include Comparing Resources
