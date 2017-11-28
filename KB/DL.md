@@ -20,4 +20,3 @@ Firstly start with one or two [Machine Learning classes](ML.md), because Deep Le
   * [Optimization, Training Techniques](https://github.com/terryum/awesome-deep-learning-papers#optimization--training-techniques)
   * [Unsupervised, Generative Models](https://github.com/terryum/awesome-deep-learning-papers#unsupervised--generative-models)
   * [Convolutional Network Models](https://github.com/terryum/awesome-deep-learning-papers#convolutional-neural-network-models)
-  * [Reinforcement Learning, Robotics](https://github.com/terryum/awesome-deep-learning-papers#reinforcement-learning--robotics)

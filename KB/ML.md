@@ -15,3 +15,11 @@ The most cited and recommended is [online course is from Andrew Ng](https://www.
 
 ### Interviews
 * **Data Science Handbook**, Carl Shan,‎ William Chen,‎ Henry Wang and‎ Max Song, [Check price on Amazon](http://amzn.to/1LW0jQU)
+
+## Reinforcement Learning
+
+### Courses
+* [By Georgia Tech on Udacity](https://www.udacity.com/course/reinforcement-learning--ud600)
+
+### Scientific Papers
+* [The most cited](https://github.com/terryum/awesome-deep-learning-papers#reinforcement-learning--robotics)

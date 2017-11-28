@@ -1,8 +1,9 @@
 [← Back to overview](../../../)
 
-# (Cognitive) Psychology and Neuroscience
+# Psychology and Neuroscience
 
-## Memory
+## Cognitive Neuroscience
+### Memory
 * [Most to date memory model](https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Memory)
   * Protein synthesis possibly plays a role
     * [The role of protein synthesis in memory consolidation: Progress amid decades of debate](https://dx.doi.org/10.1016%2Fj.nlm.2007.09.010)
