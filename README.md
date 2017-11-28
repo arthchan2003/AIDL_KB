@@ -1,4 +1,4 @@
-# AI&DL Knowledge Base (AIDL_KB)
+# AI&DL Knowledge Base
 
 AI&DL Knowledge Base, in short AIDL_KB, is a curated list that is related to the [AI&DL Facebook Group](https://www.facebook.com/groups/DeepNetGroup/) about Artificial Intelligence and Deep Learning.
 
