@@ -1,6 +1,6 @@
 [← Back to overview](README.md)
 
-# How do I
+# How to
 
 ## Build a Chatbot
 
