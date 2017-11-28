@@ -23,6 +23,10 @@ Some people are also arguing that Topology is important and having a Physics and
 
 ## Programming
 
+### Cheat Sheets
+* [Datacamp's Data Science Cheat Sheets](https://www.datacamp.com/community/data-science-cheatsheets) with includes Python (Keras, NumPy, PySpark, Bokeh, Jupyter, Pandas), R, and Matlab cheatsheets
+* [RStudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/) or their [Github](https://github.com/rstudio/cheatsheets) about R
+
 ### Books
 * [Probability and Statistics for Programmers](http://www.greenteapress.com/thinkstats/), Allen B. Downey, Free
 * [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf), Avrim Blum, John Hopcroft, and Ravindran Kannan, Free
