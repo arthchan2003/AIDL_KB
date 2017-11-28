@@ -4,7 +4,7 @@ This knowledge base is a curated list that is related to [the Facebook Group abo
 
 The goals of AIDL_KB are, 
 
-* to serve as an alternative FAQ of [AIDL Facebook Community](https://www.facebook.com/groups/DeepNetGroup/) 's pinned post.  We also hope that this FAQ is updatable over time.  You can also think of it as a more complex version of **Frequently Asked Questions** (FAQ).
+* to serve as an alternative FAQ of [AIDL Facebook Community](https://www.facebook.com/groups/DeepNetGroup/) 's [pinned post](https://www.facebook.com/groups/DeepNetGroup/permalink/385843868475168/).  We also hope that this FAQ is updatable over time.  You can also think of it as a more complex version of **Frequently Asked Questions** (FAQ).
 * provide a Wikipedia style of knowledge base for all AIDL members and public. 
 
 Other contents published by 
@@ -46,7 +46,6 @@ Other contents published by
       * [Explain Concept X, List 3 Properties of Concept Y](#explain-concept-x-list-3-properties-of-concept-y)
       * [Find an Idea for My AI Project, FYP, Thesis and Competition](#find-an-idea-for-my-ai-project-fyp-thesis-and-competition)
       * [Build a Chatbot](#build-a-chatbot)
-
 
 
 ## Group Etiquette
