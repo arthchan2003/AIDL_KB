@@ -1,0 +1,4 @@
+[← Back to overview](../../../)
+
+# Philosophy
+
