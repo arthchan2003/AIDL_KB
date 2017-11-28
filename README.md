@@ -14,34 +14,32 @@ Other contents published by AIDL staffs.
 
 ## [Group Etiquette](FB.md)
 
-## Frequently Asked Questions
+## [How To Learn & Basics](BAS.md)
 
-### [How To Learn & Basics](BAS.md)
+## Where To Learn
 
-### Where To Learn
+### * [Prerequisites](KB/PRE.md)
 
-#### [Prerequisites](KB/PRE.md)
+### * [Machine Learning (ML)](KB/ML.md)
 
-#### [Machine Learning (ML)](KB/ML.md)
+### [Deep Learning (DL)](KB/DL.md)
 
-#### [Deep Learning (DL)](KB/DL.md)
+### [Computer Vision (CV)](KB/CV.md)
 
-#### [Computer Vision (CV)](KB/CV.md)
+### [Natural Language Processing (NLP)](KB/NLP.md)
 
-#### [Natural Language Processing (NLP)](KB/NLP.md)
+### [Speech (ASR)](KB/ASR.md)
 
-#### [Speech (ASR)](KB/ASR.md)
+### [Scientific Papers](KB/SCI.md)
 
-#### [Scientific Papers](KB/SCI.md)
+### [Public Datasets](KB/DAT.md)
 
-#### [Public Datasets](KB/DAT.md)
-
-#### Comparing Resources
+### Comparing Resources
 How do you compare different resources on machine learning and deep learning? As mentioned before, there's an [Arthur Chan's article](http://thegrandjanitor.com/2016/08/15/learning-deep-learning-my-top-five-resource/) that's comparing different resources and their prerequisites. YerevaNN Lab has made [A guide to Deep Learning](http://yerevann.com/a-guide-to-deep-learning/) that is very handy for learning because all concepts are ranked by its difficulty. There also exists [A16Z AI playbook](http://aiplaybook.a16z.com/docs/reference/links), a list that completes the lists before, placing more focus on AI. [Reddit's Machine Learning FAQ](https://www.reddit.com/r/MachineLearning/wiki/index) has another list of great resources.
 
 ---
 
-### How do I
+## How do I
 
 #### Build a Chatbot
 
