@@ -31,5 +31,5 @@
 * [The most cited](https://github.com/terryum/awesome-deep-learning-papers#reinforcement-learning--robotics)
 
 ## Neural Networks
-[![Neural Networks](../../../assets/img/neuralnetworks-min.png)](http://www.asimovinstitute.org/neural-network-zoo/)
+![Neural Networks](../../../assets/img/neuralnetworks-min.png)
 Description of the image at [The Asimov Institute](http://www.asimovinstitute.org/neural-network-zoo/).
