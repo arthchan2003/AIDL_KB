@@ -1,16 +1,8 @@
 # AI&DL Knowledge Base (AIDL_KB)
 
-This knowledge base is a curated list that is related to [the Facebook Group about Artificial Intelligence (AI) and Deep Learning (DL)](https://www.facebook.com/groups/DeepNetGroup/), in the abbreviated form AI&DL or AIDL.
+AI&DL Knowledge Base, in short AIDL_KB, is a curated list that is related to the [AI&DL Facebook Group](https://www.facebook.com/groups/DeepNetGroup/) about Artificial Intelligence and Deep Learning.
 
-The goals of AIDL_KB are,
-
-* to serve as an alternative FAQ of [AIDL Facebook Community](https://www.facebook.com/groups/DeepNetGroup/) 's [pinned post](https://www.facebook.com/groups/DeepNetGroup/permalink/385843868475168/).  We also hope that this FAQ is updatable over time.  You can also think of it as a more complex version of **Frequently Asked Questions** (FAQ).
-* provide a Wikipedia style of knowledge base for all AIDL members and public.
-
-Other contents published by AIDL staffs.
-
-* [AIDL Weekly Newsletter](http://aidl.io/)
-* [AIDL Office Hour](https://www.youtube.com/channel/UC3YM5TEbSqIpFGH85d6gjKg) Youtube channel
+Our goal is to provide knowledge base for all AI&DL members and public.
 
 ## Contents
 
@@ -31,3 +23,8 @@ Other contents published by AIDL staffs.
 **TODO: include Comparing Resources**
 How do you compare different resources on machine learning and deep learning? There's an [Arthur Chan's article](http://thegrandjanitor.com/2016/08/15/learning-deep-learning-my-top-five-resource/) that's comparing different resources and their prerequisites. YerevaNN Lab has made [A guide to Deep Learning](http://yerevann.com/a-guide-to-deep-learning/) that is very handy for learning because all concepts are ranked by its difficulty. There also exists [A16Z AI playbook](http://aiplaybook.a16z.com/docs/reference/links), a list that completes the lists before, placing more focus on AI. [Reddit's Machine Learning FAQ](https://www.reddit.com/r/MachineLearning/wiki/index) has another list of great resources.
 -->
+
+## Newsletters and Youtube
+
+* [AIDL Weekly Newsletter](http://aidl.io/)
+* [AIDL Office Hour](https://www.youtube.com/channel/UC3YM5TEbSqIpFGH85d6gjKg) Youtube channel
