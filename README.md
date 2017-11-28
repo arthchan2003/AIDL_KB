@@ -7,7 +7,7 @@ The goals of AIDL_KB are,
 * to serve as an alternative FAQ of [AIDL Facebook Community](https://www.facebook.com/groups/DeepNetGroup/) 's [pinned post](https://www.facebook.com/groups/DeepNetGroup/permalink/385843868475168/).  We also hope that this FAQ is updatable over time.  You can also think of it as a more complex version of **Frequently Asked Questions** (FAQ).
 * provide a Wikipedia style of knowledge base for all AIDL members and public. 
 
-Other contents published by 
+Other contents published by AIDL staffs. 
 
 * [AIDL Weekly Newsletter](http://aidl.io/)
 * [AIDL Office Hour](https://www.youtube.com/channel/UC3YM5TEbSqIpFGH85d6gjKg) Youtube channel
