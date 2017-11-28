@@ -15,10 +15,11 @@ Our goal is to provide knowledge base for all AI&DL members and public.
   * [Natural Language Processing (NLP)](KB/NLP.md)
   * [Speech (ASR)](KB/ASR.md)
   * [Psychology and Neuroscience](KB/NEU.md)
-<!--  * [Philosophy](KB/PHI.md) uncomment once not empty -->
   * [Scientific Papers](KB/SCI.md)
   * [Public Datasets](KB/DAT.md)
 * [How to](HOW.md)
+
+<!--  * [Philosophy](KB/PHI.md) add, uncomment once not empty -->
 
 <!---
 **TODO: check if updated content and categorize**
