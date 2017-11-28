@@ -27,4 +27,7 @@ Other contents published by AIDL staffs.
   * [Public Datasets](KB/DAT.md)
 * [How do I](HOW.md)
 
-[TODO include]: <> (was Comparing Resources previously) How do you compare different resources on machine learning and deep learning? There's an [Arthur Chan's article](http://thegrandjanitor.com/2016/08/15/learning-deep-learning-my-top-five-resource/) that's comparing different resources and their prerequisites. YerevaNN Lab has made [A guide to Deep Learning](http://yerevann.com/a-guide-to-deep-learning/) that is very handy for learning because all concepts are ranked by its difficulty. There also exists [A16Z AI playbook](http://aiplaybook.a16z.com/docs/reference/links), a list that completes the lists before, placing more focus on AI. [Reddit's Machine Learning FAQ](https://www.reddit.com/r/MachineLearning/wiki/index) has another list of great resources.
+<!---
+**TODO: include Comparing Resources**
+How do you compare different resources on machine learning and deep learning? There's an [Arthur Chan's article](http://thegrandjanitor.com/2016/08/15/learning-deep-learning-my-top-five-resource/) that's comparing different resources and their prerequisites. YerevaNN Lab has made [A guide to Deep Learning](http://yerevann.com/a-guide-to-deep-learning/) that is very handy for learning because all concepts are ranked by its difficulty. There also exists [A16Z AI playbook](http://aiplaybook.a16z.com/docs/reference/links), a list that completes the lists before, placing more focus on AI. [Reddit's Machine Learning FAQ](https://www.reddit.com/r/MachineLearning/wiki/index) has another list of great resources.
+-->
