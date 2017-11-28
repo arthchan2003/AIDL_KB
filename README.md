@@ -12,41 +12,6 @@ Other contents published by AIDL staffs.
 * [AIDL Weekly Newsletter](http://aidl.io/)
 * [AIDL Office Hour](https://www.youtube.com/channel/UC3YM5TEbSqIpFGH85d6gjKg) Youtube channel
 
-## Contents
-
-* [Group Etiquette](#group-etiquette)
-    * [Be Relevant](#be-relevant)
-    * [What Not to Write at AIDL](#what-not-to-write)
-    * [Group Related Questions](#group-related-questions)
-       * [Thanking for Acceptance](#thanking-for-acceptance)
-       * [Filtering Out Beginners Questions](#filtering-out-beginners-questions)
-
-* [Frequently Asked Questions](#frequently-asked-questions)
-    * [How To Learn](#how-to-learn)
-        * [Step 1: Math and Programming](#step-1-math-and-programming)
-        * [Step 2: Online Classes](#step-2-online-classes)
-        * [Step 3: Solve a Problem](#step-3-solve-a-problem)
-    * [Where To Learn](#where-to-learn)
-        * [PRE: Prerequisites](#pre-prerequisites)
-        * [ML: Machine Learning](#ml-machine-learning)
-        * [DL: Deep Learning](#dl-deep-learning)
-        * [CV: Computer Vision](#cl-computer-vision)
-        * [NLP: Natural Langauge Processing](#nlp-natural-language-processing)
-        * [ASR: Speech](#asr-speech)
-        * [Comparing Resources](#comparing-resources)
-        * [Scientific Papers](#scientific-papers)
-        * [Public Datasets](#public-datasets)
-    * [Understanding Concepts](#understanding-concepts)
-      * [Basics](#basics)
-        * [The difference between Deep Learning and Machine Learning](#the-difference-between-deep-learning-and-machine-learning)
-      * [I'm Bad at Math or Programming. Can I still learn it?](#im-bad-at-math-or-programming-can-i-still-learn-it)
-      * [Recommended Programming Language](#recommended-programming-language)
-    * [How do I](#how-do-i)
-      * [Use Technique X with Language Y?](#use-technique-x-with-language-y)
-      * [Explain Concept X, List 3 Properties of Concept Y](#explain-concept-x-list-3-properties-of-concept-y)
-      * [Find an Idea for My AI Project, FYP, Thesis and Competition](#find-an-idea-for-my-ai-project-fyp-thesis-and-competition)
-      * [Build a Chatbot](#build-a-chatbot)
-
 ## Group Etiquette
 
 ### Be Relevant
