@@ -1,30 +1,38 @@
-# AI&DL Knowledge Base
+# AI&DL Knowledge Base (AIDL_KB)
 
-This knowledge base is a curated list that is related to [the Facebook Group about Artificial Intelligence (AI) and Deep Learning (DL)](https://www.facebook.com/groups/DeepNetGroup/), in the abbreviated form AI&DL or AIDL. It's basically a more complex version of **Frequently Asked Questions** (FAQ).
+This knowledge base is a curated list that is related to [the Facebook Group about Artificial Intelligence (AI) and Deep Learning (DL)](https://www.facebook.com/groups/DeepNetGroup/), in the abbreviated form AI&DL or AIDL. 
 
-As [AIDL Facebook community](https://www.facebook.com/groups/DeepNetGroup/) is in the simplicity **one big forum** with currently more than 60 thousands users where the main content is the discussion about all themes concerning Artificial Intelligence and Deep Learning, we want to keep the repeating questions outside the group, as the answers to these questions are similarly repeating, being itself an unnecessary noise in the group and preventing members from focusing on other things.
+The goals of AIDL_KB are, 
 
-If you'd like to find info that's not discussion related, you can try other AI content we publish:
+* to serve as an alternative FAQ of [AIDL Facebook Community](https://www.facebook.com/groups/DeepNetGroup/) 's [pinned post](https://www.facebook.com/groups/DeepNetGroup/permalink/385843868475168/).  We also hope that this FAQ is updatable over time.  You can also think of it as a more complex version of **Frequently Asked Questions** (FAQ).
+* provide a Wikipedia style of knowledge base for all AIDL members and public. 
+
+Other contents published by AIDL staffs. 
 
 * [AIDL Weekly Newsletter](http://aidl.io/)
 * [AIDL Office Hour](https://www.youtube.com/channel/UC3YM5TEbSqIpFGH85d6gjKg) Youtube channel
-
 
 ## Contents
 
 * [Group Etiquette](#group-etiquette)
     * [Be Relevant](#be-relevant)
-    * [What Not to Write](#what-not-to-write)
+    * [What Not to Write at AIDL](#what-not-to-write)
+    * [Group Related Questions](#group-related-questions)
+       * [Thanking for Acceptance](#thanking-for-acceptance)
+       * [Filtering Out Beginners Questions](#filtering-out-beginners-questions)
+
 * [Frequently Asked Questions](#frequently-asked-questions)
     * [How To Learn](#how-to-learn)
         * [Step 1: Math and Programming](#step-1-math-and-programming)
         * [Step 2: Online Classes](#step-2-online-classes)
         * [Step 3: Solve a Problem](#step-3-solve-a-problem)
     * [Where To Learn](#where-to-learn)
-        * [Prerequisites](#prerequisites)
-        * [Machine Learning](#machine-learning)
-        * [Deep Learning](#deep-learning)
-        * [Computer Vision](#computer-vision)
+        * [PREREQ: Prerequisites](#prerequisites)
+        * [ML: Machine Learning](#machine-learning)
+        * [DL: Deep Learning](#deep-learning)
+        * [CV: Computer Vision](#computer-vision)
+        * [NLP: Natural Langauge Processing](#nlp)
+        * [ASR: Speech](#speech)
         * [Comparing Resources](#comparing-resources)
         * [Scientific Papers](#scientific-papers)
         * [Public Datasets](#public-datasets)
@@ -34,14 +42,10 @@ If you'd like to find info that's not discussion related, you can try other AI c
       * [I'm Bad at Math or Programming. Can I still learn it?](#im-bad-at-math-or-programming-can-i-still-learn-it)
       * [Recommended Programming Language](#recommended-programming-language)
     * [How do I](#how-do-i)
-      * [Build a Chatbot](#build-a-chatbot)
       * [Use Technique X with Language Y?](#use-technique-x-with-language-y)
       * [Explain Concept X, List 3 Properties of Concept Y](#explain-concept-x-list-3-properties-of-concept-y)
       * [Find an Idea for My AI Project, FYP, Thesis and Competition](#find-an-idea-for-my-ai-project-fyp-thesis-and-competition)
-    * [Group Related Questions](#group-related-questions)
-      * [Thanking for Acceptance](#thanking-for-acceptance)
-      * [Filtering Out Beginners Questions](#filtering-out-beginners-questions)
-      * [Joining AIDL Literature Discussion Subgroup](#joining-aidl-literature-discussion-subgroup)
+      * [Build a Chatbot](#build-a-chatbot)
 
 
 ## Group Etiquette
@@ -66,6 +70,24 @@ We **automatically delete** posts that are:
 Anything that is **already answered**:
 - Questions that are answered in this Knowledge Base, e.g. "How do I learn deep learning or AI?"
 - Questions which can be answered easily by Googling
+
+### Group Related Questions
+
+#### Thanking for Acceptance
+
+In case you are wondering why your "Thank you for acceptance" message has been instantly closed, before you're going to send us series of hand-picked angry emojis, just think about it. Our group with thousands of people can't manage to welcome every new member individually. And as an older member, imagine you'd read 50 thousands of "thank you" messages or more. That doesn't seem very enriching, right?
+
+
+#### Filtering Out Beginner Questions
+
+If you believe that other members are often asking boring questions, such as "How do I start at AI, ML, ANN..." and you'd like to filter these out, we'd like you to just stop for a minute and think about it.
+
+We are happy to spread knowledge of AI and deep learning to everyone in the world. And we believe that it's important to be nice to beginners. There's a saying: 5 minutes before you learn something, you don't know something.
+
+If someone asks a question that has been already solved, just say them: 
+
+*"Please take a look at this Knowledge Base part, you should have tons of ideas after reading them."*
+
 
 
 ## Frequently Asked Questions
@@ -92,23 +114,27 @@ Find a problem concerning this topic to play with and solve it. If you have no i
 
 ### Where To Learn
 
-#### Prerequisites
+#### PREREQ: Prerequisites
 For Machine Learning mostly **Linear Algebra** and **Calculus I-III** are needed. In Linear Algebra, you should be good at eigenvectors and matrix operation. In Calculus, you should be quite comfortable with differentiation. You might also want to have a primer on matrix differentiation before you start because it's a topic which is seldom touched in an undergraduate curriculum.
 
 Some people are also arguing that Topology is important and having a Physics and Biology background could help. But they are not crucial to start.
 
-#### Machine Learning
+#### ML: Machine Learning
 ##### Classes
 The most cited and recommended is [online course is from Andrew Ng](https://www.coursera.org/learn/machine-learning). Followed by [CalTech edX class](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x-0) and [UW Coursera Class specialization](https://www.coursera.org/specializations/machine-learning). If that's too difficult for you, you can try [beginner Udacity courses](https://www.udacity.com/courses/machine-learning).
 
-##### Books
-Many links you will see online are actually filled with non-free contents. Of course, you also want to download books legally. Here are honorable mentions: [10 Free Must-Read Books](https://www.kdnuggets.com/2017/04/10-free-must-read-books-machine-learning-data-science.html) followed with [60 Data Science Books](https://www.kdnuggets.com/2015/09/free-data-science-books.html). There's also [William Z. Chen curated list](http://www.wzchen.com/data-science-books/), [Michael Nielsen's ebook](http://neuralnetworksanddeeplearning.com/) or Ian Goodfellow and Yoshua Bengio and Aaron Courville's [Deep Learning's ebook](http://www.deeplearningbook.org/).
 
-#### Deep Learning
+#### DL: Deep Learning
 Firstly start with one or two Machine Learning classes, because Deep Learning is related to them and it will be easier for you. Then we recommend you checking [Andrew Ng's deeplearning.ai class](https://www.deeplearning.ai/). Then check all the [Geoffrey Hinton's resources](http://www.cs.toronto.edu/~hinton/nntut.html), [Andrew Karpathay's resources](http://cs.stanford.edu/people/karpathy/), [Richard Socher's publications](http://www.socher.org/), [Hugo Larochelle's research](https://research.google.com/pubs/105144.html) and [Nando de Freitas' texts](https://www.cs.ox.ac.uk/people/nando.defreitas/). For Deep Reinforcement Learning check out [David Silver's videos](http://rll.berkeley.edu/deeprlcourse/) and [John Schulman's lectures](http://joschu.net/).
 
-#### Computer Vision
+#### CV: Computer Vision
 Momentarily the most recommended resource for Deep Learning on Computer Vision is the [cs231n](http://cs231n.stanford.edu/), most of the other resources are either derivative or have glaring problems.
+
+#### NLP: Natural Language Processing
+NLP one of the important area of research in AI. A good resource for NLP is [cs228](https://people.eecs.berkeley.edu/~klein/cs288/fa14/) it talks about statistical techniques and there application to NLP.
+
+#### ASR: Speech 
+For audio the data requires different preprocessing, the course [cs224s](http://web.stanford.edu/class/cs224s/syllabus.html) can be good starting point.
 
 #### Comparing Resources
 How do you compare different resources on machine learning and deep learning? As mentioned before, there's an [Arthur Chan's article](http://thegrandjanitor.com/2016/08/15/learning-deep-learning-my-top-five-resource/) that's comparing different resources and their prerequisites. YerevaNN Lab has made [A guide to Deep Learning](http://yerevann.com/a-guide-to-deep-learning/) that is very handy for learning because all concepts are ranked by its difficulty. There also exists [A16Z AI playbook](http://aiplaybook.a16z.com/docs/reference/links), a list that completes the lists before, placing more focus on AI. [Reddit's Machine Learning FAQ](https://www.reddit.com/r/MachineLearning/wiki/index) has another list of great resources.
@@ -118,7 +144,6 @@ There is a curated list from Terry Taewoong Um that [curates the most cited deep
 
 #### Public Datasets
 Take a look at the collection of the [Public Datasets related to Machine Learning from our members](https://www.facebook.com/groups/DeepNetGroup/permalink/394240667635488/).
-
 
 ---
 
@@ -182,22 +207,3 @@ All three methods can give you a lot of inspirations.
 
 ---
 
-### Group Related Questions
-
-#### Thanking for Acceptance
-
-In case you are wondering why your "Thank you for acceptance" message has been instantly closed, before you're going to send us series of hand-picked angry emojis, just think about it. Our group with thousands of people can't manage to welcome every new member individually. And as an older member, imagine you'd read 50 thousands of "thank you" messages or more. That doesn't seem very enriching, right?
-
-
-#### Filtering Out Beginner Questions
-
-If you believe that other members are often asking boring questions, such as "How do I start at AI, ML, ANN..." and you'd like to filter these out, we'd like you to just stop for a minute and think about it.
-
-We are happy to spread knowledge of AI and deep learning to everyone in the world. And we believe that it's important to be nice to beginners. There's a saying: 5 minutes before you learn something, you don't know something.
-
-If someone asks a question that has been already solved, just say them: 
-
-*"Please take a look at this Knowledge Base part, you should have tons of ideas after reading them."*
-
-#### Joining AIDL Literature Discussion Subgroup
-Hint: Rule 1 of AIDL-LD is *"If you don't read, you won't survive here for long."* It's also not recommended for beginners.
