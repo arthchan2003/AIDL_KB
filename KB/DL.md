@@ -1,11 +1,17 @@
 [← Back to overview](../../../)
 
 # Deep Learning (DL)
+We recommend to firstly start with one or two [Machine Learning classes](ML.md), because Deep Learning is related to them and it will be easier for you.
 
 ## Courses
-<!-- TODO: some of those aren't courses -->
-Firstly start with one or two [Machine Learning classes](ML.md), because Deep Learning is related to them and it will be easier for you. Then we recommend you checking [Andrew Ng's deeplearning.ai class](https://www.deeplearning.ai/). Then check all the [Geoffrey Hinton's resources](http://www.cs.toronto.edu/~hinton/nntut.html), [Andrew Karpathay's resources](http://cs.stanford.edu/people/karpathy/), [Richard Socher's publications](http://www.socher.org/), [Hugo Larochelle's research](https://research.google.com/pubs/105144.html) and [Nando de Freitas' texts](https://www.cs.ox.ac.uk/people/nando.defreitas/). For Deep Reinforcement Learning check out [David Silver's videos](http://rll.berkeley.edu/deeprlcourse/) and [John Schulman's lectures](http://joschu.net/).
+* The most recommended is [Andrew Ng's deeplearning.ai class](https://www.deeplearning.ai/)
 
+## Recommended resources
+* [Geoffrey Hinton's](http://www.cs.toronto.edu/~hinton/nntut.html)
+* [Andrew Karpathay's](http://cs.stanford.edu/people/karpathy/)
+* [Richard Socher's](http://www.socher.org/)
+* [Hugo Larochelle's](https://research.google.com/pubs/105144.html)
+* [Nando de Freitas'](https://www.cs.ox.ac.uk/people/nando.defreitas/)
 
 ### Capsule Networks
 * [Aurélien Géron's tutorial](https://youtu.be/pPN8d0E3900)

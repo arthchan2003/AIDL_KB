@@ -3,8 +3,10 @@
 # Machine Learning (ML)
 
 ## Courses
-<!-- TODO: some of those aren't courses -->
-The most cited and recommended is [online course is from Andrew Ng](https://www.coursera.org/learn/machine-learning). Followed by [CalTech edX class](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x-0) and [UW Coursera Class specialization](https://www.coursera.org/specializations/machine-learning). If that's too difficult for you, you can try [beginner Udacity courses](https://www.udacity.com/courses/machine-learning).
+* The most recommended is [Andrew NG's ML course](https://www.coursera.org/learn/machine-learning) on Coursera
+* [Learning From Data by CalTech](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x-0) on edX
+* [University of Washington's ML specialization](https://www.coursera.org/specializations/machine-learning) on Coursera
+* [Udacity courses](https://www.udacity.com/courses/machine-learning), some could be easier for beginners
 
 ## Books
 * [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/), Shai Shalev-Shwartz and Shai Ben-David, Free
@@ -20,6 +22,10 @@ The most cited and recommended is [online course is from Andrew Ng](https://www.
 
 ### Courses
 * [By Georgia Tech on Udacity](https://www.udacity.com/course/reinforcement-learning--ud600)
+
+### Recommended resources
+* [David Silver's videos](http://rll.berkeley.edu/deeprlcourse/)
+* [John Schulman's lectures](http://joschu.net/)
 
 ### Scientific Papers
 * [The most cited](https://github.com/terryum/awesome-deep-learning-papers#reinforcement-learning--robotics)
