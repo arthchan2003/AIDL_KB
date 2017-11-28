@@ -6,18 +6,16 @@ Are you asking yourself "How do I start in Artificial Intelligence, Machine Lear
 
 In short, just iterate **three steps** mentioned here until you'll become professional or you'll get your Nobel Price in AI. For even more thorough info, Arthur Chan has made [an article how to start learning](http://thegrandjanitor.com/2016/08/15/learning-deep-learning-my-top-five-resource/) AI&DL.
 
-## Step 1: Math and Programming
+### Step 1: Math and Programming
 For even being able to start with, there's a necessity of having some background in Mathematics (such as linear algebra, probability, statistics and calculus) and being able to understand basic programming, as AI, ML or DL are based on both of them.
 
 The most liked resource on Mathematics in our group is [MIT course](https://ocw.mit.edu/courses/mathematics/18-657-mathematics-of-machine-learning-fall-2015/lecture-notes/MIT18_657F15_LecNote.pdf).
 
-## Step 2: Online Classes
+### Step 2: Online Classes
 Check where to start learning [Machine Learning](#ml-machine-learning) and [Deep Learning](#dl-deep-learning) in this Knowledge Base.
 
-## Step 3: Solve a Problem
+### Step 3: Solve a Problem
 Find a problem concerning this topic to play with and solve it. If you have no idea what problem to find, try [Kaggle](https://www.kaggle.com/).
-
----
 
 ## Frequently Asked Questions
 

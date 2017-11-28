@@ -41,13 +41,13 @@ If someone asks a question that has been already solved, just say them:
 
 ## Repeating Questions
 
-## Use Technique X with Language Y?
+### Use Technique X with Language Y?
 It seems obvious, yet some of the questions that can easily be solved by Google are still being asked. No matter how unique problem are you solving, there's always a great possibility someone was trying to solve it before you and that somewhere out there could already be multiple source codes concerning machine learning technique in your selected programming language. It's always good to try to search Github also.
 
-## Explain Concept X, List 3 Properties of Concept Y
+### Explain Concept X, List 3 Properties of Concept Y
 Try to Google it also. We are sorry, but we can't do your homework for you. And of course, if you've spent some time already googling the internets through, try to ask the question as thoroughly, yet simply, as you can. Add more context if needed. And of course, if you couldn't Google the term, it's fair to ask questions, we won't bite you.
 
-## Find an Idea for My AI Project, FYP, Thesis and Competition
+### Find an Idea for My AI Project, FYP, Thesis and Competition
 Firstly, don't be lazy. Coming up with an idea is part of the training if you decide to do a project, FYP, or write a thesis, or join a competition. In fact, if you decide to join an AI competition, it will be cheating if we are the ones who come up with the idea.
 
 But it's legit to ask *how you can come up with ideas*. Usually, there are two ways:
