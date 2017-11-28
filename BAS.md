@@ -17,19 +17,20 @@ Check where to start learning [Machine Learning](#ml-machine-learning) and [Deep
 ## Step 3: Solve a Problem
 Find a problem concerning this topic to play with and solve it. If you have no idea what problem to find, try [Kaggle](https://www.kaggle.com/).
 
+---
 
-# Frequently Asked Questions
+## Frequently Asked Questions
 
-## The difference between Deep Learning and Machine Learning
+### The difference between Deep Learning and Machine Learning
 
 Many people would lead you to believe it is a [matter of opinion](http://thegrandjanitor.com/2017/07/09/what-is-the-difference-between-deep-and-machine-learning/). But by definition Deep Learning should be part of a broader family of machine learning methods based on learning data representations, as opposed to task-specific algorithms.
 
-## I'm Bad at Math or Programming. Can I still learn it?
+### I'm Bad at Math or Programming. Can I still learn it?
 Mostly you can tag along, but at a certain point, if you don't understand the underlying Math, you won't be able to understand what you are doing. Same for programming, if you never implement one, or trace one yourself, you will never truly understand why an algorithm behaves a certain way.
 
 So what if you feel you are bad at Math? Don't beat yourself too much. Take [Barbara Oakley's class on Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn), you will learn more about tough subjects such as Mathematics, Physics, and Programming.
 
-## Recommended Programming Language
+### Recommended Programming Language
 In general, if you are working on a computer, you will need to switch between languages from time to time. So arguing about which language is better is not a wise thing. If we want to give the best advice, perhaps the answer is you should just learn as many of them as possible.
 
 Of course, your time is limited. So AIDL usually recommends Python as your first choice. Python is cited as a good language for AI/DL because it has the best support of libraries. Most ML libraries from python links with C/C++. So you get the best of both flexibility and speed.
