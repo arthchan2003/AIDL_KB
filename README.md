@@ -15,6 +15,7 @@ Our goal is to provide knowledge base for all AI&DL members and public.
   * [Computer Vision (CV)](KB/CV.md)
   * [Natural Language Processing (NLP)](KB/NLP.md)
   * [Speech (ASR)](KB/ASR.md)
+  * [Psychology and Neuroscience](KB/NEU.md)
   * [Scientific Papers](KB/SCI.md)
   * [Public Datasets](KB/DAT.md)
 * [How do I](HOW.md)
