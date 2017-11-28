@@ -3,7 +3,7 @@
 # Public Datasets
 <!-- Data taken from [Public Datasets related to Machine Learning from our members](https://www.facebook.com/groups/DeepNetGroup/permalink/394240667635488/) -->
 
-## Curated lists
+## Curated Lists
 * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 * [University of Waikato](https://www.cs.waikato.ac.nz/ml/weka/datasets.html)
 * [Deeplearning.net](http://deeplearning.net/datasets/)
