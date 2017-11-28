@@ -1,13 +1,13 @@
 # AI&DL Knowledge Base (AIDL_KB)
 
-This knowledge base is a curated list that is related to [the Facebook Group about Artificial Intelligence (AI) and Deep Learning (DL)](https://www.facebook.com/groups/DeepNetGroup/), in the abbreviated form AI&DL or AIDL. 
+This knowledge base is a curated list that is related to [the Facebook Group about Artificial Intelligence (AI) and Deep Learning (DL)](https://www.facebook.com/groups/DeepNetGroup/), in the abbreviated form AI&DL or AIDL.
 
-The goals of AIDL_KB are, 
+The goals of AIDL_KB are,
 
 * to serve as an alternative FAQ of [AIDL Facebook Community](https://www.facebook.com/groups/DeepNetGroup/) 's [pinned post](https://www.facebook.com/groups/DeepNetGroup/permalink/385843868475168/).  We also hope that this FAQ is updatable over time.  You can also think of it as a more complex version of **Frequently Asked Questions** (FAQ).
-* provide a Wikipedia style of knowledge base for all AIDL members and public. 
+* provide a Wikipedia style of knowledge base for all AIDL members and public.
 
-Other contents published by AIDL staffs. 
+Other contents published by AIDL staffs.
 
 * [AIDL Weekly Newsletter](http://aidl.io/)
 * [AIDL Office Hour](https://www.youtube.com/channel/UC3YM5TEbSqIpFGH85d6gjKg) Youtube channel
@@ -27,12 +27,12 @@ Other contents published by AIDL staffs.
         * [Step 2: Online Classes](#step-2-online-classes)
         * [Step 3: Solve a Problem](#step-3-solve-a-problem)
     * [Where To Learn](#where-to-learn)
-        * [PREREQ: Prerequisites](#prerequisites)
-        * [ML: Machine Learning](#machine-learning)
-        * [DL: Deep Learning](#deep-learning)
-        * [CV: Computer Vision](#computer-vision)
-        * [NLP: Natural Langauge Processing](#nlp)
-        * [ASR: Speech](#speech)
+        * [PRE: Prerequisites](#pre-prerequisites)
+        * [ML: Machine Learning](#ml-machine-learning)
+        * [DL: Deep Learning](#dl-deep-learning)
+        * [CV: Computer Vision](#cl-computer-vision)
+        * [NLP: Natural Langauge Processing](#nlp-natural-language-processing)
+        * [ASR: Speech](#asr-speech)
         * [Comparing Resources](#comparing-resources)
         * [Scientific Papers](#scientific-papers)
         * [Public Datasets](#public-datasets)
@@ -46,7 +46,6 @@ Other contents published by AIDL staffs.
       * [Explain Concept X, List 3 Properties of Concept Y](#explain-concept-x-list-3-properties-of-concept-y)
       * [Find an Idea for My AI Project, FYP, Thesis and Competition](#find-an-idea-for-my-ai-project-fyp-thesis-and-competition)
       * [Build a Chatbot](#build-a-chatbot)
-
 
 ## Group Etiquette
 
@@ -63,7 +62,7 @@ We **automatically delete** posts that are:
 
 **Except for Saturdays** we delete posts that are:
 - Promotion of another group, Facebook or similar,
-- Promotion of conferences, events or products, 
+- Promotion of conferences, events or products,
 - Job recruitment or solicitation,
 - Brand promotion: notice that any mentioning with your company name and brand within your post counted as a promotion.
 
@@ -77,21 +76,17 @@ Anything that is **already answered**:
 
 In case you are wondering why your "Thank you for acceptance" message has been instantly closed, before you're going to send us series of hand-picked angry emojis, just think about it. Our group with thousands of people can't manage to welcome every new member individually. And as an older member, imagine you'd read 50 thousands of "thank you" messages or more. That doesn't seem very enriching, right?
 
-
 #### Filtering Out Beginner Questions
 
 If you believe that other members are often asking boring questions, such as "How do I start at AI, ML, ANN..." and you'd like to filter these out, we'd like you to just stop for a minute and think about it.
 
 We are happy to spread knowledge of AI and deep learning to everyone in the world. And we believe that it's important to be nice to beginners. There's a saying: 5 minutes before you learn something, you don't know something.
 
-If someone asks a question that has been already solved, just say them: 
+If someone asks a question that has been already solved, just say them:
 
 *"Please take a look at this Knowledge Base part, you should have tons of ideas after reading them."*
 
-
-
 ## Frequently Asked Questions
-
 
 ### How To Learn
 
@@ -105,7 +100,7 @@ For even being able to start with, there's a necessity of having some background
 The most liked resource on Mathematics in our group is [MIT course](https://ocw.mit.edu/courses/mathematics/18-657-mathematics-of-machine-learning-fall-2015/lecture-notes/MIT18_657F15_LecNote.pdf).
 
 #### Step 2: Online Classes
-Check where to start learning [Machine Learning](#where--to--learn) and [Deep Learning](#where--to--learn) in this Knowledge Base.
+Check where to start learning [Machine Learning](#ml-machine-learning) and [Deep Learning](#dl-deep-learning) in this Knowledge Base.
 
 #### Step 3: Solve a Problem
 Find a problem concerning this topic to play with and solve it. If you have no idea what problem to find, try [Kaggle](https://www.kaggle.com/).
@@ -114,7 +109,7 @@ Find a problem concerning this topic to play with and solve it. If you have no i
 
 ### Where To Learn
 
-#### PREREQ: Prerequisites
+#### PRE: Prerequisites
 For Machine Learning mostly **Linear Algebra** and **Calculus I-III** are needed. In Linear Algebra, you should be good at eigenvectors and matrix operation. In Calculus, you should be quite comfortable with differentiation. You might also want to have a primer on matrix differentiation before you start because it's a topic which is seldom touched in an undergraduate curriculum.
 
 Some people are also arguing that Topology is important and having a Physics and Biology background could help. But they are not crucial to start.
@@ -123,6 +118,8 @@ Some people are also arguing that Topology is important and having a Physics and
 ##### Classes
 The most cited and recommended is [online course is from Andrew Ng](https://www.coursera.org/learn/machine-learning). Followed by [CalTech edX class](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x-0) and [UW Coursera Class specialization](https://www.coursera.org/specializations/machine-learning). If that's too difficult for you, you can try [beginner Udacity courses](https://www.udacity.com/courses/machine-learning).
 
+##### Books
+Many links you will see online are actually filled with non-free contents. Of course, you also want to download books legally. Here are honorable mentions: [10 Free Must-Read Books](https://www.kdnuggets.com/2017/04/10-free-must-read-books-machine-learning-data-science.html) followed with [60 Data Science Books](https://www.kdnuggets.com/2015/09/free-data-science-books.html). There's also [William Z. Chen curated list](http://www.wzchen.com/data-science-books/), [Michael Nielsen's ebook](http://neuralnetworksanddeeplearning.com/) or Ian Goodfellow and Yoshua Bengio and Aaron Courville's [Deep Learning's ebook](http://www.deeplearningbook.org/).
 
 #### DL: Deep Learning
 Firstly start with one or two Machine Learning classes, because Deep Learning is related to them and it will be easier for you. Then we recommend you checking [Andrew Ng's deeplearning.ai class](https://www.deeplearning.ai/). Then check all the [Geoffrey Hinton's resources](http://www.cs.toronto.edu/~hinton/nntut.html), [Andrew Karpathay's resources](http://cs.stanford.edu/people/karpathy/), [Richard Socher's publications](http://www.socher.org/), [Hugo Larochelle's research](https://research.google.com/pubs/105144.html) and [Nando de Freitas' texts](https://www.cs.ox.ac.uk/people/nando.defreitas/). For Deep Reinforcement Learning check out [David Silver's videos](http://rll.berkeley.edu/deeprlcourse/) and [John Schulman's lectures](http://joschu.net/).
@@ -133,7 +130,7 @@ Momentarily the most recommended resource for Deep Learning on Computer Vision i
 #### NLP: Natural Language Processing
 NLP one of the important area of research in AI. A good resource for NLP is [cs228](https://people.eecs.berkeley.edu/~klein/cs288/fa14/) it talks about statistical techniques and there application to NLP.
 
-#### ASR: Speech 
+#### ASR: Speech
 For audio the data requires different preprocessing, the course [cs224s](http://web.stanford.edu/class/cs224s/syllabus.html) can be good starting point.
 
 #### Comparing Resources
@@ -194,7 +191,7 @@ Firstly, don't be lazy. Coming up with an idea is part of the training if you de
 
 But it's legit to ask *how you can come up with ideas*. Usually, there are two ways:
 
-1. Go to check out other people's idea, then twist it. 
+1. Go to check out other people's idea, then twist it.
 2. Go to solve a problem that you feel about. e.g. a lot of science project winners won because their loved ones have diseases. And a deep learning-based approach helps the process to diagnose the problem.
 
 If you are out of ideas, then consider few things:
@@ -204,6 +201,3 @@ If you are out of ideas, then consider few things:
 3. Don't work on a technical problem for a while and do some artsy stuff.
 
 All three methods can give you a lot of inspirations.
-
----
-
