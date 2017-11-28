@@ -1,3 +1,3 @@
-[← Back to overview](../../../README.md)
+[← Back to overview](../../../)
 
 Firstly start with one or two Machine Learning classes, because Deep Learning is related to them and it will be easier for you. Then we recommend you checking [Andrew Ng's deeplearning.ai class](https://www.deeplearning.ai/). Then check all the [Geoffrey Hinton's resources](http://www.cs.toronto.edu/~hinton/nntut.html), [Andrew Karpathay's resources](http://cs.stanford.edu/people/karpathy/), [Richard Socher's publications](http://www.socher.org/), [Hugo Larochelle's research](https://research.google.com/pubs/105144.html) and [Nando de Freitas' texts](https://www.cs.ox.ac.uk/people/nando.defreitas/). For Deep Reinforcement Learning check out [David Silver's videos](http://rll.berkeley.edu/deeprlcourse/) and [John Schulman's lectures](http://joschu.net/).
