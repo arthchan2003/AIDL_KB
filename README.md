@@ -1,31 +1,37 @@
-# AI&DL Knowledge Base
+# AI&DL Knowledge Base (AIDL_KB)
 
-This knowledge base is a curated list that is related to [the Facebook Group about Artificial Intelligence (AI) and Deep Learning (DL)](https://www.facebook.com/groups/DeepNetGroup/), in the abbreviated form AI&DL or AIDL. It's basically a more complex version of **Frequently Asked Questions** (FAQ).
+This knowledge base is a curated list that is related to [the Facebook Group about Artificial Intelligence (AI) and Deep Learning (DL)](https://www.facebook.com/groups/DeepNetGroup/), in the abbreviated form AI&DL or AIDL. 
 
-As [AIDL Facebook community](https://www.facebook.com/groups/DeepNetGroup/) is in the simplicity **one big forum** with currently more than 60 thousands users where the main content is the discussion about all themes concerning Artificial Intelligence and Deep Learning, we want to keep the repeating questions outside the group, as the answers to these questions are similarly repeating, being itself an unnecessary noise in the group and preventing members from focusing on other things.
+The goals of AIDL_KB are, 
 
-If you'd like to find info that's not discussion related, you can try other AI content we publish:
+* to serve as an alternative FAQ of [AIDL Facebook Community](https://www.facebook.com/groups/DeepNetGroup/) 's pinned post.  We also hope that this FAQ is updatable over time.  You can also think of it as a more complex version of **Frequently Asked Questions** (FAQ).
+* provide a Wikipedia style of knowledge base for all AIDL members and public. 
+
+Other contents published by 
 
 * [AIDL Weekly Newsletter](http://aidl.io/)
 * [AIDL Office Hour](https://www.youtube.com/channel/UC3YM5TEbSqIpFGH85d6gjKg) Youtube channel
-
 
 ## Contents
 
 * [Group Etiquette](#group-etiquette)
     * [Be Relevant](#be-relevant)
-    * [What Not to Write](#what-not-to-write)
+    * [What Not to Write at AIDL](#what-not-to-write)
+    * [Group Related Questions](#group-related-questions)
+       * [Thanking for Acceptance](#thanking-for-acceptance)
+       * [Filtering Out Beginners Questions](#filtering-out-beginners-questions)
+
 * [Frequently Asked Questions](#frequently-asked-questions)
     * [How To Learn](#how-to-learn)
         * [Step 1: Math and Programming](#step-1-math-and-programming)
         * [Step 2: Online Classes](#step-2-online-classes)
         * [Step 3: Solve a Problem](#step-3-solve-a-problem)
     * [Where To Learn](#where-to-learn)
-        * [Prerequisites](#prerequisites)
-        * [Machine Learning](#machine-learning)
-        * [Deep Learning](#deep-learning)
-        * [Computer Vision](#computer-vision)
-        * [NLP](#nlp)
+        * [PREREQ: Prerequisites](#prerequisites)
+        * [ML: Machine Learning](#machine-learning)
+        * [DL: Deep Learning](#deep-learning)
+        * [CV: Computer Vision](#computer-vision)
+        * [NLP: Natural Langauge Processing](#nlp)
         * [Speech](#speech)
         * [Comparing Resources](#comparing-resources)
         * [Scientific Papers](#scientific-papers)
@@ -36,14 +42,11 @@ If you'd like to find info that's not discussion related, you can try other AI c
       * [I'm Bad at Math or Programming. Can I still learn it?](#im-bad-at-math-or-programming-can-i-still-learn-it)
       * [Recommended Programming Language](#recommended-programming-language)
     * [How do I](#how-do-i)
-      * [Build a Chatbot](#build-a-chatbot)
       * [Use Technique X with Language Y?](#use-technique-x-with-language-y)
       * [Explain Concept X, List 3 Properties of Concept Y](#explain-concept-x-list-3-properties-of-concept-y)
       * [Find an Idea for My AI Project, FYP, Thesis and Competition](#find-an-idea-for-my-ai-project-fyp-thesis-and-competition)
-    * [Group Related Questions](#group-related-questions)
-      * [Thanking for Acceptance](#thanking-for-acceptance)
-      * [Filtering Out Beginners Questions](#filtering-out-beginners-questions)
-      * [Joining AIDL Literature Discussion Subgroup](#joining-aidl-literature-discussion-subgroup)
+      * [Build a Chatbot](#build-a-chatbot)
+
 
 
 ## Group Etiquette
@@ -68,6 +71,24 @@ We **automatically delete** posts that are:
 Anything that is **already answered**:
 - Questions that are answered in this Knowledge Base, e.g. "How do I learn deep learning or AI?"
 - Questions which can be answered easily by Googling
+
+### Group Related Questions
+
+#### Thanking for Acceptance
+
+In case you are wondering why your "Thank you for acceptance" message has been instantly closed, before you're going to send us series of hand-picked angry emojis, just think about it. Our group with thousands of people can't manage to welcome every new member individually. And as an older member, imagine you'd read 50 thousands of "thank you" messages or more. That doesn't seem very enriching, right?
+
+
+#### Filtering Out Beginner Questions
+
+If you believe that other members are often asking boring questions, such as "How do I start at AI, ML, ANN..." and you'd like to filter these out, we'd like you to just stop for a minute and think about it.
+
+We are happy to spread knowledge of AI and deep learning to everyone in the world. And we believe that it's important to be nice to beginners. There's a saying: 5 minutes before you learn something, you don't know something.
+
+If someone asks a question that has been already solved, just say them: 
+
+*"Please take a look at this Knowledge Base part, you should have tons of ideas after reading them."*
+
 
 
 ## Frequently Asked Questions
@@ -190,22 +211,3 @@ All three methods can give you a lot of inspirations.
 
 ---
 
-### Group Related Questions
-
-#### Thanking for Acceptance
-
-In case you are wondering why your "Thank you for acceptance" message has been instantly closed, before you're going to send us series of hand-picked angry emojis, just think about it. Our group with thousands of people can't manage to welcome every new member individually. And as an older member, imagine you'd read 50 thousands of "thank you" messages or more. That doesn't seem very enriching, right?
-
-
-#### Filtering Out Beginner Questions
-
-If you believe that other members are often asking boring questions, such as "How do I start at AI, ML, ANN..." and you'd like to filter these out, we'd like you to just stop for a minute and think about it.
-
-We are happy to spread knowledge of AI and deep learning to everyone in the world. And we believe that it's important to be nice to beginners. There's a saying: 5 minutes before you learn something, you don't know something.
-
-If someone asks a question that has been already solved, just say them: 
-
-*"Please take a look at this Knowledge Base part, you should have tons of ideas after reading them."*
-
-#### Joining AIDL Literature Discussion Subgroup
-Hint: Rule 1 of AIDL-LD is *"If you don't read, you won't survive here for long."* It's also not recommended for beginners.
