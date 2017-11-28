@@ -32,7 +32,7 @@ Other contents published by
         * [DL: Deep Learning](#deep-learning)
         * [CV: Computer Vision](#computer-vision)
         * [NLP: Natural Langauge Processing](#nlp)
-        * [Speech](#speech)
+        * [ASR: Speech](#speech)
         * [Comparing Resources](#comparing-resources)
         * [Scientific Papers](#scientific-papers)
         * [Public Datasets](#public-datasets)
@@ -115,28 +115,26 @@ Find a problem concerning this topic to play with and solve it. If you have no i
 
 ### Where To Learn
 
-#### Prerequisites
+#### PREREQ: Prerequisites
 For Machine Learning mostly **Linear Algebra** and **Calculus I-III** are needed. In Linear Algebra, you should be good at eigenvectors and matrix operation. In Calculus, you should be quite comfortable with differentiation. You might also want to have a primer on matrix differentiation before you start because it's a topic which is seldom touched in an undergraduate curriculum.
 
 Some people are also arguing that Topology is important and having a Physics and Biology background could help. But they are not crucial to start.
 
-#### Machine Learning
+#### ML: Machine Learning
 ##### Classes
 The most cited and recommended is [online course is from Andrew Ng](https://www.coursera.org/learn/machine-learning). Followed by [CalTech edX class](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x-0) and [UW Coursera Class specialization](https://www.coursera.org/specializations/machine-learning). If that's too difficult for you, you can try [beginner Udacity courses](https://www.udacity.com/courses/machine-learning).
 
-##### Books
-Many links you will see online are actually filled with non-free contents. Of course, you also want to download books legally. Here are honorable mentions: [10 Free Must-Read Books](https://www.kdnuggets.com/2017/04/10-free-must-read-books-machine-learning-data-science.html) followed with [60 Data Science Books](https://www.kdnuggets.com/2015/09/free-data-science-books.html). There's also [William Z. Chen curated list](http://www.wzchen.com/data-science-books/), [Michael Nielsen's ebook](http://neuralnetworksanddeeplearning.com/) or Ian Goodfellow and Yoshua Bengio and Aaron Courville's [Deep Learning's ebook](http://www.deeplearningbook.org/).
 
-#### Deep Learning
+#### DL: Deep Learning
 Firstly start with one or two Machine Learning classes, because Deep Learning is related to them and it will be easier for you. Then we recommend you checking [Andrew Ng's deeplearning.ai class](https://www.deeplearning.ai/). Then check all the [Geoffrey Hinton's resources](http://www.cs.toronto.edu/~hinton/nntut.html), [Andrew Karpathay's resources](http://cs.stanford.edu/people/karpathy/), [Richard Socher's publications](http://www.socher.org/), [Hugo Larochelle's research](https://research.google.com/pubs/105144.html) and [Nando de Freitas' texts](https://www.cs.ox.ac.uk/people/nando.defreitas/). For Deep Reinforcement Learning check out [David Silver's videos](http://rll.berkeley.edu/deeprlcourse/) and [John Schulman's lectures](http://joschu.net/).
 
-#### Computer Vision
+#### CV: Computer Vision
 Momentarily the most recommended resource for Deep Learning on Computer Vision is the [cs231n](http://cs231n.stanford.edu/), most of the other resources are either derivative or have glaring problems.
 
-#### NLP
+#### NLP: Natural Language Processing
 NLP one of the important area of research in AI. A good resource for NLP is [cs228](https://people.eecs.berkeley.edu/~klein/cs288/fa14/) it talks about statistical techniques and there application to NLP.
 
-#### Speech 
+#### ASR: Speech 
 For audio the data requires different preprocessing, the course [cs224s](http://web.stanford.edu/class/cs224s/syllabus.html) can be good starting point.
 
 #### Comparing Resources
@@ -147,7 +145,6 @@ There is a curated list from Terry Taewoong Um that [curates the most cited deep
 
 #### Public Datasets
 Take a look at the collection of the [Public Datasets related to Machine Learning from our members](https://www.facebook.com/groups/DeepNetGroup/permalink/394240667635488/).
-
 
 ---
 
