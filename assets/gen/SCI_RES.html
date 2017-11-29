@@ -7,10 +7,10 @@
   <title>Generate Markdown Table of AIDL Related Researchers</title>
 </head>
 <body>
-  <pre id="generated_table">For this script to work, your browser needs Allow-Control-Allow-Origin: *. If you're using Chrome, you can <a href="https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi">solve it with an extension</a>.</pre>
+  <textarea id="generated_table" style="width:100%;height:95vh;">For this script to work, your browser needs Allow-Control-Allow-Origin: *. If you're using Chrome, you can <a href="https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi">solve it with an extension</a>.</textarea>
 
   <script type="text/javascript">
-    
+
     var authors = [
       ["km6CP8cAAAAJ", "Aaron Courville", ""],
       ["tJ_PrzgAAAAJ", "Abdelrahman Mohamed", ""],
@@ -131,7 +131,7 @@
 
         // note: query selector could possibly change with Google Scholar redesign
         author_name = data_html.querySelector('#gsc_prf_in').innerText;
-        citations_nuber = data_html.querySelector('.gsc_rsb_std').innerText; 
+        citations_nuber = data_html.querySelector('.gsc_rsb_std').innerText;
         author_organisation = data_html.querySelector('.gsc_prf_il').innerText;
 
         // todo: this gets messy, maybe there's better way to get the ID
@@ -159,14 +159,23 @@
 
       console.log(table_data);
 
+      var overLimit = 0;
+
       for (var i = 0; i < table_data.length; i++) {
 
         var link = "https://scholar.google.com/citations?user="+ table_data[i]["id"];
         link = link.replace("undefined","");
 
+        var number = Number(table_data[i]["cited"])
+        if (number < 5000) {
+          if (overLimit == 0) {
+            overLimit = 1;
+            table = table + "<details>\n<summary>Researchers with less thank 5000 citations</summary>\n\n";
+          }
+        }
         table = table + "["+table_data[i]["name"] +"]("+link+")" + " | " + table_data[i]["org"] + " | " + table_data[i]["cited"] + "\n";
       }
-
+      table = table + "</details>\n\n";
       document.querySelector("#generated_table").innerHTML = table;
     }
 

@@ -64,6 +64,9 @@ Author | Organization | Citations
 [Benjamin Schrauwen](https://scholar.google.com/citations?user=i6gy5ZQAAAAJ) | Professor of Machine Learning, Ghent University | 5706
 [Dan Ciresan](https://scholar.google.com/citations?user=dayrypAAAAAJ) | Conndera Research | 5439
 [Andriy Mnih](https://scholar.google.com/citations?user=mxiO4IkAAAAJ) | DeepMind | 5381
+<details>
+<summary>Researchers with less thank 5000 citations</summary>
+
 [Volodymyr Mnih](https://scholar.google.com/citations?user=rLdfJ1gAAAAJ) | DeepMind | 4959
 [Nicolas Le Roux](https://scholar.google.com/citations?user=LmKtwk8AAAAJ) | Research scientist at Google Brain | 3925
 [Clement Farabet](https://scholar.google.com/citations?user=u3u16tgAAAAJ) | Research Scientist, New York University | 3857
@@ -105,3 +108,6 @@ Author | Organization | Citations
 [Ludovic Arnold](https://scholar.google.com/citations?user=L_DONWwAAAAJ) | INRIA TAO, LRI-LIMSI CNRS, Université Paris-Sud | 145
 [David P. Reichert](https://scholar.google.com/citations?user=979Clr8AAAAJ) | Google DeepMind | 138
 [Robert Coop](https://scholar.google.com/citations?user=lxaOJX8AAAAJ) | Machine Intelligence Lab, University of Tennessee at Knoxville | 118
+</details>
+
+Source: [Awesome DL](https://github.com/ChristosChristofidis/awesome-deep-learning#researchers), Scholar: [DL](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label%3Adeep_learning&btnG=), [ML](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label%3Amachine_learning&btnG=), [AI](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label%3artificial_intelligence&btnG=)
