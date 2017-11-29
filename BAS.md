@@ -7,20 +7,22 @@ Are you asking yourself "How do I start in Artificial Intelligence, Machine Lear
 In short, just iterate **three steps** mentioned here until you'll become professional or you'll get your Nobel Price in AI. For even more thorough info, Arthur Chan has made [an article how to start learning](http://thegrandjanitor.com/2016/08/15/learning-deep-learning-my-top-five-resource/) AI&DL.
 
 ### Step 1: Math and Programming
-For even being able to start with, there's a necessity of having some background in Mathematics (such as linear algebra, probability, statistics and calculus) and being able to understand basic programming, as AI, ML or DL are based on both of them.
-
-The most liked resource on Mathematics in our group is [MIT course](https://ocw.mit.edu/courses/mathematics/18-657-mathematics-of-machine-learning-fall-2015/lecture-notes/MIT18_657F15_LecNote.pdf).
+For even being able to start with, there's a necessity of having some background in [Mathematics](KB/PRE_MAT.md) (such as linear algebra, probability, statistics and calculus) and being able to understand basic [programming](KB/PRE_PRG.md), as AI, ML or DL are based on both of them.
 
 ### Step 2: Online Classes
-Check where to start learning [Machine Learning](#ml-machine-learning) and [Deep Learning](#dl-deep-learning) in this Knowledge Base.
+Check where to start learning [Machine Learning](KB/ML.md) and [Deep Learning](KB/DL.md) in this Knowledge Base.
 
 ### Step 3: Solve a Problem
 Find a problem concerning this topic to play with and solve it. If you have no idea what problem to find, try [Kaggle](https://www.kaggle.com/).
 
 ## Frequently Asked Questions
 
-### The difference between Deep Learning and Machine Learning
+### The difference between...
 
+#### Artificial Intelligence and Machine Learning
+In short Machine Learning (ML) is a sub-field of Artificial Intelligence (AI). AI is the intelligence displayed by machines (in contrast humans or animals are using natural intelligence). In a general usage sense, AI is "anything that computers can possibly do, even in the future". ML is a specific set of techniques that gives computers the ability to learn without being explicitly programmed. It usually involves big batches of data and finding ways how to train or code an "intelligent system" that will process such data.
+
+#### Machine Learning and Deep Learning
 Many people would lead you to believe it is a [matter of opinion](http://thegrandjanitor.com/2017/07/09/what-is-the-difference-between-deep-and-machine-learning/). But by definition Deep Learning should be part of a broader family of machine learning methods based on learning data representations, as opposed to task-specific algorithms.
 
 ### I'm Bad at Math or Programming. Can I still learn it?
