@@ -14,6 +14,7 @@
 
 <details>
 <summary>Other useful resources</summary>
+
 #### Interesting
 * [Why we have blind spots - and how to see the blood vessels inside your own eye](https://youtu.be/L_W-IXqoxHA)
 * [Example of the motion aftereffect](https://strobe.cool/)
