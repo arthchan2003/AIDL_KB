@@ -17,16 +17,16 @@ All datasets mentioned here are free for research and educational purposes.
 ## Databases
 Description | DS Size | Formats
 ----------- | ------- | -------
+[Research Google](https://research.google.com/audioset/) | 2.1M | .csv, YouTube urls
 [Kaggle](https://www.kaggle.com/datasets) | 5k+ | -
 [AWS public Datasets](https://aws.amazon.com/ru/datasets/) | k+ | -
 [UCI](http://archive.ics.uci.edu/ml/index.php) | k+ | -
-[Research Google](https://research.google.com/audioset/) | 2.1M | .csv, YouTube urls
 
 ### Speech
 Description | DS Size | Formats
 ----------- | ------- | -------
-[The CMU Audio Databases](http://www.speech.cs.cmu.edu/databases/an4/) | 1k | .raw
 [VoxForge](http://www.voxforge.org/home/) | 10k+ | -
+[The CMU Audio Databases](http://www.speech.cs.cmu.edu/databases/an4/) | 1k | .raw
 
 ### Vision
 Description | DS Size | Formats
@@ -47,20 +47,20 @@ Description | DS Size | Formats
 [OULU dataset](http://www.oulu.fi/cmvs/node/33019) of eyegazing, face expressions | ~20k | -
 [Berkeley Segmentation DS](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/) | 12k | .cdr
 [Traffic Image Sequences](http://i21www.ira.uka.de/image_sequences/) | 8k | grayscale .gif
-[AR Face Database](http://www2.ece.ohio-state.edu/~aleix/ARdatabase.html) | 4k | .raw, .avi
 [Sign Language Recognition](http://www-i6.informatik.rwth-aachen.de/~dreuw/database.php) | 5k | img
+[AR Face Database](http://www2.ece.ohio-state.edu/~aleix/ARdatabase.html) | 4k | .raw, .avi
 [Fingerprint database](http://bias.csr.unibo.it/fvc2000/databases.asp) | <1k | grayscale .gif
 
 
 ### Social Media and Communication
 Description | DS Size | Formats
 ----------- | ------- | -------
-[Microsoft's Social Media Conversation Corpus](http://www.microsoft.com/downloads/details.aspx?displaylang=en&FamilyID=9d5ec23b-f748-48a0-9b23-399d55329b47) | 12k tweets | .txt
-[Fictional Conversations Extracted from Raw Movie Scripts](http://www.cs.cornell.edu/~cristian//Cornell_Movie-Dialogs_Corpus.html) | 220k conversations | .txt
 [Question Answering Corpus](https://github.com/deepmind/rc-data) | 1M+ Q&A | .txt, .html
+[Fictional Conversations Extracted from Raw Movie Scripts](http://www.cs.cornell.edu/~cristian//Cornell_Movie-Dialogs_Corpus.html) | 220k conversations | .txt
+[Microsoft's Social Media Conversation Corpus](http://www.microsoft.com/downloads/details.aspx?displaylang=en&FamilyID=9d5ec23b-f748-48a0-9b23-399d55329b47) | 12k tweets | .txt
 
 ### Medicine
 Description | DS Size | Formats
 ----------- | ------- | -------
-[Bone and joint CT scan images](https://isbweb.org/data/vsj/) | - | .dcm
 [University of South Florida Digital Mammography](http://marathon.csee.usf.edu/Mammography/Database.html) | 2620 cases | .ics
+[Bone and joint CT scan images](https://isbweb.org/data/vsj/) | - | .dcm
