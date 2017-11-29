@@ -11,6 +11,8 @@
 * [Google Scholar Alert Query](https://scholar.google.com/scholar_alerts?view_op=create_alert_options&alert_query=%22machine+learning%22+or+%22deep+learning%22+or+%22neural+network%22+or+%22artificial+intelligence%22)
 
 ## Researchers to follow
+<!-- This part is generated automatically. If you want to add or remove any author, check out file assets/gen/SCI_RES.html, update it, open it in your browser locally and copy the newly generated markdown syntax here. -->
+Author | Organization | Citations
 ------ | ------------ | ---------
 [Geoffrey Hinton](https://scholar.google.com/citations?user=JicYPdAAAAAJ) | Emeritus Professor of Computer Science, University of Toronto & Engineering Fellow, Google Inc. | 193046
 [Yoshua Bengio](https://scholar.google.com/citations?user=kukA0LcAAAAJ) | Professor, U. Montreal (Computer Sc. & Op. Res.), MILA, CIFAR, CRM, REPARTI, GRSNC | 88510
