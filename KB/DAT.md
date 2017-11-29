@@ -11,18 +11,26 @@
 * [Yahoo](https://webscope.sandbox.yahoo.com/)
 
 ## Databases
-* [Kaggle](https://www.kaggle.com/datasets), aprox. 5000
-* [AWS public Datasets](https://aws.amazon.com/ru/datasets/), in thousands
-* [UCI](http://archive.ics.uci.edu/ml/datasets.html), aprox. 400
+Description | Size | Formats
+----------- | ---- | -------
+[Kaggle](https://www.kaggle.com/datasets) | 5k+ | -
+[AWS public Datasets](https://aws.amazon.com/ru/datasets/) | k+ | -
+[UCI](http://archive.ics.uci.edu/ml/datasets.html) | ~400 | -
+[Research Google](https://research.google.com/audioset/) | 2.1M | .csv, YouTube links
 
-## Speech
-* [The CMU Audio Databases](http://www.speech.cs.cmu.edu/databases/an4/)
-* [VoxForge](http://www.voxforge.org/home/)
-* [Research Google](https://research.google.com/audioset/)
+### Speech
+Description | Size | Formats
+----------- | ---- | -------
+[The CMU Audio Databases](http://www.speech.cs.cmu.edu/databases/an4/) | 1k | .raw
+[VoxForge](http://www.voxforge.org/home/) | 10k+ | -
 
-## Social Media and Communication
-* [Microsoft's Social Media Conversation Corpus](https://www.microsoft.com/en-us/download/details.aspx?id=52375&from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fdownloads%2F6096d3da-0c3b-42fa-a480-646929aa06f1%2F)
-* [Fictional Conversations Extracted from Raw Movie Scripts](http://www.cs.cornell.edu/~cristian//Cornell_Movie-Dialogs_Corpus.html)
+### Social Media and Communication
+Description | Size | Formats
+----------- | ---- | -------
+[Microsoft's Social Media Conversation Corpus](http://www.microsoft.com/downloads/details.aspx?displaylang=en&FamilyID=9d5ec23b-f748-48a0-9b23-399d55329b47) | 12k tweets | .txt
+[Fictional Conversations Extracted from Raw Movie Scripts](http://www.cs.cornell.edu/~cristian//Cornell_Movie-Dialogs_Corpus.html) | 220k conversations | .txt
 
-## Medicine
-* [Bone CT scan images](https://isbweb.org/data/vsj/)
+### Medicine
+Description | Size | Formats
+----------- | ---- | -------
+[Bone and joint CT scan images](https://isbweb.org/data/vsj/) | - | .dcm
