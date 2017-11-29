@@ -65,7 +65,7 @@ Author | Organization | Citations
 [Dan Ciresan](https://scholar.google.com/citations?user=dayrypAAAAAJ) | Conndera Research | 5439
 [Andriy Mnih](https://scholar.google.com/citations?user=mxiO4IkAAAAJ) | DeepMind | 5381
 <details>
-<summary>Researchers with less thank 5000 citations</summary>
+<summary>Researchers with less than 5000 citations</summary>
 
 Author | Organization | Citations
 ------ | ------------ | ---------
