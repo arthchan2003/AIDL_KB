@@ -20,18 +20,18 @@
 * [Example of the motion aftereffect](https://strobe.cool/)
 
 #### Keywords
-* Sensory Organs
-* Theories of Color Vision
-* Psychophysics
-* Eyetracking
-* Theories of Vision
-* Pattern Recognition
-* Object Recognition
-* Space Perception Cues
-* Gestalt Theories
-* Marr Theories
-* Biedermann Theories
-* Gibson theories
+* [Sensory Organs](https://en.wikipedia.org/wiki/Sense)
+* [Theories of Color Vision](http://psych.ucalgary.ca/PACE/VA-Lab/colourperceptionweb/theories.htm)
+* [Psychophysics](https://en.wikipedia.org/wiki/Psychophysics)
+* [Eye Tracking](https://en.wikipedia.org/wiki/Eye_tracking)
+* [Theories of Vision](http://www.socsci.uci.edu/~pjmaddy/bio/vision%20theory%2015-16.pdf)
+* [Pattern Recognition](https://en.wikipedia.org/wiki/Pattern_recognition)
+* [Object Recognition](https://en.wikipedia.org/wiki/Outline_of_object_recognition)
+* [Depth perception](https://en.wikipedia.org/wiki/Depth_perception)
+* [Gestalt Theory](https://en.wikipedia.org/wiki/Gestalt_psychology)
+* [David Marr Theory](https://en.wikipedia.org/wiki/David_Marr_(neuroscientist)#Theories_of_cerebellum.2C_hippocampus.2C_and_neocortex)
+* [Recognition-by-components theory (Biedermann Theory)](https://en.wikipedia.org/wiki/Recognition-by-components_theory)
+* [James J. Gibson Theory](https://en.wikipedia.org/wiki/James_J._Gibson#Gibson.27s_approach_to_visual_perception)
 </details>
 
 ### Psychological Theories of Memory
