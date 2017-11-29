@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="author" content="Jan Šablatura">
+  <title>Generate Markdown Table of AIDL Related Researchers</title>
+</head>
+<body>
+  <textarea id="generated_table" style="width:100%;height:95vh;">For this script to work, your browser needs Allow-Control-Allow-Origin: *. If you're using Chrome, you can <a href="https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi">solve it with an extension</a>.</textarea>
+
+  <script type="text/javascript">
+
+    var authors = [
+      ["km6CP8cAAAAJ", "Aaron Courville", ""],
+      ["tJ_PrzgAAAAJ", "Abdelrahman Mohamed", ""],
+      ["bLUllHEAAAAJ", "Adam Coates", ""],
+      ["YdNmnJAAAAAJ", "Alex Acero", ""],
+      ["xegzhJcAAAAJ", "Alex Krizhevsky", ""],
+      ["i2gcTBQAAAAJ", "Alexander Ilin", ""],
+      ["3Rlc8EAAAAAJ", "Amos Storkey", ""],
+      ["l8WuQJgAAAAJ", "Andrej Karpathy", ""],
+      ["h0Al1fcAAAAJ", "Andrew M. Saxe", ""],
+      ["JgDKULMAAAAJ", "Andrew Ng", "Chief scientist at Baidu"],
+      ["17fLjgQAAAAJ", "Andrew W. Senior", ""],
+      ["mxiO4IkAAAAJ", "Andriy Mnih", ""],
+      ["spAJDzYAAAAJ", "Ayse Naz Erkan", ""],
+      ["i6gy5ZQAAAAJ", "Benjamin Schrauwen", ""],
+      ["iASQcSYAAAAJ", "Bernardete Ribeiro", ""],
+      ["uv16_-UAAAAJ", "Bo David Chen", ""],
+      ["GfcBlpUAAAAJ", "Boureau Y-Lan", ""],
+      ["iJENOG8AAAAJ", "Brian Kingsbury", ""],
+      ["1zmDOdwAAAAJ", "Christopher Manning", ""],
+      ["u3u16tgAAAAJ", "Clement Farabet", ""],
+      ["dayrypAAAAAJ", "Dan Claudiu Cireșan", ""],
+      ["979Clr8AAAAJ", "David Reichert", ""],
+      ["t6XbFvoAAAAJ", "Derek Rose", ""],
+      ["tMY31_gAAAAJ", "Dong Yu", ""],
+      ["b9eguPMAAAAJ", "Erik M. Schmidt", ""],
+      ["SeGmqkIAAAAJ", "Eugenio Culurciello", ""],
+      ["JicYPdAAAAAJ", "Geoffrey Hinton", ""],
+      ["ghbWy-0AAAAJ", "George Dahl", ""],
+      ["PUeKU8kAAAAJ", "Graham Taylor", ""],
+      ["A979AbYAAAAJ", "Grégoire Montavon", ""],
+      ["Yxv1EwcAAAAJ", "Guillaume Desjardins", ""],
+      ["tg-4hxoAAAAJ", "Hannes Schulz", ""],
+      ["3k-3KTEAAAAJ", "Hélène Paugam-Moisy", ""],
+      ["fmSHtE8AAAAJ", "Honglak Lee", ""],
+      ["U89FHq4AAAAJ", "Hugo Larochelle", ""],
+      ["x04W_mMAAAAJ", "Ilya Sutskever", ""],
+      ["wivIgKkAAAAJ", "Itamar Arel", ""],
+      ["lOPN3sgAAAAJ", "Jason Morton", ""],
+      ["lMkTx0EAAAAJ", "Jason Weston", ""],
+      ["NMS69lQAAAAJ", "Jeff Dean", ""],
+      ["eQ1uJ6UAAAAJ", "Joseph Turian", ""],
+      ["Sv2TGqsAAAAJ", "Joshua Matthew Susskind", ""],
+      ["gLnCTgIAAAAJ", "Jürgen Schmidhuber", ""],
+      ["3zmF1OUAAAAJ", "Justin A. Blanco", ""],
+      ["sGFyDIUAAAAJ", "Koray Kavukcuoglu", ""],
+      ["0RAmmIAAAAAJ", "KyungHyun Cho", ""],
+      ["GQWTo4MAAAAJ", "Li Deng", ""],
+      ["dgVYYngAAAAJ", "Lucas Theis", ""],
+      ["L_DONWwAAAAJ", "Ludovic Arnold", ""],
+      ["NbXF7T8AAAAJ", "Marc'Aurelio Ranzato", ""],
+      ["004-TPIAAAAJ", "Martin Längkvist", ""],
+      ["XrKLUO0AAAAJ", "Misha Denil", ""],
+      ["Lncr-VoAAAAJ", "Mohammad Norouzi", ""],
+      ["nzEluBwAAAAJ", "Nando de Freitas", ""],
+      ["kjMNMLkAAAAJ", "Navdeep Jaitly", ""],
+      ["LmKtwk8AAAAJ", "Nicolas Le Roux", ""],
+      ["s1PgoeUAAAAJ", "Nitish Srivastava", ""],
+      ["r-sBYDMAAAAJ", "Noel Lopes", ""],
+      ["NkzyCvUAAAAJ", "Oriol Vinyals", ""],
+      ["WBCKQMsAAAAJ", "Pascal Vincent", ""],
+      ["38fqeIYAAAAJ", "Patrick Nguyen", ""],
+      ["KOrhfVMAAAAJ", "Pedro Domingos", ""],
+      ["JeZz1LMAAAAJ", "Peggy Series", ""],
+      ["0nPi5YYAAAAJ", "Pierre Sermanet", ""],
+      ["uKXVH54AAAAJ", "Piotr Mirowski", ""],
+      ["vfT6-XIAAAAJ", "Quoc V. Le", ""],
+      ["E_wVwfUAAAAJ", "Reinhold Scherer", ""],
+      ["FaOcyfMAAAAJ", "Richard Socher", ""],
+      ["GgQ9GEkAAAAJ", "Rob Fergus", ""],
+      ["lxaOJX8AAAAJ", "Robert Coop", ""],
+      ["8cZgFK4AAAAJ", "Robert Gens", ""],
+      ["xgQd1qgAAAAJ", "Roger Grosse", ""],
+      ["32w7x1cAAAAJ", "Ronan Collobert", ""],
+      ["ITZ1e7MAAAAJ", "Ruslan Salakhutdinov", ""],
+      ["PyWwPZkAAAAJ", "Sebastian Gerwinn", ""],
+      ["g_YTmSgAAAAJ", "Stéphane Mallat", ""],
+      ["1xx3X_0AAAAJ", "Sven Behnke", ""],
+      ["-aNI9zwAAAAJ", "Tapani Raiko", ""],
+      ["aMeteU4AAAAJ", "Tara Sainath", ""],
+      ["YGGcq5EAAAAJ", "Tijmen Tieleman", ""],
+      ["P2efpbAAAAAJ", "Tom Karnowski", ""],
+      ["oBu8kMMAAAAJ", "Tomáš Mikolov", ""],
+      ["T7uctwYAAAAJ", "Vincent Vanhoucke", ""],
+      ["rLdfJ1gAAAAJ", "Volodymyr Mnih", ""],
+      ["WLN3QrAAAAAJ", "Yann LeCun", ""],
+      ["kukA0LcAAAAJ", "Yoshua Bengio", ""],
+      ["3PgqOjkAAAAJ", "Yotaro Kubo", ""],
+      ["oeSqx00AAAAJ", "Youzhi (Will) Zou", ""],
+      ["rDfyQnIAAAAJ", "Fei-Fei Li", ""],
+      ["iYN86KEAAAAJ", "Ian Goodfellow", ""],
+      ["59ohye8AAAAJ", "Robert Laganière", ""],
+    ]
+
+    var header = "Author | Organization | Citations \n"
+               + "------ | ------------ | --------- \n";
+    var table = header;
+    var table_data = [];
+    var timeout;
+
+    function reset_timeout() {
+      clearTimeout(timeout);
+      timeout = setTimeout(function(){ generate_table() }, 1000);
+    }
+
+    function toTitleCase(str) {
+      return str.replace(/\w\S*/g, function(txt){return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();});
+    }
+
+    for (var i = 0; i < authors.length; i++) {
+
+      var url_base = "https://scholar.google.com/citations?hl=en&user=";
+      var url = url_base + authors[i][0];
+
+      fetch(url).then(data => data.text()).then(data => {
+
+        var data_html = document.createElement('html');
+        data_html.innerHTML = data;
+
+        // note: query selector could possibly change with Google Scholar redesign
+        author_name = data_html.querySelector('#gsc_prf_in').innerText;
+        citations_nuber = data_html.querySelector('.gsc_rsb_std').innerText;
+        author_organisation = data_html.querySelector('.gsc_prf_il').innerText;
+
+        // todo: this gets messy, maybe there's better way to get the ID
+        author_id = data_html.querySelector('link[rel="canonical"]').href;
+        author_id = author_id.replace("http://scholar.google","").replace("/citations?user=", "").replace("&hl=en", "").replace("&hl=de", "").replace("&hl=fr", "").replace("&hl=sv","").replace(".com", "").replace(".ca", "").replace(".co.uk").replace(".de").replace(".fr");
+
+        var table_data_row = {};
+        table_data_row["name"] = toTitleCase(author_name);
+        table_data_row["org"] = author_organisation;
+        table_data_row["cited"] = citations_nuber;
+        table_data_row["id"] = author_id;
+        table_data.push(table_data_row);
+
+        reset_timeout();
+      })
+    }
+
+    function generate_table(argument) {
+      console.warn("generate_table");
+
+      // sort by number of citations
+      table_data.sort(function(a, b) {
+        return b.cited - a.cited;
+      });
+
+      console.log(table_data);
+
+      var overLimit = 0;
+
+      for (var i = 0; i < table_data.length; i++) {
+
+        var link = "https://scholar.google.com/citations?user="+ table_data[i]["id"];
+        link = link.replace("undefined","");
+
+        var number = Number(table_data[i]["cited"])
+        if (number < 5000) {
+          if (overLimit == 0) {
+            overLimit = 1;
+            table = table + "<details>\n<summary>Researchers with less thank 5000 citations</summary>\n\n";
+            table = table + header;
+          }
+        }
+        table = table + "["+table_data[i]["name"] +"]("+link+")" + " | " + table_data[i]["org"] + " | " + table_data[i]["cited"] + "\n";
+      }
+      table = table + "</details>\n\n";
+      document.querySelector("#generated_table").innerHTML = table;
+    }
+
+  </script>
+</body>
+</html>
