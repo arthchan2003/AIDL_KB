@@ -15,9 +15,9 @@ Our goal is to provide knowledge base for all AI&DL members and public.
   * [Natural Language Processing](KB/NLP.md) (NLP)
   * [Speech](KB/ASR.md) (ASR)
   * [Psychology and Neuroscience](KB/NEU.md)
-  * [Scientific Papers](KB/SCI.md)
-  * [Public Datasets](KB/DAT.md)
 * [How to](HOW.md)
+* [Scientific Papers](KB/SCI.md)
+* [Public Datasets](KB/DAT.md)
 
 <!--  * [Philosophy](KB/PHI.md) add, uncomment once not empty -->
 
