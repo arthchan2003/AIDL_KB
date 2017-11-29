@@ -17,8 +17,12 @@ Find a problem concerning this topic to play with and solve it. If you have no i
 
 ## Frequently Asked Questions
 
-### The difference between Deep Learning and Machine Learning
+### The difference between...
 
+#### Artificial Intelligence and Machine Learning
+In short Machine Learning (ML) is a sub-field of Artificial Intelligence (AI). AI is Intelligence displayed by machines (in contrast humans or animals are using natural intelligence). In a general usage sense, AI is "anything that computers can possibly do, even in the future". ML is a specific set of techniques that gives computers the ability to learn without being explicitly programmed. It usually involves big batches of data and finding ways how to train or code an "intelligent system" that will process such data.
+
+#### Machine Learning and Deep Learning
 Many people would lead you to believe it is a [matter of opinion](http://thegrandjanitor.com/2017/07/09/what-is-the-difference-between-deep-and-machine-learning/). But by definition Deep Learning should be part of a broader family of machine learning methods based on learning data representations, as opposed to task-specific algorithms.
 
 ### I'm Bad at Math or Programming. Can I still learn it?
