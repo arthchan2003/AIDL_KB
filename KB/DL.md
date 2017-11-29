@@ -6,7 +6,7 @@ We recommend to firstly start with one or two [Machine Learning classes](ML.md),
 ## Courses
 * The most recommended is [Andrew Ng's deeplearning.ai class](https://www.deeplearning.ai/)
 
-## Recommended resources
+## Researchers to follow and their resources
 * [Geoffrey Hinton's](http://www.cs.toronto.edu/~hinton/nntut.html)
 * [Andrew Karpathay's](http://cs.stanford.edu/people/karpathy/)
 * [Richard Socher's](http://www.socher.org/)
