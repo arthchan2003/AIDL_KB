@@ -16,4 +16,4 @@ The most liked resource on Mathematics in our group is [MIT course](https://ocw.
 ### Statistical Inference and Learning
 * **Computer-age Statistical Inference**, Bradley Efron and Trevor Hastie, [Check price on Amazon](http://amzn.to/2wnRtQi)
 * **An Introduction to Statistical Learning**, Gareth James,‎ Daniela Witten,‎ Trevor Hastie and Robert Tibshirani, [Check price on Amazon](http://amzn.to/1HkaNvu)
-* **The Elements of Statistical Learning**, Trevor Hastie,‎ Robert Tibshirani and Jerome Friedman, [Check price on Amazon](http://amzn.to/1GBbVWR), Advanced
+* **The Elements of Statistical Learning**, Trevor Hastie,‎ Robert Tibshirani and Jerome Friedman, [Check price on Amazon](http://amzn.to/1GBbVWR), Advanced difficulty

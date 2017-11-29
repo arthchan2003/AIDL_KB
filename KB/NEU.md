@@ -3,6 +3,10 @@
 # Psychology and Neuroscience
 
 ## Cognitive Neuroscience
+
+### Courses
+* [Idan Segev](https://www.coursera.org/learn/synapses/) on Coursera, Beginner difficulty
+
 ### Memory
 [Most to date memory model](https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Memory) with possibilities:
 * Protein synthesis possibly plays a role
