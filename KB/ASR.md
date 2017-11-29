@@ -6,3 +6,6 @@ For audio the data requires different preprocessing, the course [cs224s](http://
 
 ## Scientific Papers
 * [The most cited](https://github.com/terryum/awesome-deep-learning-papers#speech--other-domain) (since 2012)
+
+## Toolkits
+* [SyntaxNet: Neural Models of Syntax](https://github.com/tensorflow/models/tree/master/research/syntaxnet)
