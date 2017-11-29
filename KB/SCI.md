@@ -67,6 +67,8 @@ Author | Organization | Citations
 <details>
 <summary>Researchers with less thank 5000 citations</summary>
 
+Author | Organization | Citations
+------ | ------------ | ---------
 [Volodymyr Mnih](https://scholar.google.com/citations?user=rLdfJ1gAAAAJ) | DeepMind | 4959
 [Nicolas Le Roux](https://scholar.google.com/citations?user=LmKtwk8AAAAJ) | Research scientist at Google Brain | 3925
 [Clement Farabet](https://scholar.google.com/citations?user=u3u16tgAAAAJ) | Research Scientist, New York University | 3857
@@ -110,4 +112,4 @@ Author | Organization | Citations
 [Robert Coop](https://scholar.google.com/citations?user=lxaOJX8AAAAJ) | Machine Intelligence Lab, University of Tennessee at Knoxville | 118
 </details>
 
-Source: [Awesome DL](https://github.com/ChristosChristofidis/awesome-deep-learning#researchers), Scholar: [DL](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label%3Adeep_learning&btnG=), [ML](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label%3Amachine_learning&btnG=), [AI](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label%3artificial_intelligence&btnG=)
+Source: [Awesome DL](https://github.com/ChristosChristofidis/awesome-deep-learning#researchers), Scholar: [DL](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label%3Adeep_learning&btnG=), [ML](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label%3Amachine_learning&btnG=), [AI](https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=label%3Aartificial_intelligence&btnG=)

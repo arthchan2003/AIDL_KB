@@ -105,8 +105,9 @@
       ["59ohye8AAAAJ", "Robert Laganière", ""],
     ]
 
-    var table = "Author | Organization | Citations \n"
-              + "------ | ------------ | --------- \n";
+    var header = "Author | Organization | Citations \n"
+               + "------ | ------------ | --------- \n";
+    var table = header;
     var table_data = [];
     var timeout;
 
@@ -171,6 +172,7 @@
           if (overLimit == 0) {
             overLimit = 1;
             table = table + "<details>\n<summary>Researchers with less thank 5000 citations</summary>\n\n";
+            table = table + header;
           }
         }
         table = table + "["+table_data[i]["name"] +"]("+link+")" + " | " + table_data[i]["org"] + " | " + table_data[i]["cited"] + "\n";
