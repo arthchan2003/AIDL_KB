@@ -1,5 +1,3 @@
-<script async defer src="https://buttons.github.io/buttons.js"></script>
-
 [← Back to overview](README.md)
 
 # Idea: Amazon links
@@ -26,7 +24,7 @@
 * buy it
 
 ### no.2
-* Chapter 2-4 of **Cognitive Psychology: A Student's Handbook** (7th edition), Michael W. Eysenck,‎ Mark T. Keane, last updated 2015, <a class="github-button" href="http://amzn.to/2jwcMGb">Amazon</a>
+* Chapter 2-4 of [Cognitive Psychology: A Student's Handbook](http://amzn.to/2jwcMGb)[$] (7th edition), Michael W. Eysenck,‎ Mark T. Keane, last updated 2015
 
 ### no.3
-* Chapter 2-4 of **Cognitive Psychology: A Student's Handbook** (7th edition), Michael W. Eysenck,‎ Mark T. Keane, last updated 2015, <a href="http://amzn.to/2jwcMGb"><img src="https://img.shields.io/badge/buy-amazon-lightgrey.svg"></a>
+* Chapter 2-4 of **Cognitive Psychology: A Student's Handbook** (7th edition), Michael W. Eysenck,‎ Mark T. Keane, last updated 2015, <a href="http://amzn.to/2jwcMGb"><img src="https://img.shields.io/badge/buy-Amazon-lightgrey.svg"></a>
