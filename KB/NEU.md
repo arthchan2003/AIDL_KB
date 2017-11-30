@@ -39,9 +39,11 @@
 * Memory formation possibly happens due to engram competition
   * [Competition between engrams influences fear memory formation and recall](https://dx.doi.org/10.1126/science.aaf0594), scientific paper from 2016, 50+ citations
 
-#### Books and Articles
+#### Books
 * Chapter 8 of [Cognitive Psychology: A Student's Handbook [$]](http://amzn.to/2jwcMGb) (7th edition), Michael W. Eysenck,‎ Mark T. Keane, last updated 2015
 * Chapter 24-25 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear,‎ Barry W. Connors,‎ Michael A. Paradiso, last updated 2015
+
+#### Scientific Papers
 * [Implicit learning and consciousness: A graded, dynamic perspective](https://pdfs.semanticscholar.org/6813/6c840920f66f2b006c109af76925c9e3762c.pdf), Axel Cleeremans, from ‎2001, followed by [Connecting Conscious and Unconscious Processing](http://dx.doi.org/10.1111/cogs.12149) from 2014
 * [Theories of Memory and Aging: A Look at the Past and a Glimpse of the Future](https://doi.org/10.1093/geronb/gbw066), Denise C. Park, Sara B. Festini, 2016
 
