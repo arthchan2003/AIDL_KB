@@ -25,6 +25,7 @@ Description | DS Size | Formats
 ### Speech
 Description | DS Size | Formats
 ----------- | ------- | -------
+[Project Common Voice](https://voice.mozilla.org/data) | 400k+ | .csv,.mp3
 [VoxForge](http://www.voxforge.org/home/) | 10k+ | -
 [The CMU Audio Databases](http://www.speech.cs.cmu.edu/databases/an4/) | 1k | .raw
 

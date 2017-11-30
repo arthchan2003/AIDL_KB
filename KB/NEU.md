@@ -82,7 +82,7 @@
 * [Heuristics](https://en.wikipedia.org/wiki/Heuristic)
 </details>
 
-## Neuroscience
+## Neurobiology: Single Neuron, Coupled Neurons
 
 ### Courses
 * [Computational Neuroscience](https://www.coursera.org/learn/computational-neuroscience) on Coursera, recommended, Beginner difficulty
@@ -142,7 +142,7 @@ It's recommended to read [Robert Epstein's post](https://aeon.co/essays/your-bra
 </details>
 
 ### Motor Control
-(Low-level) motor control is the process by which humans and animals use their brain/cognition to activate and coordinate the muscles and limbs involved in the performance of a motor skill. Fundamentally, it is the integration of sensory information, both about the world and the current state of the body, to determine the appropriate set of muscle forces and joint activations to generate some desired movement or action. This process requires cooperative interaction between the central nervous system and the musculoskeletal system, and is thus a problem of information processing, coordination, mechanics, physics, and cognition. Successful motor control is crucial to interacting with the world, not only determining action capabilities, but regulating balance and stability as well. – Citation from [Motor Control](https://en.wikipedia.org/wiki/Motor_control)
+Low-level motor control is the process by which humans and animals use their brain/cognition to activate and coordinate the muscles and limbs involved in the performance of a motor skill. Fundamentally, it is the integration of sensory information, both about the world and the current state of the body, to determine the appropriate set of muscle forces and joint activations to generate some desired movement or action. This process requires cooperative interaction between the central nervous system and the musculoskeletal system, and is thus a problem of information processing, coordination, mechanics, physics, and cognition. Successful motor control is crucial to interacting with the world, not only determining action capabilities, but regulating balance and stability as well. – Citation from [Motor Control](https://en.wikipedia.org/wiki/Motor_control)
 
 #### Books
 * Chapter 12-14 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear,‎ Barry W. Connors,‎ Michael A. Paradiso, last updated 2015
@@ -171,5 +171,57 @@ It's recommended to read [Robert Epstein's post](https://aeon.co/essays/your-bra
 * **Lamprey robots**, based on the model of the lamprey spiral cord
   * [Lamprey robot from the Biorob Lab of Auke Ispeert at EPFL (YouTube video)](https://www.youtube.com/watch?v=ZvGEWHfGnfU)
   * [Wake structures behind a swimming robotic lamprey with a passively flexible tail](https://dx.doi.org/10.1242%2Fjeb.061440), Megan C. Leftwich et al., 2012, 40+ citations
+
+</details>
+
+## Neurobiology: Large-scale Circuits, Networks
+
+### Neural Coding
+Neural coding is a neuroscience related field concerned with characterizing the relationship between the stimulus and the individual or ensemble neuronal responses and the relationship among the electrical activity of the neurons in the ensemble.
+
+#### Books
+* [Principles of Neural Coding [$]](http://amzn.to/2j1OzZ0), Rodrigo Quian Quiroga,‎ Stefano Panzeri, last updated 2013
+
+<details>
+<summary>Other useful resources</summary>
+
+#### Keywords
+* [Rate coding](https://en.wikipedia.org/wiki/Neural_coding#Rate_coding), describing that as the intensity of a stimulus increases, the frequency or rate of action potentials ("spike firing") increases
+* [Spike-count rate](https://en.wikipedia.org/wiki/Neural_coding#Spike-count_rate), counting the number of spikes that appear during a trial and dividing by the duration of trial
+* [Neural encoding to decoding](https://en.wikipedia.org/wiki/Neural_decoding)
+* [Temporal coding](https://en.wikipedia.org/wiki/Neural_coding#Temporal_coding)
+* [Population coding](https://en.wikipedia.org/wiki/Neural_coding#Population_coding)
+* [Sparse coding](https://en.wikipedia.org/wiki/Neural_coding#Sparse_coding)
+* [Tuning Curves, Neuronal Variability, and Sensory Coding](https://dx.doi.org/10.1371%2Fjournal.pbio.0040092), Daniel A Butts, 2006, 160+ citations
+* [Small-world brain networks](https://doi.org/10.1177/1073858406293182), Danielle Smith Bassett, Ed Bullmore, 2006, 1500+ citations
+* [On the computational architecture of the neocortex](https://link.springer.com/article/10.1007/BF00198477) and [The role of cortico-cortical loops](https://www.ncbi.nlm.nih.gov/pubmed/1540675), D. Mumford, 1991-1992, 800+ citations
+
+</details>
+
+### Neuroanatomy
+Neuroanatomy is the study of the anatomy and stereotyped organization of nervous systems. In contrast to animals with radial symmetry, whose nervous system consists of a distributed network of cells, animals with bilateral symmetry have segregated, defined nervous systems.
+
+#### Recommended Resources
+* [Neuroanatomy at UBC](http://www.neuroanatomy.ca/)
+* [Kenhub's Course](https://www.kenhub.com/en/start/neuroanatomy)
+
+#### Books
+* Chapter 2-5 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear,‎ Barry W. Connors,‎ Michael A. Paradiso, last updated 2015
+
+<details>
+<summary>Other useful resources</summary>
+
+#### Keywords
+* [Cell staining](https://en.wikipedia.org/wiki/Neuroanatomy#Cell_staining)
+* [Histochemistry](https://en.wikipedia.org/wiki/Histochemistry)
+* [Genetically encoded markers](https://en.wikipedia.org/wiki/Neuroanatomy#Genetically_encoded_markers)
+* Non-invasive brain imaging ([Magnetic resonance imaging](https://en.wikipedia.org/wiki/Magnetic_resonance_imaging))
+* [Viral-based and Dye-based methods](https://en.wikipedia.org/wiki/Neuroanatomy#Tools)
+* [Connectomics](https://en.wikipedia.org/wiki/Connectomics)
+* [Computational neuroanatomy](https://en.wikipedia.org/wiki/Computational_neuroscience)
+* [Model systems](https://en.wikipedia.org/wiki/Scientific_modelling)
+  * Caenorhabditis elegans connectome
+    * [Network control principles predict neuron function in the Caenorhabditis elegans connectome](https://dx.doi.org/10.1038/nature24056), Gang Yan et al., 2016
+  * [Drosophila melanogaster connectome](https://en.wikipedia.org/wiki/Drosophila_connectome) → [Virtual Fly Brain](http://www.virtualflybrain.org/)
 
 </details>
