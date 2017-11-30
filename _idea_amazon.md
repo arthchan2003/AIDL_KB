@@ -34,6 +34,7 @@
 
 #### Icon ideas
 * <img src="https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/credit-card.png">
+* <img src="https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/shopping-cart.png">
 
 ### Fifth: keep it as it is
 * Chapter 2-4 of **Cognitive Psychology: A Student's Handbook** (7th edition), Michael W. Eysenck,‎ Mark T. Keane, last updated 2015, [Check price on Amazon](http://amzn.to/2jwcMGb)
