@@ -15,7 +15,7 @@
 
 ## Proposals
 
-### no.1
+### First: link, added words
 * Chapter 2-4 of [Cognitive Psychology: A Student's Handbook](http://amzn.to/2jwcMGb) (7th edition), Michael W. Eysenck,‎ Mark T. Keane, last updated 2015, non-free content
 
 #### Wording ideas
@@ -23,8 +23,11 @@
 * paid
 * buy it
 
-### no.2
+### Second: link, adding nothing, mentioning only free content
+* Chapter 2-4 of [Cognitive Psychology: A Student's Handbook](http://amzn.to/2jwcMGb) (7th edition), Michael W. Eysenck,‎ Mark T. Keane, last updated 2015
+
+### Third: link with name with small indicator
 * Chapter 2-4 of [Cognitive Psychology: A Student's Handbook [$]](http://amzn.to/2jwcMGb)(7th edition), Michael W. Eysenck,‎ Mark T. Keane, last updated 2015
 
-### no.3
-* Chapter 2-4 of **Cognitive Psychology: A Student's Handbook** (7th edition), Michael W. Eysenck,‎ Mark T. Keane, last updated 2015, <a href="http://amzn.to/2jwcMGb"><img src="https://img.shields.io/badge/buy-Amazon-lightgrey.svg"></a>
+### Fourth: small button
+* Chapter 2-4 of **Cognitive Psychology: A Student's Handbook** (7th edition), Michael W. Eysenck,‎ Mark T. Keane, last updated 2015, <a href="http://amzn.to/2jwcMGb"><img src="https://img.shields.io/badge/buy_on-Amazon-lightgrey.svg"></a>
