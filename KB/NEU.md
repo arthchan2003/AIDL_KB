@@ -91,15 +91,15 @@
 * [Introduction to Neuroscience](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-01-introduction-to-neuroscience-fall-2007/) on MIT OCW, emphasis on structure and function of human brain, text based (no video)
 * [Medical Neuroscience](https://www.coursera.org/learn/medical-neuroscience) on Coursera, Advanced difficulty
 
-### Brain as Computer
+### Brain as a Computer
 "Does human brain work like a computer or not?" has the rather complicated answer. And with certainty, it's not possible to answer it with current knowledge. It's also good to mention that Artificial Neural Networks are inspired by Biological Neural Networks, therefore they could possibly simulate them, although with current technology it's [still very inefficient](http://agi-roadmap.sablatura.info/).
 
 It's recommended to read [Robert Epstein's post](https://aeon.co/essays/your-brain-does-not-process-information-and-it-is-not-a-computer) that looking at the brain as a computer is wrong, followed by counterarguments such as [Perengras's](http://lukependergrass.work/blog/the-information-processing-brain) (followed by [Golder's review of both](https://medium.com/@gdoteof/a-response-to-a-response-to-the-empty-brain-the-information-processing-brain-dde4c6d3aecd)), [Shallit's](http://recursed.blogspot.com/2016/05/yes-your-brain-certainly-is-computer.html) and [Graziosi's](https://sergiograziosi.wordpress.com/2016/05/22/robert-epsteins-empty-essay/).
 
-### Neurons
+### Neuron
 
 #### Books
-* Chapter 2-5 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear,‎ Barry W. Connors,‎ Michael A. Paradiso, last updated 2015,
+* Chapter 2-5 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear,‎ Barry W. Connors,‎ Michael A. Paradiso, last updated 2015
 
 <details>
 <summary>Other useful resources</summary>
@@ -117,4 +117,26 @@ It's recommended to read [Robert Epstein's post](https://aeon.co/essays/your-bra
 * [Metabotropic receptor](https://en.wikipedia.org/wiki/Metabotropic_receptor)
 * [Microcircuits neuroscience to understand pathophysiology](https://dx.doi.org/10.18632%2Foncotarget.14792), scientific paper from 2017
 * [Nernst equation](https://en.wikipedia.org/wiki/Nernst_equation)
+</details>
+
+### Mathematical models of a single neuron
+> **Lebedev and Lutsky** ([1972](https://scholar.google.com/scholar_lookup?title=Physiology%20of%20movements%20and%20activity&author=NA.%20Bernstein&publication_year=1990)) pioneered the concept of modeling the dynamics of neurons on the basis of equations with delay. Generally, researchers agree that it is not necessary to introduce delay in explicit form into equations that describe the neuron. In examining the fundamental role of delays in neuron modeling, **Hodgkin and Huxley** ([1939](https://scholar.google.com/scholar_lookup?title=Models%20of%20neural%20dynamics%20in%20brain%20information%20processing%E2%80%94Results%20of%20%E2%80%9Cdecade%E2%80%9D&author=GN.%20Borisyuk&author=RM.%20Borisyuk&author=YB.%20Kazanovich&author=GR.%20Ivanitsky&journal=UFMN&volume=172&issue=10&pages=1189-1214&publication_year=2002)) achieved the effect of delay through the use of a chain of ordinary differential equations. A model always reflects the interpretation of a phenomenon; simultaneously, some aspects are taken for granted while some others are typically ignored. The purposes of modeling also differ. Some models are used to study processes taking place inside the object under examination; others are used to explain the relationship of objects to each other. The neuron is a complex formation, and it is difficult to expect the monotony of representations. In our view, a variety of mathematical models of neurons can be divided into two classes: static and dynamic.
+Citation from [The Model of a Single Neuron](https://link.springer.com/chapter/10.1007/978-3-319-19866-8_1), Serguey Kashchenko, last updated 2015
+
+#### Books
+* Chapter 2-5 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear,‎ Barry W. Connors,‎ Michael A. Paradiso, last updated 2015
+* Chapter 1-2 of [Dynamical Systems in Neuroscience: The Geometry of Excitability and Bursting [$]](http://amzn.to/2i41xVi), Eugene M. Izhikevich, last updated 2010
+
+<details>
+<summary>Other useful resources</summary>
+
+#### Keywords
+* [Ionic conductivity](https://en.wikipedia.org/wiki/Ionic_conductivity_(solid_state)), [Fundamental questions relating to ion conduction in disordered solids](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.517.6087&rep=rep1&type=pdf)([DOI](http://dx.doi.org/10.1088/0034-4885/72/4/046501)), Jeppe C Dyre, 2009, 200+ citations
+* [Leaky Integrate-and-Fire Model](https://pdfs.semanticscholar.org/b010/5f0c0f1d9072e71c93d55cc55c9648c09648.pdf), Emin Orhan, 2012 followed by [Gerstner's web](http://icwww.epfl.ch/~gerstner/SPNM/node26.html)
+* [Quadratic Integrate and Fire](http://neuronaldynamics.epfl.ch/online/Ch5.S3.html), [Chaotic solutions in the quadratic integrate-and-fire neuron with adaptation](https://dx.doi.org/10.1007%2Fs11571-008-9069-6), Gang Zheng and Arnaud Tonnelier, 2009, 11 citations
+* [Hodgkin–Huxley model](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1392413/pdf/jphysiol01442-0106.pdf), 1952, 20k citations, simplified: [A brief historical perspective: Hodgkin and Huxley](https://dx.doi.org/10.1113%2Fjphysiol.2012.230458), Christof J Schwiening, 2009, 40+ citations
+* [Cable theory](https://en.wikipedia.org/wiki/Cable_theory), [Electric current flow in excitable cells](https://www.researchgate.net/profile/Julian_Jack/publication/237128081_Electric_Current_Flow_In_Excitable_Cells/links/0deec53466f1fd7bc1000000.pdf), JJB Jack, D Noble, RW Tsien, 1975, 2k citations, followed by [Cable theory for dendritic neurons](http://dl.acm.org/citation.cfm?id=94608)
+* [Simple Model of Spiking Neurons (Izhikevich's model)](https://www.izhikevich.org/publications/spikes.htm)([PDF](https://www.izhikevich.org/publications/spikes.pdf))
+* [Perceptron](https://en.wikipedia.org/wiki/Perceptron)
+* [Blue Brain Project](https://bluebrain.epfl.ch/), creating a digital reconstruction of the brain by reverse-engineering mammalian brain circuitry
 </details>
