@@ -257,3 +257,30 @@ Behavioral Science involves the systematic analysis and investigation of human a
 * [Match-to-sample task](https://en.wikipedia.org/wiki/Match-to-sample_task)
 
 </details>
+
+### Molecular Mechanisms of Learning
+
+#### Books
+* Chapter 23-25 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear,‎ Barry W. Connors,‎ Michael A. Paradiso, last updated 2015
+
+#### Scientific Papers
+* [The molecular biology of memory storage: a dialogue between genes and synapses](https://doi.org/10.1126/science.1067020),  Eric R. Kandel, 2001, 3000+ citations
+* [Molecular mechanisms of fear learning and memory](https://doi.org/10.1016/j.cell.2011.10.009), Joshua P. Johansen, 2011, 600+ citations
+* [Behavioural neuroscience: The circuit of fear](https://doi.org/10.1038/454589a), Pankaj Sah, R. Frederick Westbrook, 2008, 60 citations
+
+<details>
+<summary>Other useful resources</summary>
+
+#### Keywords
+* [Molecular mechanisms of learning](http://courses.biology.utah.edu/rose/bio3330/Lectures/Lec%20%2325_Memory%20Mechs.ppt)
+* [Long-term potentiation](https://en.wikipedia.org/wiki/Long-term_potentiation)
+* [Long-term depression](https://en.wikipedia.org/wiki/Long-term_depression)
+* [Habituation](https://en.wikipedia.org/wiki/Habituation)
+* [Sensitization](https://en.wikipedia.org/wiki/Sensitization)
+* [NMDA receptor](https://en.wikipedia.org/wiki/NMDA_receptor)
+* [AMPA receptor](https://en.wikipedia.org/wiki/AMPA_receptor)
+
+</details>
+
+##### Acknowledgement #####
+Headlines structure in this file was based on [Informatics and Cognitive Sciences Syllabus](https://is.cuni.cz/studium/eng/predmety/index.php?do=predmet&kod=AISV5155)
