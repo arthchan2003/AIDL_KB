@@ -39,10 +39,11 @@
 * Memory formation possibly happens due to engram competition
   * [Competition between engrams influences fear memory formation and recall](https://dx.doi.org/10.1126/science.aaf0594), scientific paper from 2016, 50+ citations
 
-#### Books
+#### Books and Articles
 * Chapter 8 of [Cognitive Psychology: A Student's Handbook [$]](http://amzn.to/2jwcMGb) (7th edition), Michael W. Eysenck,‎ Mark T. Keane, last updated 2015
 * Chapter 24-25 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear,‎ Barry W. Connors,‎ Michael A. Paradiso, last updated 2015
 * [Implicit learning and consciousness: A graded, dynamic perspective](https://pdfs.semanticscholar.org/6813/6c840920f66f2b006c109af76925c9e3762c.pdf), Axel Cleeremans, from ‎2001, followed by [Connecting Conscious and Unconscious Processing](http://dx.doi.org/10.1111/cogs.12149) from 2014
+* [Theories of Memory and Aging: A Look at the Past and a Glimpse of the Future](https://doi.org/10.1093/geronb/gbw066), Denise C. Park, Sara B. Festini, 2016
 
 <details>
 <summary>Other useful resources</summary>
@@ -180,7 +181,7 @@ Low-level motor control is the process by which humans and animals use their bra
 Neural coding is a neuroscience related field concerned with characterizing the relationship between the stimulus and the individual or ensemble neuronal responses and the relationship among the electrical activity of the neurons in the ensemble.
 
 #### Books
-* [Principles of Neural Coding [$]](http://amzn.to/2j1OzZ0), Rodrigo Quian Quiroga,‎ Stefano Panzeri, last updated 2013
+[Principles of Neural Coding [$]](http://amzn.to/2j1OzZ0), Rodrigo Quian Quiroga,‎ Stefano Panzeri, last updated 2013
 
 <details>
 <summary>Other useful resources</summary>
@@ -206,7 +207,7 @@ Neuroanatomy is the study of the anatomy and stereotyped organization of nervous
 * [Kenhub's Course](https://www.kenhub.com/en/start/neuroanatomy)
 
 #### Books
-* Chapter 2-5 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear,‎ Barry W. Connors,‎ Michael A. Paradiso, last updated 2015
+Chapter 2-5 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear,‎ Barry W. Connors,‎ Michael A. Paradiso, last updated 2015
 
 <details>
 <summary>Other useful resources</summary>
@@ -231,11 +232,9 @@ Neuroanatomy is the study of the anatomy and stereotyped organization of nervous
 ### Behavioral Science
 Behavioral Science involves the systematic analysis and investigation of human and animal behavior through the study of the past, controlled and naturalistic observation of the present, and disciplined scientific experimentation. It attempts to accomplish legitimate, objective conclusions through rigorous formulations and observation.
 
-#### Books
-Chapter 2 of [Mechanisms of Memory [$]](http://amzn.to/2jAJzKp) (2nd Edition), J. David Sweatt, last updated 2009
-
-#### Articles
-[Behavioral Game Design](https://www.gamasutra.com/view/feature/131494/behavioral_game_design.php), John Hopson, 2001
+#### Books and Articles
+* Chapter 2 of [Mechanisms of Memory [$]](http://amzn.to/2jAJzKp) (2nd Edition), J. David Sweatt, last updated 2009
+* [Behavioral Game Design](https://www.gamasutra.com/view/feature/131494/behavioral_game_design.php), John Hopson, 2001
 
 <details>
 <summary>Other useful resources</summary>
