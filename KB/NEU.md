@@ -225,3 +225,34 @@ Neuroanatomy is the study of the anatomy and stereotyped organization of nervous
   * [Drosophila melanogaster connectome](https://en.wikipedia.org/wiki/Drosophila_connectome) → [Virtual Fly Brain](http://www.virtualflybrain.org/)
 
 </details>
+
+## Learning
+
+### Behavioral Science
+Behavioral Science involves the systematic analysis and investigation of human and animal behavior through the study of the past, controlled and naturalistic observation of the present, and disciplined scientific experimentation. It attempts to accomplish legitimate, objective conclusions through rigorous formulations and observation.
+
+#### Books
+Chapter 2 of [Mechanisms of Memory [$]](http://amzn.to/2jAJzKp) (2nd Edition), J. David Sweatt, last updated 2009
+
+#### Articles
+[Behavioral Game Design](https://www.gamasutra.com/view/feature/131494/behavioral_game_design.php), John Hopson, 2001
+
+<details>
+<summary>Other useful resources</summary>
+
+#### Keywords
+* [Behaviorism](https://en.wikipedia.org/wiki/Behaviorism)
+* [Etology](https://en.wikipedia.org/wiki/Ethology)
+* [Functional analytic psychotherapy](https://en.wikipedia.org/wiki/Functional_analytic_psychotherapy)
+* [Imprinting](https://en.wikipedia.org/wiki/Imprinting_(psychology))
+* [Appetitive/consumatory behavior](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3522858/#S3title)
+* [Classical conditioning](https://en.wikipedia.org/wiki/Classical_conditioning) also known as Pavlov's research
+* [Rescorla–Wagner model](https://en.wikipedia.org/wiki/Rescorla%E2%80%93Wagner_model)
+* [Stimulus–response model](https://en.wikipedia.org/wiki/Stimulus%E2%80%93response_model)
+* [Operant conditioning](https://en.wikipedia.org/wiki/Operant_conditioning) also known as Instrumental conditioning
+* [Forward conditioning](https://en.wikipedia.org/wiki/Classical_conditioning#Forward_conditioning) (trace and delay conditioning)
+* [Fear conditioning](https://en.wikipedia.org/wiki/Fear_conditioning)
+* [Eyeblink conditioning](https://en.wikipedia.org/wiki/Eyeblink_conditioning)
+* [Match-to-sample task](https://en.wikipedia.org/wiki/Match-to-sample_task)
+
+</details>
