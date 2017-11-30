@@ -13,7 +13,7 @@
 * [Machine Learning Yearning](http://www.mlyearning.org/), Andrew Ng, Free
 
 ### Data Mining
-* **Mining of Massive Datasets**, Jure Leskovec,‎ Anand Rajaraman and‎ Jeffrey David Ullman [Link on Amazon](https://www.amazon.com/Mining-Massive-Datasets-Jure-Leskovec/dp/1107077230/ref=sr_1_1?s=books&ie=UTF8&qid=1512005007&sr=1-1&keywords=Mining+of+massive+datasets
+* **Mining of Massive Datasets**, Jure Leskovec,‎ Anand Rajaraman and‎ Jeffrey David Ullman [Link on Amazon](https://www.amazon.com/Mining-Massive-Datasets-Jure-Leskovec/dp/1107077230/ref=sr_1_1?s=books&ie=UTF8&qid=1512005007&sr=1-1&keywords=Mining+of+massive+datasets)
 
 ### Interviews
 * **Data Science Handbook**, Carl Shan,‎ William Chen,‎ Henry Wang and‎ Max Song [Link on Amazon](https://www.amazon.com/Data-Science-Handbook-Insights-Scientists/dp/0692434879/ref=sr_1_1?s=books&ie=UTF8&qid=1512005133&sr=1-1&keywords=Data+Science+Handbook)
