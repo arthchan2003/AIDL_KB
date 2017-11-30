@@ -1,4 +1,4 @@
-[← Back to overview](../../../)
+[← Back to overview](../README.md)
 
 # Deep Learning (DL)
 We recommend to firstly start with one or two [Machine Learning classes](ML.md), because Deep Learning is related to them and it will be easier for you.

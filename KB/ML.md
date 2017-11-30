@@ -1,4 +1,4 @@
-[← Back to overview](../../../)
+[← Back to overview](../README.md)
 
 # Machine Learning (ML)
 
@@ -16,7 +16,7 @@
 
 ## Leisure Readings:
 * [Machine Learning Yearning](http://www.mlyearning.org/), Andrew Ng
-* [The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World [$]](https://www.amazon.com/Master-Algorithm-Ultimate-Learning-Machine/dp/0465065708/ref=sr_1_1?s=books&ie=UTF8&qid=1470187436&sr=1-1&keywords=The+master+algorithm), Pedro Domingo 
+* [The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World [$]](https://www.amazon.com/Master-Algorithm-Ultimate-Learning-Machine/dp/0465065708/ref=sr_1_1?s=books&ie=UTF8&qid=1470187436&sr=1-1&keywords=The+master+algorithm), Pedro Domingo
 
 
 ### Data Mining
