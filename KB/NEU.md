@@ -181,7 +181,7 @@ Low-level motor control is the process by which humans and animals use their bra
 Neural coding is a neuroscience related field concerned with characterizing the relationship between the stimulus and the individual or ensemble neuronal responses and the relationship among the electrical activity of the neurons in the ensemble.
 
 #### Books
-[Principles of Neural Coding [$]](http://amzn.to/2j1OzZ0), Rodrigo Quian Quiroga,‎ Stefano Panzeri, last updated 2013
+* [Principles of Neural Coding [$]](http://amzn.to/2j1OzZ0), Rodrigo Quian Quiroga,‎ Stefano Panzeri, last updated 2013
 
 <details>
 <summary>Other useful resources</summary>
@@ -207,7 +207,7 @@ Neuroanatomy is the study of the anatomy and stereotyped organization of nervous
 * [Kenhub's Course](https://www.kenhub.com/en/start/neuroanatomy)
 
 #### Books
-Chapter 2-5 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear,‎ Barry W. Connors,‎ Michael A. Paradiso, last updated 2015
+* Chapter 2-5 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear,‎ Barry W. Connors,‎ Michael A. Paradiso, last updated 2015
 
 <details>
 <summary>Other useful resources</summary>
