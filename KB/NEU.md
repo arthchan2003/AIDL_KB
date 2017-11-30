@@ -219,7 +219,7 @@ Neuroanatomy is the study of the anatomy and stereotyped organization of nervous
 * [Viral-based and Dye-based methods](https://en.wikipedia.org/wiki/Neuroanatomy#Tools)
 * [Connectomics](https://en.wikipedia.org/wiki/Connectomics)
 * [Computational neuroanatomy](https://en.wikipedia.org/wiki/Computational_neuroscience)
-* [Model systems]
+* [Model systems](https://en.wikipedia.org/wiki/Scientific_modelling)
   * Caenorhabditis elegans connectome
     * [Network control principles predict neuron function in the Caenorhabditis elegans connectome](https://dx.doi.org/10.1038/nature24056), Gang Yan et al., 2016
   * [Drosophila melanogaster connectome](https://en.wikipedia.org/wiki/Drosophila_connectome) → [Virtual Fly Brain](http://www.virtualflybrain.org/)
