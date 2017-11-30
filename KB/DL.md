@@ -13,7 +13,8 @@ We recommend to firstly start with one or two [Machine Learning classes](ML.md),
 * [Hugo Larochelle's](https://research.google.com/pubs/105144.html)
 * [Nando de Freitas'](https://www.cs.ox.ac.uk/people/nando.defreitas/)
 
-If you don't know which DL library to start with, we suggest you check [Ranking Popular DL Libraries](https://blog.thedataincubator.com/2017/10/ranking-popular-deep-learning-libraries-for-data-science/) from 10/2017 where the winner is [Tensorflow](https://www.tensorflow.org/), followed by [Keras](https://keras.io/) and [Caffe](http://caffe.berkeleyvision.org/).
+## Libraries and Frameworks
+If you don't know which DL library to start with, we suggest you to check [Ranking Popular DL Libraries](https://blog.thedataincubator.com/2017/10/ranking-popular-deep-learning-libraries-for-data-science/) from 10/2017 where the winner is [Tensorflow](https://www.tensorflow.org/), followed by [Keras](https://keras.io/) and [Caffe](http://caffe.berkeleyvision.org/).
 
 ## Curated Lists
 * [A guide to DL](http://yerevann.com/a-guide-to-deep-learning/) is very handy because all concepts are ranked by its difficulty
