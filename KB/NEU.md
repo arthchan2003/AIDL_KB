@@ -42,7 +42,10 @@
 #### Books
 * Chapter 8 of [Cognitive Psychology: A Student's Handbook [$]](http://amzn.to/2jwcMGb) (7th edition), Michael W. Eysenck,‎ Mark T. Keane, last updated 2015
 * Chapter 24-25 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear,‎ Barry W. Connors,‎ Michael A. Paradiso, last updated 2015
+
+#### Scientific Papers
 * [Implicit learning and consciousness: A graded, dynamic perspective](https://pdfs.semanticscholar.org/6813/6c840920f66f2b006c109af76925c9e3762c.pdf), Axel Cleeremans, from ‎2001, followed by [Connecting Conscious and Unconscious Processing](http://dx.doi.org/10.1111/cogs.12149) from 2014
+* [Theories of Memory and Aging: A Look at the Past and a Glimpse of the Future](https://doi.org/10.1093/geronb/gbw066), Denise C. Park, Sara B. Festini, 2016
 
 <details>
 <summary>Other useful resources</summary>
@@ -231,11 +234,9 @@ Neuroanatomy is the study of the anatomy and stereotyped organization of nervous
 ### Behavioral Science
 Behavioral Science involves the systematic analysis and investigation of human and animal behavior through the study of the past, controlled and naturalistic observation of the present, and disciplined scientific experimentation. It attempts to accomplish legitimate, objective conclusions through rigorous formulations and observation.
 
-#### Books
-Chapter 2 of [Mechanisms of Memory [$]](http://amzn.to/2jAJzKp) (2nd Edition), J. David Sweatt, last updated 2009
-
-#### Articles
-[Behavioral Game Design](https://www.gamasutra.com/view/feature/131494/behavioral_game_design.php), John Hopson, 2001
+#### Books and Articles
+* Chapter 2 of [Mechanisms of Memory [$]](http://amzn.to/2jAJzKp) (2nd Edition), J. David Sweatt, last updated 2009
+* [Behavioral Game Design](https://www.gamasutra.com/view/feature/131494/behavioral_game_design.php), John Hopson, 2001
 
 <details>
 <summary>Other useful resources</summary>
@@ -256,3 +257,30 @@ Chapter 2 of [Mechanisms of Memory [$]](http://amzn.to/2jAJzKp) (2nd Edition), J
 * [Match-to-sample task](https://en.wikipedia.org/wiki/Match-to-sample_task)
 
 </details>
+
+### Molecular Mechanisms of Learning
+
+#### Books
+* Chapter 23-25 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear,‎ Barry W. Connors,‎ Michael A. Paradiso, last updated 2015
+
+#### Scientific Papers
+* [The molecular biology of memory storage: a dialogue between genes and synapses](https://doi.org/10.1126/science.1067020),  Eric R. Kandel, 2001, 3000+ citations
+* [Molecular mechanisms of fear learning and memory](https://doi.org/10.1016/j.cell.2011.10.009), Joshua P. Johansen, 2011, 600+ citations
+* [Behavioural neuroscience: The circuit of fear](https://doi.org/10.1038/454589a), Pankaj Sah, R. Frederick Westbrook, 2008, 60 citations
+
+<details>
+<summary>Other useful resources</summary>
+
+#### Keywords
+* [Molecular mechanisms of learning](http://courses.biology.utah.edu/rose/bio3330/Lectures/Lec%20%2325_Memory%20Mechs.ppt)
+* [Long-term potentiation](https://en.wikipedia.org/wiki/Long-term_potentiation)
+* [Long-term depression](https://en.wikipedia.org/wiki/Long-term_depression)
+* [Habituation](https://en.wikipedia.org/wiki/Habituation)
+* [Sensitization](https://en.wikipedia.org/wiki/Sensitization)
+* [NMDA receptor](https://en.wikipedia.org/wiki/NMDA_receptor)
+* [AMPA receptor](https://en.wikipedia.org/wiki/AMPA_receptor)
+
+</details>
+
+##### Acknowledgement #####
+Headlines structure in this file was based on [Informatics and Cognitive Sciences Syllabus](https://is.cuni.cz/studium/eng/predmety/index.php?do=predmet&kod=AISV5155)
