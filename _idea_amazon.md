@@ -30,7 +30,11 @@
 * Chapter 2-4 of [Cognitive Psychology: A Student's Handbook [$]](http://amzn.to/2jwcMGb)(7th edition), Michael W. Eysenck,‎ Mark T. Keane, last updated 2015
 
 ### Fourth: small button
-* Chapter 2-4 of **Cognitive Psychology: A Student's Handbook** (7th edition), Michael W. Eysenck,‎ Mark T. Keane, last updated 2015, <a href="http://amzn.to/2jwcMGb"><img src="https://img.shields.io/badge/buy_on-Amazon-lightgrey.svg"></a>
+* Chapter 2-4 of **Cognitive Psychology: A Student's Handbook**<img src="https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/credit-card.png"> (7th edition), Michael W. Eysenck,‎ Mark T. Keane, last updated 2015
+
+
+
+
 
 ### Fifth: keep it as it is
 * Chapter 2-4 of **Cognitive Psychology: A Student's Handbook** (7th edition), Michael W. Eysenck,‎ Mark T. Keane, last updated 2015, [Check price on Amazon](http://amzn.to/2jwcMGb)
