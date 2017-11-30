@@ -8,12 +8,12 @@ The most liked resource on Mathematics in our group is [MIT course](https://ocw.
 ## Books
 
 ### Probability and Statistics
-* **Think Stats**, Allen B. Downey, [Check price on Amazon](http://amzn.to/1Jn4JVd)
-* **Think Bayes**, Allen B. Downey, [Check price on Amazon](http://amzn.to/1IgUgZW)
-* [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/), Cam Davidson-Pilon, Free
-* [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf),  Trevor Hastie, Robert Tibshirani and Jerome Friedman, Free
+* [Think Stats [$]](http://amzn.to/1Jn4JVd), Allen B. Downey
+* [Think Bayes [$]](http://amzn.to/1IgUgZW), Allen B. Downey
+* [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/), Cam Davidson-Pilon
+* [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf), Trevor Hastie, Robert Tibshirani and Jerome Friedman
 
 ### Statistical Inference and Learning
-* **Computer-age Statistical Inference**, Bradley Efron and Trevor Hastie, [Check price on Amazon](http://amzn.to/2wnRtQi)
-* **An Introduction to Statistical Learning**, Gareth James,‎ Daniela Witten,‎ Trevor Hastie and Robert Tibshirani, [Check price on Amazon](http://amzn.to/1HkaNvu)
-* **The Elements of Statistical Learning**, Trevor Hastie,‎ Robert Tibshirani and Jerome Friedman, [Check price on Amazon](http://amzn.to/1GBbVWR), Advanced difficulty
+* [Computer-age Statistical Inference [$]](http://amzn.to/2wnRtQi), Bradley Efron and Trevor Hastie
+* [An Introduction to Statistical Learning [$]](http://amzn.to/1HkaNvu), Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
+* [The Elements of Statistical Learning [$]](http://amzn.to/1GBbVWR), Trevor Hastie, Robert Tibshirani and Jerome Friedman, Advanced difficulty
