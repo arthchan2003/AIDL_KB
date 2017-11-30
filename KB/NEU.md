@@ -197,3 +197,31 @@ Neural coding is a neuroscience related field concerned with characterizing the 
 * [On the computational architecture of the neocortex](https://link.springer.com/article/10.1007/BF00198477) and [The role of cortico-cortical loops](https://www.ncbi.nlm.nih.gov/pubmed/1540675), D. Mumford, 1991-1992, 800+ citations
 
 </details>
+
+### Neuroanatomy
+Neuroanatomy is the study of the anatomy and stereotyped organization of nervous systems. In contrast to animals with radial symmetry, whose nervous system consists of a distributed network of cells, animals with bilateral symmetry have segregated, defined nervous systems.
+
+#### Recommended Resources
+* [Neuroanatomy at UBC](http://www.neuroanatomy.ca/)
+* [Kenhub's Course](https://www.kenhub.com/en/start/neuroanatomy)
+
+#### Books
+* Chapter 2-5 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear,‎ Barry W. Connors,‎ Michael A. Paradiso, last updated 2015
+
+<details>
+<summary>Other useful resources</summary>
+
+#### Keywords
+* [Cell staining](https://en.wikipedia.org/wiki/Neuroanatomy#Cell_staining)
+* [Histochemistry](https://en.wikipedia.org/wiki/Histochemistry)
+* [Genetically encoded markers](https://en.wikipedia.org/wiki/Neuroanatomy#Genetically_encoded_markers)
+* Non-invasive brain imaging ([Magnetic resonance imaging](https://en.wikipedia.org/wiki/Magnetic_resonance_imaging))
+* [Viral-based and Dye-based methods](https://en.wikipedia.org/wiki/Neuroanatomy#Tools)
+* [Connectomics](https://en.wikipedia.org/wiki/Connectomics)
+* [Computational neuroanatomy](https://en.wikipedia.org/wiki/Computational_neuroscience)
+* [Model systems]
+  * Caenorhabditis elegans connectome
+    * [Network control principles predict neuron function in the Caenorhabditis elegans connectome](https://dx.doi.org/10.1038/nature24056), Gang Yan et al., 2016
+  * [Drosophila melanogaster connectome](https://en.wikipedia.org/wiki/Drosophila_connectome) → [Virtual Fly Brain](http://www.virtualflybrain.org/)
+
+</details>
