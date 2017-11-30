@@ -282,4 +282,4 @@ Behavioral Science involves the systematic analysis and investigation of human a
 
 </details>
 
-Headlines structure in this file was based on [Informatics and Cognitive Sciences Syllabus](https://is.cuni.cz/studium/eng/predmety/index.php?do=predmet&kod=AISV5155)
+Source: Headlines structure in this file was based on [Informatics and Cognitive Sciences Syllabus](https://is.cuni.cz/studium/eng/predmety/index.php?do=predmet&kod=AISV5155)
