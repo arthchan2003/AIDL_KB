@@ -7,7 +7,7 @@
 ### Psychological Theories of Vision
 
 #### Books
-* Chapter 2-4 of **Cognitive Psychology: A Student's Handbook** (7th edition), Michael W. Eysenck,‎ Mark T. Keane, last updated 2015, [Check price on Amazon](http://amzn.to/2jwcMGb)
+* Chapter 2-4 of [Cognitive Psychology: A Student's Handbook [$]](http://amzn.to/2jwcMGb) (7th edition), Michael W. Eysenck,‎ Mark T. Keane, last updated 2015
 
 <details>
 <summary>Other useful resources</summary>
@@ -40,8 +40,8 @@
   * [Competition between engrams influences fear memory formation and recall](https://dx.doi.org/10.1126/science.aaf0594), scientific paper from 2016, 50+ citations
 
 #### Books
-* Chapter 8 of **Cognitive Psychology: A Student's Handbook** (7th edition), Michael W. Eysenck,‎ Mark T. Keane, last updated 2015, [Check price on Amazon](http://amzn.to/2jwcMGb)
-* Chapter 24-25 of **Neuroscience: Exploring the Brain** (4th Edition), Mark F. Bear,‎ Barry W. Connors,‎ Michael A. Paradiso, last updated 2015, [Check price on Amazon](http://amzn.to/2zMmWxl)
+* Chapter 8 of [Cognitive Psychology: A Student's Handbook [$]](http://amzn.to/2jwcMGb) (7th edition), Michael W. Eysenck,‎ Mark T. Keane, last updated 2015
+* Chapter 24-25 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear,‎ Barry W. Connors,‎ Michael A. Paradiso, last updated 2015
 * [Implicit learning and consciousness: A graded, dynamic perspective](https://pdfs.semanticscholar.org/6813/6c840920f66f2b006c109af76925c9e3762c.pdf), Axel Cleeremans, from ‎2001, followed by [Connecting Conscious and Unconscious Processing](http://dx.doi.org/10.1111/cogs.12149) from 2014
 
 <details>
@@ -50,7 +50,7 @@
 #### Keywords
 * [Atkinson–Shiffrin memory model](https://en.wikipedia.org/wiki/Atkinson%E2%80%93Shiffrin_memory_model)
 * [Baddeley's model of working memory](https://en.wikipedia.org/wiki/Baddeley%27s_model_of_working_memory)
-* [Mental representation of knowledge](https://en.wikipedia.org/wiki/Mental_representation), recommended book [Computer-Based Diagnostics and Systematic Analysis of Knowledge](http://amzn.to/2jtMLaC), possible to obtain [free sample about Mental representation](http://www.springer.com/cda/content/document/cda_downloaddocument/9781441956613-c1.pdf?SGWID=0-0-45-855943-p173946013)
+* [Mental representation of knowledge](https://en.wikipedia.org/wiki/Mental_representation), recommended book [Computer-Based Diagnostics and Systematic Analysis of Knowledge [$]](http://amzn.to/2jtMLaC), possible to obtain [free sample about Mental representation](http://www.springer.com/cda/content/document/cda_downloaddocument/9781441956613-c1.pdf?SGWID=0-0-45-855943-p173946013)
 * [Episodic memory](https://en.wikipedia.org/wiki/Episodic_memory)
 * [Autobiographical memory](https://en.wikipedia.org/wiki/Autobiographical_memory)
 * [Implicit and explicit processes](https://doi.org/10.1016/j.neuron.2008.10.032), scientific paper from 2008, 260+ citations
@@ -62,7 +62,7 @@
 ### Decision making, problem solving
 
 #### Books
-* Chapter 17 of **Cognitive Psychology: A Student's Handbook** (7th edition), Michael W. Eysenck,‎ Mark T. Keane, last updated 2015, [Check price on Amazon](http://amzn.to/2jwcMGb)
+* Chapter 17 of [Cognitive Psychology: A Student's Handbook [$]](http://amzn.to/2jwcMGb) (7th edition), Michael W. Eysenck,‎ Mark T. Keane, last updated 2015
 
 #### Scientific Papers
 * [Prefrontal cortex and flexible cognitive control: Rules without symbols](https://doi.org/10.1073/pnas.0502455102), Nicolas P. Rougier, 2005, 300+ citations
@@ -99,7 +99,7 @@ It's recommended to read [Robert Epstein's post](https://aeon.co/essays/your-bra
 ### Neurons
 
 #### Books
-* Chapter 2-5 of **Neuroscience: Exploring the Brain** (4th Edition), Mark F. Bear,‎ Barry W. Connors,‎ Michael A. Paradiso, last updated 2015, [Check price on Amazon](http://amzn.to/2zMmWxl)
+* Chapter 2-5 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear,‎ Barry W. Connors,‎ Michael A. Paradiso, last updated 2015,
 
 <details>
 <summary>Other useful resources</summary>
