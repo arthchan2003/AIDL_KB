@@ -177,7 +177,7 @@ Low-level motor control is the process by which humans and animals use their bra
 
 </details>
 
-## Neurobiology: Large-scale Circuits, Networks
+## Neurobiology: Large-Scale Circuits, Networks
 
 ### Neural Coding
 Neural coding is a neuroscience related field concerned with characterizing the relationship between the stimulus and the individual or ensemble neuronal responses and the relationship among the electrical activity of the neurons in the ensemble.
@@ -284,7 +284,7 @@ Behavioral Science involves the systematic analysis and investigation of human a
 
 ## Visual Systems of the Brain
 
-### Low-level Vision
+### Low-Level Vision
 
 #### Books
 * Chapter 9-10 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear,‎ Barry W. Connors,‎ Michael A. Paradiso, last updated 2015
@@ -308,7 +308,7 @@ Behavioral Science involves the systematic analysis and investigation of human a
 
 </details>
 
-### Higher visual areas
+### Higher Visual Areas
 
 #### Books
 * Chapter 10 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear,‎ Barry W. Connors,‎ Michael A. Paradiso, last updated 2015
@@ -329,6 +329,33 @@ Behavioral Science involves the systematic analysis and investigation of human a
   * [Stimulating occipital cortex enhances visual working memory consolidation](https://doi.org/10.1016/j.bbr.2014.09.004), Tal Makovski, 2014, 5+ citations
 * [Binding problem](https://en.wikipedia.org/wiki/Binding_problem)
 * [Hierarchical models of object recognition in cortex](http://riesenhuberlab.neuro.georgetown.edu/docs/publications/nn99.pdf) ([doi](https://doi.org/10.1038/14819)), Maximilian Riesenhuber and Tomaso Poggio, ‎1999, 2800+ citations
+
+</details>
+
+## Higher Motor Systems
+
+#### Books
+* Chapter 13-14 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear,‎ Barry W. Connors,‎ Michael A. Paradiso, last updated 2015
+* [Vision. A Computational Investigation into the Human Representation and Processing of Visual Information [$]](http://amzn.to/2AvcWbl), David Marr, last updated 2010
+
+<details>
+<summary>Other useful resources</summary>
+
+#### Keywords
+* [Proprioception](https://en.wikipedia.org/wiki/Proprioception)
+* [Motor cortex](https://en.wikipedia.org/wiki/Motor_cortex)
+* [Premotor cortex](https://en.wikipedia.org/wiki/Premotor_cortex)
+* [Supplementary motor area](https://en.wikipedia.org/wiki/Supplementary_motor_area)
+* [Cerebellum](https://en.wikipedia.org/wiki/Cerebellum)
+  * [Purkinje cell](https://en.wikipedia.org/wiki/Purkinje_cell)
+  * [Granule cell](https://en.wikipedia.org/wiki/Granule_cell)
+  * [Climbing fiber](https://en.wikipedia.org/wiki/Climbing_fiber)
+  * [Parallel fiber](https://en.wikipedia.org/wiki/Parallel_fiber)
+  * David Marr's [Tri-Level Hypothesis](http://www.bcp.psych.ualberta.ca/~mike/Pearl_Street/Dictionary/contents/T/tri-level_hypothesis.html)
+* [Basal ganglia](https://en.wikipedia.org/wiki/Basal_ganglia)
+  * [“Go” and “NoGo” pathways](http://www.dana.org/Cerebrum/Default.aspx?id=39393)
+  * [Parkinson's disease](https://en.wikipedia.org/wiki/Parkinson%27s_disease)
+* [On the role of the hippocampus in learning and memory in the rat](https://doi.org/10.1016/0163-1047(93)90664-4), Leonard E. Jarrard, 1993, 1000+ citations
 
 </details>
 
