@@ -15,7 +15,7 @@
   * [Learning OpenCV [$]](http://shop.oreilly.com/product/9780596516130.do), Gray Bradski, Adrian Kaehler, 2008, O'Reilly
 
 ## Scientific Papers
-Based on [Awesome DL Papers](https://github.com/terryum/awesome-deep-learning-papers)
+Based on [Awesome DL Papers](https://github.com/terryum/awesome-deep-learning-papers), counted since 2012 (last 5 years).
 
 ### Segmentation, Object Detection
 - [Rich feature hierarchies for accurate object detection and semantic segmentation](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf), R. Girshick et al., 2014, 4000+ citations
