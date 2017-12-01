@@ -389,7 +389,7 @@ Spatial cognition is a branch of cognitive psychology that studies how people or
 
 #### Books
 * [Handbook of Spatial Cognition [$]](http://amzn.to/2i4J6Qm) (1st Edition), David Waller, last updated 2012
-* Part 1, Chapter 7: Article [Comparative approaches to human navigation [$]](10.1093/acprof:oso/9780198515241.003.0007), Elizabeth S. Spelke, 30+ citations, in the book [The Neurobiology of Spatial Behaviour [$]](http://amzn.to/2j6lXh4), K. J. Jeffery, last updated 2003
+* Part 1, Chapter 7: Article [Comparative approaches to human navigation [$]](https://doi.org/10.1093/acprof:oso/9780198515241.003.0007), Elizabeth S. Spelke, 30+ citations, in the book [The Neurobiology of Spatial Behaviour [$]](http://amzn.to/2j6lXh4), K. J. Jeffery, last updated 2003
 
 <details>
 <summary>Other useful resources</summary>
