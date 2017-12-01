@@ -2,6 +2,32 @@
 
 # Psychology and Neuroscience
 
+## Short version
+
+### Courses
+* [Computational Neuroscience](https://www.coursera.org/learn/computational-neuroscience) on Coursera, recommended, Beginner difficulty
+* [The Fundamentals of Neuroscience](https://www.mcb80x.org/) on Harvard & edX, Neuroscience intro, has no prerequisities but Biology and Chemistry can be helpful
+* [Introduction to Neuroscience](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-01-introduction-to-neuroscience-fall-2007/) on MIT OCW, emphasis on structure and function of human brain, text based (no video)
+* [Medical Neuroscience](https://www.coursera.org/learn/medical-neuroscience) on Coursera, Advanced difficulty
+
+### Books
+* [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear,‎ Barry W. Connors,‎ Michael A. Paradiso, last updated 2015
+
+### Memory Theory
+[Overview of memory model](https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Memory) with likely future changes:
+* Protein synthesis possibly plays a role
+  * [The role of protein synthesis in memory consolidation: Progress amid decades of debate](https://dx.doi.org/10.1016%2Fj.nlm.2007.09.010), scientific paper from 2008, 130+ citations
+  * [Protein synthesis is associated with high-speed dynamics and broad-band stability of functional hubs in the brain](https://dx.doi.org/10.1016%2Fj.neuroimage.2017.04.062), scientific paper from 2017
+* Memory formation possibly happens due to engram competition
+  * [Competition between engrams influences fear memory formation and recall](https://dx.doi.org/10.1126/science.aaf0594), scientific paper from 2016, 50+ citations
+
+### Brain as a Computer
+"Does human brain work like a computer or not?" has the rather complicated answer. And with certainty, it's not possible to answer it with current knowledge. It's also good to mention that Artificial Neural Networks are inspired by Biological Neural Networks, therefore they could possibly simulate them, although with current technology it's [still very inefficient](http://agi-roadmap.sablatura.info/).
+
+It's recommended to read [Robert Epstein's post](https://aeon.co/essays/your-brain-does-not-process-information-and-it-is-not-a-computer) that looking at the brain as a computer is wrong, followed by counterarguments such as [Perengras's](http://lukependergrass.work/blog/the-information-processing-brain) (followed by [Golder's review of both](https://medium.com/@gdoteof/a-response-to-a-response-to-the-empty-brain-the-information-processing-brain-dde4c6d3aecd)), [Shallit's](http://recursed.blogspot.com/2016/05/yes-your-brain-certainly-is-computer.html) and [Graziosi's](https://sergiograziosi.wordpress.com/2016/05/22/robert-epsteins-empty-essay/).
+
+---
+
 ## Psychology
 
 ### Psychological Theories of Vision
@@ -32,12 +58,6 @@
 </details>
 
 ### Psychological Theories of Memory
-[Most to date memory model](https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Memory) online with potential future updates:
-* Protein synthesis possibly plays a role
-  * [The role of protein synthesis in memory consolidation: Progress amid decades of debate](https://dx.doi.org/10.1016%2Fj.nlm.2007.09.010), scientific paper from 2008, 130+ citations
-  * [Protein synthesis is associated with high-speed dynamics and broad-band stability of functional hubs in the brain](https://dx.doi.org/10.1016%2Fj.neuroimage.2017.04.062), scientific paper from 2017
-* Memory formation possibly happens due to engram competition
-  * [Competition between engrams influences fear memory formation and recall](https://dx.doi.org/10.1126/science.aaf0594), scientific paper from 2016, 50+ citations
 
 #### Books
 * Chapter 8 of [Cognitive Psychology: A Student's Handbook [$]](http://amzn.to/2jwcMGb) (7th edition), Michael W. Eysenck,‎ Mark T. Keane, last updated 2015
@@ -87,18 +107,6 @@
 
 ## Neurobiology: Single Neuron, Coupled Neurons
 
-### Courses
-* [Computational Neuroscience](https://www.coursera.org/learn/computational-neuroscience) on Coursera, recommended, Beginner difficulty
-* [Idan Segev: Synapses, Neurons and Brains](https://www.coursera.org/learn/synapses/) on Coursera, Beginner difficulty (easiest) <!-- very simple, lower quality, possibly remove this link in the future -->
-* [The Fundamentals of Neuroscience](https://www.mcb80x.org/) on Harvard & edX, Neuroscience intro, has no prerequisities but Biology and Chemistry can be helpful
-* [Introduction to Neuroscience](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-01-introduction-to-neuroscience-fall-2007/) on MIT OCW, emphasis on structure and function of human brain, text based (no video)
-* [Medical Neuroscience](https://www.coursera.org/learn/medical-neuroscience) on Coursera, Advanced difficulty
-
-### Brain as a Computer
-"Does human brain work like a computer or not?" has the rather complicated answer. And with certainty, it's not possible to answer it with current knowledge. It's also good to mention that Artificial Neural Networks are inspired by Biological Neural Networks, therefore they could possibly simulate them, although with current technology it's [still very inefficient](http://agi-roadmap.sablatura.info/).
-
-It's recommended to read [Robert Epstein's post](https://aeon.co/essays/your-brain-does-not-process-information-and-it-is-not-a-computer) that looking at the brain as a computer is wrong, followed by counterarguments such as [Perengras's](http://lukependergrass.work/blog/the-information-processing-brain) (followed by [Golder's review of both](https://medium.com/@gdoteof/a-response-to-a-response-to-the-empty-brain-the-information-processing-brain-dde4c6d3aecd)), [Shallit's](http://recursed.blogspot.com/2016/05/yes-your-brain-certainly-is-computer.html) and [Graziosi's](https://sergiograziosi.wordpress.com/2016/05/22/robert-epsteins-empty-essay/).
-
 ### Neuron
 
 #### Books
@@ -142,39 +150,6 @@ It's recommended to read [Robert Epstein's post](https://aeon.co/essays/your-bra
 * [Simple Model of Spiking Neurons (Izhikevich's model)](https://www.izhikevich.org/publications/spikes.htm), [pdf](https://www.izhikevich.org/publications/spikes.pdf)
 * [Perceptron](https://en.wikipedia.org/wiki/Perceptron)
 * [Blue Brain Project](https://bluebrain.epfl.ch/), creating a digital reconstruction of the brain by reverse-engineering mammalian brain circuitry
-</details>
-
-### Motor Control
-Low-level motor control is the process by which humans and animals use their brain/cognition to activate and coordinate the muscles and limbs involved in the performance of a motor skill. Fundamentally, it is the integration of sensory information, both about the world and the current state of the body, to determine the appropriate set of muscle forces and joint activations to generate some desired movement or action. This process requires cooperative interaction between the central nervous system and the musculoskeletal system, and is thus a problem of information processing, coordination, mechanics, physics, and cognition. Successful motor control is crucial to interacting with the world, not only determining action capabilities, but regulating balance and stability as well. – Citation from [Motor Control](https://en.wikipedia.org/wiki/Motor_control)
-
-#### Books
-* Chapter 12-14 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear,‎ Barry W. Connors,‎ Michael A. Paradiso, last updated 2015
-
-#### Scientific Papers
-* [From swimming to walking with a salamander robot driven by a spinal cord model](https://doi.org/10.1126/science.1138353), Ijspeert AJ et al., 2007, 700+ citations
-* [Evidence for fast, low-level motor resonance to action observation: An MEG study](https://doi.org/10.1080/17470910701414364), Hein T. van Schie, 2008, 30+ citations
-
-<details>
-<summary>Other useful resources</summary>
-
-#### Notes
-* Majority of human **fingers and toes are replaceable** and theoretically redundant. From 5 toes per a leg, Homo Sapiens would be able to move without all of them, although [toes play the role in the effectivity of movement](https://doi.org/10.1038/nature03052). Speaking about fingers, [three are necessary for object manipulation](https://blog.robotiq.com/why-use-a-robot-gripper-with-3-fingers) if at least one is in the opposition.
-
-#### Keywords
-* Organization of the motor system
-  * [Pyramidal tracts](https://en.wikipedia.org/wiki/Pyramidal_tracts)
-  * [Extrapyramidal system](https://en.wikipedia.org/wiki/Extrapyramidal_system)
-* [Reflexes](https://en.wikipedia.org/wiki/Reflex)
-  * [List of reflexes](https://en.wikipedia.org/wiki/List_of_reflexes)
-* [Central pattern generators](https://en.wikipedia.org/wiki/Central_pattern_generator)
-* [Motor program](https://en.wikipedia.org/wiki/Motor_program)
-* [The oculomotor system](https://www.ncbi.nlm.nih.gov/pubmed/17314476)
-* [Saccades](https://en.wikipedia.org/wiki/Saccade), quick, simultaneous movement of both eyes between two or more phases of fixation in the same direction
-* [Hexapod robots](https://en.wikipedia.org/wiki/Hexapod_(robotics)), biologically inspired by [Hexapoda](https://en.wikipedia.org/wiki/Hexapoda) [locomotion](https://en.wikipedia.org/wiki/Terrestrial_locomotion) (movement of insects with six legs)
-* **Lamprey robots**, based on the model of the lamprey spiral cord
-  * [Lamprey robot from the Biorob Lab of Auke Ispeert at EPFL (YouTube video)](https://www.youtube.com/watch?v=ZvGEWHfGnfU)
-  * [Wake structures behind a swimming robotic lamprey with a passively flexible tail](https://dx.doi.org/10.1242%2Fjeb.061440), Megan C. Leftwich et al., 2012, 40+ citations
-
 </details>
 
 ## Neurobiology: Large-Scale Circuits, Networks
@@ -332,7 +307,42 @@ Behavioral Science involves the systematic analysis and investigation of human a
 
 </details>
 
-## Higher Motor Systems
+## Motor Control
+
+### Low-Level Motor Control
+Low-level motor control is the process by which humans and animals use their brain/cognition to activate and coordinate the muscles and limbs involved in the performance of a motor skill. Fundamentally, it is the integration of sensory information, both about the world and the current state of the body, to determine the appropriate set of muscle forces and joint activations to generate some desired movement or action. This process requires cooperative interaction between the central nervous system and the musculoskeletal system, and is thus a problem of information processing, coordination, mechanics, physics, and cognition. Successful motor control is crucial to interacting with the world, not only determining action capabilities, but regulating balance and stability as well. – Citation from [Motor Control](https://en.wikipedia.org/wiki/Motor_control)
+
+#### Books
+* Chapter 12-14 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear,‎ Barry W. Connors,‎ Michael A. Paradiso, last updated 2015
+
+#### Scientific Papers
+* [From swimming to walking with a salamander robot driven by a spinal cord model](https://doi.org/10.1126/science.1138353), Ijspeert AJ et al., 2007, 700+ citations
+* [Evidence for fast, low-level motor resonance to action observation: An MEG study](https://doi.org/10.1080/17470910701414364), Hein T. van Schie, 2008, 30+ citations
+
+<details>
+<summary>Other useful resources</summary>
+
+#### Notes
+* Majority of human **fingers and toes are replaceable** and theoretically redundant. From 5 toes per a leg, Homo Sapiens would be able to move without all of them, although [toes play the role in the effectivity of movement](https://doi.org/10.1038/nature03052). Speaking about fingers, [three are necessary for object manipulation](https://blog.robotiq.com/why-use-a-robot-gripper-with-3-fingers) if at least one is in the opposition.
+
+#### Keywords
+* Organization of the motor system
+  * [Pyramidal tracts](https://en.wikipedia.org/wiki/Pyramidal_tracts)
+  * [Extrapyramidal system](https://en.wikipedia.org/wiki/Extrapyramidal_system)
+* [Reflexes](https://en.wikipedia.org/wiki/Reflex)
+  * [List of reflexes](https://en.wikipedia.org/wiki/List_of_reflexes)
+* [Central pattern generators](https://en.wikipedia.org/wiki/Central_pattern_generator)
+* [Motor program](https://en.wikipedia.org/wiki/Motor_program)
+* [The oculomotor system](https://www.ncbi.nlm.nih.gov/pubmed/17314476)
+* [Saccades](https://en.wikipedia.org/wiki/Saccade), quick, simultaneous movement of both eyes between two or more phases of fixation in the same direction
+* [Hexapod robots](https://en.wikipedia.org/wiki/Hexapod_(robotics)), biologically inspired by [Hexapoda](https://en.wikipedia.org/wiki/Hexapoda) [locomotion](https://en.wikipedia.org/wiki/Terrestrial_locomotion) (movement of insects with six legs)
+* **Lamprey robots**, based on the model of the lamprey spiral cord
+  * [Lamprey robot from the Biorob Lab of Auke Ispeert at EPFL (YouTube video)](https://www.youtube.com/watch?v=ZvGEWHfGnfU)
+  * [Wake structures behind a swimming robotic lamprey with a passively flexible tail](https://dx.doi.org/10.1242%2Fjeb.061440), Megan C. Leftwich et al., 2012, 40+ citations
+
+</details>
+
+### Higher Motor Systems
 
 #### Books
 * Chapter 13-14 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear,‎ Barry W. Connors,‎ Michael A. Paradiso, last updated 2015
@@ -404,9 +414,34 @@ Spatial cognition is a branch of cognitive psychology that studies how people or
 
 </details>
 
+### Computational models of hippocampus
 
+#### Books
+* Chapter 24-25 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear,‎ Barry W. Connors,‎ Michael A. Paradiso, last updated 2015
+* [The Hippocampus Book [$]](http://amzn.to/2Ao88SD) (1st Edition), Per Andersen,‎ Richard Morris,‎ David Amaral,‎ Tim Bliss,‎ John O'Keefe, last updated 2006
 
+#### Scientific Papers
+* [Microstructure of a spatial map in the entorhinal cortex](https://doi.org/10.1038/nature03721), Torkel Hafting, Marianne Fyhn, Sturla Molden, May-Britt Moser & Edvard I. Moser, 2005, 2100+ citations
+* [Path integration and the neural basis of the ‘Cognitive Map.’](https://doi.org/10.1038/nrn1932), Bruce L. Mcnaughton, 2006, 1100+ citations
+* [A spin glass model of path integration in rat medial entorhinal cortex](https://doi.org/10.1523/JNEUROSCI.4353-05.2006), Mark C. Fuhs and David S. Touretzky, 2006, 400+ citations
+* [Catastrophic Forgetting in Connectionist Networks](https://doi.org/10.1002/0470018860.s00096), Robert M French, 2006, 140+ citations
+* [A unified model of spatial and episodic memory](https://doi.org/10.1098/rspb.2002.2009), Edmund T. Rolls, Simon M. Stringer and Thomas P. Trappenberg, 2002, 90+ citations
 
-<!-- ### Computational models of hippocampus -->
+<details>
+<summary>Other useful resources</summary>
+
+#### Keywords
+* [Hippocampus anatomy](https://en.wikipedia.org/wiki/Hippocampus_anatomy)
+* [Episodic Memory Models](https://doi.org/10.1109/TNNLS.2012.2208477)
+  * [Attractor network](http://www.scholarpedia.org/article/Attractor_network)
+* [Catastrophic interference](https://en.wikipedia.org/wiki/Catastrophic_interference)
+  * [Recursive Dual-Net: A New Universal Network for Supercomputers of the Next Generation](https://doi.org/10.1007/978-3-642-03095-6_76), Yamin Li, Shietung Peng, Wanming Chu, 2009, 15+ citations
+* [Memory consolidation](https://en.wikipedia.org/wiki/Memory_consolidation)
+* [Hippocampal pointers](https://www.google.com/search?q=hippocampal+pointers)
+* [Head direction cells models](https://en.wikipedia.org/wiki/Head_direction_cells#Theoretical_models)
+* [Place cell models](https://doi.org/10.1002/hipo.20244)
+* [Grid cell models](https://doi.org/10.1016/j.neuron.2011.07.023)
+
+</details>
 
 <br>Source: The structure of headlines was based on [Informatics and Cognitive Sciences](https://is.cuni.cz/studium/eng/predmety/index.php?do=predmet&kod=AISV5155) syllabus
