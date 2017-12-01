@@ -24,8 +24,13 @@ Based on [Awesome DL Papers](https://github.com/terryum/awesome-deep-learning-pa
 - [Fast R-CNN](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf), R. Girshick, 2015, 1600+ citations
 - [Learning hierarchical features for scene labeling](https://hal-enpc.archives-ouvertes.fr/docs/00/74/20/77/PDF/farabet-pami-13.pdf), C. Farabet et al., 2013, 1100+ citations
 - [Semantic image segmentation with deep convolutional nets and fully connected CRFs](https://arxiv.org/pdf/1412.7062), L. Chen et al., 1000+ citations
+
+<details>
+<summary>Papers with less than 1000 citations</summary>
+
 - [Spatial pyramid pooling in deep convolutional networks for visual recognition](http://arxiv.org/pdf/1406.4729), K. He et al., 2014, 800+ citations
 - [You only look once: Unified, real-time object detection](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf), J. Redmon et al., 2016, 700+ citations
+</details>
 
 ### Image, Video
 - [DeepFace: Closing the gap to human-level performance in face verification](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Taigman_DeepFace_Closing_the_2014_CVPR_paper.pdf), Y. Taigman et al., 2014, 1700+ citations
@@ -36,6 +41,11 @@ Based on [Awesome DL Papers](https://github.com/terryum/awesome-deep-learning-pa
 - [Long-term recurrent convolutional networks for visual recognition and description ](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Donahue_Long-Term_Recurrent_Convolutional_2015_CVPR_paper.pdf), J. Donahue et al., 2015, 1100+ citations
 - [3D convolutional neural networks for human action recognition](http://machinelearning.wustl.edu/mlpapers/paper_files/icml2010_JiXYY10.pdf), S. Ji et al., 2013, 1100+ citations
 - [Two-stream convolutional networks for action recognition in videos](http://papers.nips.cc/paper/5353-two-stream-convolutional-networks-for-action-recognition-in-videos.pdf), K. Simonyan et al., 2014, 1000+ citations
+
+<details>
+<summary>Papers with less than 1000 citations</summary>
+
 - [Image Super-Resolution Using Deep Convolutional Networks](https://arxiv.org/pdf/1501.00092v3.pdf), C. Dong et al., 2016, 500+ citations
 - [VQA: Visual question answering](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Antol_VQA_Visual_Question_ICCV_2015_paper.pdf), S. Antol et al., 2015, 400+ citations
 - [A neural algorithm of artistic style](https://arxiv.org/pdf/1508.06576), L. Gatys et al., 2015, 300+ citations
+</details>
