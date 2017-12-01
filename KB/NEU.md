@@ -10,8 +10,11 @@
 * [Introduction to Neuroscience](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-01-introduction-to-neuroscience-fall-2007/) on MIT OCW, emphasis on structure and function of human brain, text based (no video)
 * [Medical Neuroscience](https://www.coursera.org/learn/medical-neuroscience) on Coursera, Advanced difficulty
 
+### Curated Lists
+* [Awesome Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience)
+
 ### Books
-* [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear,‎ Barry W. Connors,‎ Michael A. Paradiso, last updated 2015
+* [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear, Barry W. Connors, Michael A. Paradiso, last updated 2015
 
 ### Memory Theory
 [Overview of memory model](https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Memory) with likely future changes:
@@ -33,7 +36,7 @@ It's recommended to read [Robert Epstein's post](https://aeon.co/essays/your-bra
 ### Psychological Theories of Vision
 
 #### Books
-* Chapter 2-4 of [Cognitive Psychology: A Student's Handbook [$]](http://amzn.to/2jwcMGb) (7th edition), Michael W. Eysenck,‎ Mark T. Keane, last updated 2015
+* Chapter 2-4 of [Cognitive Psychology: A Student's Handbook [$]](http://amzn.to/2jwcMGb) (7th edition), Michael W. Eysenck, Mark T. Keane, last updated 2015
 
 <details>
 <summary>Other useful resources</summary>
@@ -60,11 +63,11 @@ It's recommended to read [Robert Epstein's post](https://aeon.co/essays/your-bra
 ### Psychological Theories of Memory
 
 #### Books
-* Chapter 8 of [Cognitive Psychology: A Student's Handbook [$]](http://amzn.to/2jwcMGb) (7th edition), Michael W. Eysenck,‎ Mark T. Keane, last updated 2015
-* Chapter 24-25 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear,‎ Barry W. Connors,‎ Michael A. Paradiso, last updated 2015
+* Chapter 8 of [Cognitive Psychology: A Student's Handbook [$]](http://amzn.to/2jwcMGb) (7th edition), Michael W. Eysenck, Mark T. Keane, last updated 2015
+* Chapter 24-25 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear, Barry W. Connors, Michael A. Paradiso, last updated 2015
 
 #### Scientific Papers
-* [Implicit learning and consciousness: A graded, dynamic perspective](https://pdfs.semanticscholar.org/6813/6c840920f66f2b006c109af76925c9e3762c.pdf), Axel Cleeremans, from ‎2001, followed by [Connecting Conscious and Unconscious Processing](http://dx.doi.org/10.1111/cogs.12149) from 2014
+* [Implicit learning and consciousness: A graded, dynamic perspective](https://pdfs.semanticscholar.org/6813/6c840920f66f2b006c109af76925c9e3762c.pdf), Axel Cleeremans, from 2001, followed by [Connecting Conscious and Unconscious Processing](http://dx.doi.org/10.1111/cogs.12149) from 2014
 * [Theories of Memory and Aging: A Look at the Past and a Glimpse of the Future](https://doi.org/10.1093/geronb/gbw066), Denise C. Park, Sara B. Festini, 2016
 
 <details>
@@ -85,7 +88,7 @@ It's recommended to read [Robert Epstein's post](https://aeon.co/essays/your-bra
 ### Decision Making, Problem Solving
 
 #### Books
-* Chapter 17 of [Cognitive Psychology: A Student's Handbook [$]](http://amzn.to/2jwcMGb) (7th edition), Michael W. Eysenck,‎ Mark T. Keane, last updated 2015
+* Chapter 17 of [Cognitive Psychology: A Student's Handbook [$]](http://amzn.to/2jwcMGb) (7th edition), Michael W. Eysenck, Mark T. Keane, last updated 2015
 
 #### Scientific Papers
 * [Prefrontal cortex and flexible cognitive control: Rules without symbols](https://doi.org/10.1073/pnas.0502455102), Nicolas P. Rougier, 2005, 300+ citations
@@ -110,7 +113,7 @@ It's recommended to read [Robert Epstein's post](https://aeon.co/essays/your-bra
 ### Neuron
 
 #### Books
-* Chapter 2-5 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear,‎ Barry W. Connors,‎ Michael A. Paradiso, last updated 2015
+* Chapter 2-5 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear, Barry W. Connors, Michael A. Paradiso, last updated 2015
 
 <details>
 <summary>Other useful resources</summary>
@@ -134,7 +137,7 @@ It's recommended to read [Robert Epstein's post](https://aeon.co/essays/your-bra
 **Lebedev and Lutsky** ([1972](https://scholar.google.com/scholar_lookup?title=Physiology%20of%20movements%20and%20activity&author=NA.%20Bernstein&publication_year=1990)) pioneered the concept of modeling the dynamics of neurons on the basis of equations with delay. Generally, researchers agree that it is not necessary to introduce delay in explicit form into equations that describe the neuron. In examining the fundamental role of delays in neuron modeling, **Hodgkin and Huxley** ([1939](https://scholar.google.com/scholar_lookup?title=Models%20of%20neural%20dynamics%20in%20brain%20information%20processing%E2%80%94Results%20of%20%E2%80%9Cdecade%E2%80%9D&author=GN.%20Borisyuk&author=RM.%20Borisyuk&author=YB.%20Kazanovich&author=GR.%20Ivanitsky&journal=UFMN&volume=172&issue=10&pages=1189-1214&publication_year=2002)) achieved the effect of delay through the use of a chain of ordinary differential equations. A model always reflects the interpretation of a phenomenon; simultaneously, some aspects are taken for granted while some others are typically ignored. The purposes of modeling also differ. Some models are used to study processes taking place inside the object under examination; others are used to explain the relationship of objects to each other. The neuron is a complex formation, and it is difficult to expect the monotony of representations. In our view, a variety of mathematical models of neurons can be divided into two classes: static and dynamic. – Citation (simplified) from [The Model of a Single Neuron](https://link.springer.com/chapter/10.1007/978-3-319-19866-8_1), Serguey Kashchenko, last updated 2015
 
 #### Books
-* Chapter 2-5 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear,‎ Barry W. Connors,‎ Michael A. Paradiso, last updated 2015
+* Chapter 2-5 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear, Barry W. Connors, Michael A. Paradiso, last updated 2015
 * Chapter 1-2 of [Dynamical Systems in Neuroscience: The Geometry of Excitability and Bursting [$]](http://amzn.to/2i41xVi), Eugene M. Izhikevich, last updated 2010
 * [Chapter 6](https://christofkoch.files.wordpress.com/2014/01/hodgkin_huxley.pdf) of [Biophysics of Computation: Information Processing in Single Neurons [$]](http://amzn.to/2jxIkvk), Christof Koch, last updated 2004
 
@@ -184,7 +187,7 @@ Neuroanatomy is the study of the anatomy and stereotyped organization of nervous
 * [Kenhub's Course](https://www.kenhub.com/en/start/neuroanatomy)
 
 #### Books
-* Chapter 2-5 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear,‎ Barry W. Connors,‎ Michael A. Paradiso, last updated 2015
+* Chapter 2-5 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear, Barry W. Connors, Michael A. Paradiso, last updated 2015
 
 <details>
 <summary>Other useful resources</summary>
@@ -236,7 +239,7 @@ Behavioral Science involves the systematic analysis and investigation of human a
 ### Molecular Mechanisms of Learning
 
 #### Books
-* Chapter 23-25 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear,‎ Barry W. Connors,‎ Michael A. Paradiso, last updated 2015
+* Chapter 23-25 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear, Barry W. Connors, Michael A. Paradiso, last updated 2015
 
 #### Scientific Papers
 * [The molecular biology of memory storage: a dialogue between genes and synapses](https://doi.org/10.1126/science.1067020),  Eric R. Kandel, 2001, 3000+ citations
@@ -262,8 +265,8 @@ Behavioral Science involves the systematic analysis and investigation of human a
 ### Low-Level Vision
 
 #### Books
-* Chapter 9-10 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear,‎ Barry W. Connors,‎ Michael A. Paradiso, last updated 2015
-* Chapter 3 of [Computational Maps in the Visual Cortex [$]](https://goo.gl/nEYbcL) (1st Edition), Risto Miikkulainen,‎ James A. Bednar,‎ Yoonsuck Choe, last updated 2010
+* Chapter 9-10 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear, Barry W. Connors, Michael A. Paradiso, last updated 2015
+* Chapter 3 of [Computational Maps in the Visual Cortex [$]](https://goo.gl/nEYbcL) (1st Edition), Risto Miikkulainen, James A. Bednar, Yoonsuck Choe, last updated 2010
 
 #### Scientific Papers
 * [What the Frog's Eye Tells the Frog's Brain](https://hearingbrain.org/docs/letvin_ieee_1959.pdf) ([doi](https://doi.org/10.1109/JRPROC.1959.287207)), [Jerome Lettvin](https://en.wikipedia.org/wiki/Jerome_Lettvin) et al., 1959, 2300+ citations
@@ -286,7 +289,7 @@ Behavioral Science involves the systematic analysis and investigation of human a
 ### Higher Visual Areas
 
 #### Books
-* Chapter 10 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear,‎ Barry W. Connors,‎ Michael A. Paradiso, last updated 2015
+* Chapter 10 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear, Barry W. Connors, Michael A. Paradiso, last updated 2015
 
 <details>
 <summary>Other useful resources</summary>
@@ -303,7 +306,7 @@ Behavioral Science involves the systematic analysis and investigation of human a
 * Working memory in the occipital cortex
   * [Stimulating occipital cortex enhances visual working memory consolidation](https://doi.org/10.1016/j.bbr.2014.09.004), Tal Makovski, 2014, 5+ citations
 * [Binding problem](https://en.wikipedia.org/wiki/Binding_problem)
-* [Hierarchical models of object recognition in cortex](http://riesenhuberlab.neuro.georgetown.edu/docs/publications/nn99.pdf) ([doi](https://doi.org/10.1038/14819)), Maximilian Riesenhuber and Tomaso Poggio, ‎1999, 2800+ citations
+* [Hierarchical models of object recognition in cortex](http://riesenhuberlab.neuro.georgetown.edu/docs/publications/nn99.pdf) ([doi](https://doi.org/10.1038/14819)), Maximilian Riesenhuber and Tomaso Poggio, 1999, 2800+ citations
 
 </details>
 
@@ -313,7 +316,7 @@ Behavioral Science involves the systematic analysis and investigation of human a
 Low-level motor control is the process by which humans and animals use their brain/cognition to activate and coordinate the muscles and limbs involved in the performance of a motor skill. Fundamentally, it is the integration of sensory information, both about the world and the current state of the body, to determine the appropriate set of muscle forces and joint activations to generate some desired movement or action. This process requires cooperative interaction between the central nervous system and the musculoskeletal system, and is thus a problem of information processing, coordination, mechanics, physics, and cognition. Successful motor control is crucial to interacting with the world, not only determining action capabilities, but regulating balance and stability as well. – Citation from [Motor Control](https://en.wikipedia.org/wiki/Motor_control)
 
 #### Books
-* Chapter 12-14 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear,‎ Barry W. Connors,‎ Michael A. Paradiso, last updated 2015
+* Chapter 12-14 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear, Barry W. Connors, Michael A. Paradiso, last updated 2015
 
 #### Scientific Papers
 * [From swimming to walking with a salamander robot driven by a spinal cord model](https://doi.org/10.1126/science.1138353), Ijspeert AJ et al., 2007, 700+ citations
@@ -345,7 +348,7 @@ Low-level motor control is the process by which humans and animals use their bra
 ### Higher Motor Systems
 
 #### Books
-* Chapter 13-14 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear,‎ Barry W. Connors,‎ Michael A. Paradiso, last updated 2015
+* Chapter 13-14 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear, Barry W. Connors, Michael A. Paradiso, last updated 2015
 * [Vision. A Computational Investigation into the Human Representation and Processing of Visual Information [$]](http://amzn.to/2AvcWbl), David Marr, last updated 2010
 
 <details>
@@ -417,8 +420,8 @@ Spatial cognition is a branch of cognitive psychology that studies how people or
 ### Computational Models of Hippocampus
 
 #### Books
-* Chapter 24-25 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear,‎ Barry W. Connors,‎ Michael A. Paradiso, last updated 2015
-* [The Hippocampus Book [$]](http://amzn.to/2Ao88SD) (1st Edition), Per Andersen,‎ Richard Morris,‎ David Amaral,‎ Tim Bliss,‎ John O'Keefe, last updated 2006
+* Chapter 24-25 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear, Barry W. Connors, Michael A. Paradiso, last updated 2015
+* [The Hippocampus Book [$]](http://amzn.to/2Ao88SD) (1st Edition), Per Andersen, Richard Morris, David Amaral, Tim Bliss, John O'Keefe, last updated 2006
 
 #### Scientific Papers
 * [Microstructure of a spatial map in the entorhinal cortex](https://doi.org/10.1038/nature03721), Torkel Hafting, Marianne Fyhn, Sturla Molden, May-Britt Moser & Edvard I. Moser, 2005, 2100+ citations
