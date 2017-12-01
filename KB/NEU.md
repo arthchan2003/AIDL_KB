@@ -308,9 +308,28 @@ Behavioral Science involves the systematic analysis and investigation of human a
 
 </details>
 
+### Higher visual areas
 
+#### Books
+* Chapter 10 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear,‎ Barry W. Connors,‎ Michael A. Paradiso, last updated 2015
 
+<details>
+<summary>Other useful resources</summary>
 
+#### Keywords
+* [Secondary visual cortex](https://en.wikipedia.org/wiki/Visual_cortex#V2) (V2), prestriate cortex
+* [Visual area V4](https://en.wikipedia.org/wiki/Visual_cortex#V4) or [Colour centre](https://en.wikipedia.org/wiki/Colour_centre)
+* [Middle temporal gyrus](https://en.wikipedia.org/wiki/Middle_temporal_gyrus)
+* [Fusiform face area](https://en.wikipedia.org/wiki/Fusiform_face_area)
+* [Inferior temporal gyrus](https://en.wikipedia.org/wiki/Inferior_temporal_gyrus)
+* [Posterior parietal cortex](https://en.wikipedia.org/wiki/Posterior_parietal_cortex)
+* [Two-streams hypothesis](https://en.wikipedia.org/wiki/Two-streams_hypothesis)
+  * [Separate visual pathways for perception and action](https://doi.org/10.1016/0166-2236(92)90344-8), Melvyn Goodale, David Milner, 1992, 2500+ citations
+* Working memory in the occipital cortex
+  * [Stimulating occipital cortex enhances visual working memory consolidation](https://doi.org/10.1016/j.bbr.2014.09.004), Tal Makovski, 2014, 5+ citations
+* [Binding problem](https://en.wikipedia.org/wiki/Binding_problem)
+* [Hierarchical models of object recognition in cortex](http://riesenhuberlab.neuro.georgetown.edu/docs/publications/nn99.pdf) ([doi](https://doi.org/10.1038/14819)), Maximilian Riesenhuber and Tomaso Poggio, ‎1999, 2800+ citations
 
+</details>
 
 <br>Source: The structure of headlines was based on [Informatics and Cognitive Sciences](https://is.cuni.cz/studium/eng/predmety/index.php?do=predmet&kod=AISV5155) syllabus
