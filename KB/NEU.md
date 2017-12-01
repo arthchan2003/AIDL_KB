@@ -177,7 +177,7 @@ Low-level motor control is the process by which humans and animals use their bra
 
 </details>
 
-## Neurobiology: Large-scale Circuits, Networks
+## Neurobiology: Large-Scale Circuits, Networks
 
 ### Neural Coding
 Neural coding is a neuroscience related field concerned with characterizing the relationship between the stimulus and the individual or ensemble neuronal responses and the relationship among the electrical activity of the neurons in the ensemble.
@@ -282,4 +282,131 @@ Behavioral Science involves the systematic analysis and investigation of human a
 
 </details>
 
-Source: Headlines structure in this file was based on [Informatics and Cognitive Sciences Syllabus](https://is.cuni.cz/studium/eng/predmety/index.php?do=predmet&kod=AISV5155)
+## Visual Systems
+
+### Low-Level Vision
+
+#### Books
+* Chapter 9-10 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear,‎ Barry W. Connors,‎ Michael A. Paradiso, last updated 2015
+* Chapter 3 of [Computational Maps in the Visual Cortex [$]](https://goo.gl/nEYbcL) (1st Edition), Risto Miikkulainen,‎ James A. Bednar,‎ Yoonsuck Choe, last updated 2010
+
+#### Scientific Papers
+* [What the Frog's Eye Tells the Frog's Brain](https://hearingbrain.org/docs/letvin_ieee_1959.pdf) ([doi](https://doi.org/10.1109/JRPROC.1959.287207)), [Jerome Lettvin](https://en.wikipedia.org/wiki/Jerome_Lettvin) et al., 1959, 2300+ citations
+
+<details>
+<summary>Other useful resources</summary>
+
+#### Keywords
+* [Retina](https://en.wikipedia.org/wiki/Retina)
+* [Lateral geniculate nucleus](https://en.wikipedia.org/wiki/Lateral_geniculate_nucleus)
+* [Primary visual cortex](https://en.wikipedia.org/wiki/Visual_cortex#Primary_visual_cortex_.28V1.29) (V1)
+* [Descriptive Models](https://www.coursera.org/learn/computational-neuroscience/lecture/W8Kg9/1-2-computational-neuroscience-descriptive-models) of [Receptive Fields](https://en.wikipedia.org/wiki/Receptive_field)
+* [Gabor filter](https://en.wikipedia.org/wiki/Gabor_filter)
+* Learning in primary visual cortex
+  * [Effects of perceptual learning on primary visual cortex activity in humans](https://doi.org/10.1016/j.visres.2007.10.027), Gilles Pourtois et al., 2007, 120 citations+
+* [RF-LISSOM Model](https://homepages.inf.ed.ac.uk/jbednar/rflissom_small.html), [simplified version](http://www.inf.ed.ac.uk/teaching/courses/cnv/2011-2012/slides/lissom.pdf)
+
+</details>
+
+### Higher Visual Areas
+
+#### Books
+* Chapter 10 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear,‎ Barry W. Connors,‎ Michael A. Paradiso, last updated 2015
+
+<details>
+<summary>Other useful resources</summary>
+
+#### Keywords
+* [Secondary visual cortex](https://en.wikipedia.org/wiki/Visual_cortex#V2) (V2), prestriate cortex
+* [Visual area V4](https://en.wikipedia.org/wiki/Visual_cortex#V4) or [Colour centre](https://en.wikipedia.org/wiki/Colour_centre)
+* [Middle temporal gyrus](https://en.wikipedia.org/wiki/Middle_temporal_gyrus)
+* [Fusiform face area](https://en.wikipedia.org/wiki/Fusiform_face_area)
+* [Inferior temporal gyrus](https://en.wikipedia.org/wiki/Inferior_temporal_gyrus)
+* [Posterior parietal cortex](https://en.wikipedia.org/wiki/Posterior_parietal_cortex)
+* [Two-streams hypothesis](https://en.wikipedia.org/wiki/Two-streams_hypothesis)
+  * [Separate visual pathways for perception and action](https://doi.org/10.1016/0166-2236(92)90344-8), Melvyn Goodale, David Milner, 1992, 2500+ citations
+* Working memory in the occipital cortex
+  * [Stimulating occipital cortex enhances visual working memory consolidation](https://doi.org/10.1016/j.bbr.2014.09.004), Tal Makovski, 2014, 5+ citations
+* [Binding problem](https://en.wikipedia.org/wiki/Binding_problem)
+* [Hierarchical models of object recognition in cortex](http://riesenhuberlab.neuro.georgetown.edu/docs/publications/nn99.pdf) ([doi](https://doi.org/10.1038/14819)), Maximilian Riesenhuber and Tomaso Poggio, ‎1999, 2800+ citations
+
+</details>
+
+## Higher Motor Systems
+
+#### Books
+* Chapter 13-14 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear,‎ Barry W. Connors,‎ Michael A. Paradiso, last updated 2015
+* [Vision. A Computational Investigation into the Human Representation and Processing of Visual Information [$]](http://amzn.to/2AvcWbl), David Marr, last updated 2010
+
+<details>
+<summary>Other useful resources</summary>
+
+#### Keywords
+* [Proprioception](https://en.wikipedia.org/wiki/Proprioception)
+* [Motor cortex](https://en.wikipedia.org/wiki/Motor_cortex)
+* [Premotor cortex](https://en.wikipedia.org/wiki/Premotor_cortex)
+* [Supplementary motor area](https://en.wikipedia.org/wiki/Supplementary_motor_area)
+* [Cerebellum](https://en.wikipedia.org/wiki/Cerebellum)
+  * [Purkinje cell](https://en.wikipedia.org/wiki/Purkinje_cell)
+  * [Granule cell](https://en.wikipedia.org/wiki/Granule_cell)
+  * [Climbing fiber](https://en.wikipedia.org/wiki/Climbing_fiber)
+  * [Parallel fiber](https://en.wikipedia.org/wiki/Parallel_fiber)
+  * David Marr's [Tri-Level Hypothesis](http://www.bcp.psych.ualberta.ca/~mike/Pearl_Street/Dictionary/contents/T/tri-level_hypothesis.html)
+* [Basal ganglia](https://en.wikipedia.org/wiki/Basal_ganglia)
+  * [“Go” and “NoGo” pathways](http://www.dana.org/Cerebrum/Default.aspx?id=39393)
+  * [Parkinson's disease](https://en.wikipedia.org/wiki/Parkinson%27s_disease)
+* [On the role of the hippocampus in learning and memory in the rat](https://doi.org/10.1016/0163-1047(93)90664-4), Leonard E. Jarrard, 1993, 1000+ citations
+
+</details>
+
+## Spatial Cognition
+Spatial cognition is a branch of cognitive psychology that studies how people or animals acquire and use knowledge about their environment to determine where they are.
+
+### Navigation: Animals
+
+#### Books
+* Part 1 in the book [The Neurobiology of Spatial Behaviour [$]](http://amzn.to/2j6lXh4), K. J. Jeffery, last updated 2003
+
+<details>
+<summary>Other useful resources</summary>
+
+#### Keywords
+* [Subjective vs. objective space](https://doi.org/10.1016/j.sbspro.2011.10.231) ([simplified version](https://media.pdx.edu/media/Objective+vs+Subjective+info/0_4ey7n7cz))
+* [Place cell](https://en.wikipedia.org/wiki/Place_cell)
+* [Grid cell](https://en.wikipedia.org/wiki/Grid_cell)
+* [Head direction cells](https://en.wikipedia.org/wiki/Head_direction_cells)
+* [Different types of mazes](http://www.ratbehavior.org/RatsAndMazes.htm)
+  * The Classic maze
+  * The T-maze and The Multiple T-maze
+  * The Y-maze
+  * The Radial Arm maze
+  * The Morris Water maze
+* [Episodic-like memory](https://en.wikipedia.org/wiki/Episodic-like_memory)
+
+</details>
+
+### Navigation: Humans
+
+#### Books
+* [Handbook of Spatial Cognition [$]](http://amzn.to/2i4J6Qm) (1st Edition), David Waller, last updated 2012
+* Part 1, Chapter 7: Article [Comparative approaches to human navigation [$]](10.1093/acprof:oso/9780198515241.003.0007), Elizabeth S. Spelke, 30+ citations, in the book [The Neurobiology of Spatial Behaviour [$]](http://amzn.to/2j6lXh4), K. J. Jeffery, last updated 2003
+
+<details>
+<summary>Other useful resources</summary>
+
+#### Keywords
+* [Allocentric Spatial Processing (object-to-object)](https://doi.org/10.1037/0735-7044.110.1.74)
+* [Egocentric Spatial Processing (self-to-object)](https://doi.org/10.1037/0735-7044.110.1.74)
+* [Landmarks](https://en.wikipedia.org/wiki/Landmark)
+* [Dead reckoning](https://en.wikipedia.org/wiki/Dead_reckoning)
+* [Cognitive map](https://en.wikipedia.org/wiki/Cognitive_map)
+* [View-Dependent Representation](https://doi.org/10.1167/10.7.1008)
+
+</details>
+
+
+
+
+<!-- ### Computational models of hippocampus -->
+
+<br>Source: The structure of headlines was based on [Informatics and Cognitive Sciences](https://is.cuni.cz/studium/eng/predmety/index.php?do=predmet&kod=AISV5155) syllabus
