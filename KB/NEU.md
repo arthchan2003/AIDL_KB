@@ -282,7 +282,7 @@ Behavioral Science involves the systematic analysis and investigation of human a
 
 </details>
 
-## Visual Systems of the Brain
+## Visual Systems
 
 ### Low-Level Vision
 
@@ -304,7 +304,7 @@ Behavioral Science involves the systematic analysis and investigation of human a
 * [Gabor filter](https://en.wikipedia.org/wiki/Gabor_filter)
 * Learning in primary visual cortex
   * [Effects of perceptual learning on primary visual cortex activity in humans](https://doi.org/10.1016/j.visres.2007.10.027), Gilles Pourtois et al., 2007, 120 citations+
-* [RF-LISSOM Model](https://homepages.inf.ed.ac.uk/jbednar/rflissom_small.html), [TLDR version](http://www.inf.ed.ac.uk/teaching/courses/cnv/2011-2012/slides/lissom.pdf)
+* [RF-LISSOM Model](https://homepages.inf.ed.ac.uk/jbednar/rflissom_small.html), [simplified version](http://www.inf.ed.ac.uk/teaching/courses/cnv/2011-2012/slides/lissom.pdf)
 
 </details>
 
@@ -358,5 +358,55 @@ Behavioral Science involves the systematic analysis and investigation of human a
 * [On the role of the hippocampus in learning and memory in the rat](https://doi.org/10.1016/0163-1047(93)90664-4), Leonard E. Jarrard, 1993, 1000+ citations
 
 </details>
+
+## Spatial Cognition
+Spatial cognition is a branch of cognitive psychology that studies how people or animals acquire and use knowledge about their environment to determine where they are.
+
+### Navigation: Animals
+
+#### Books
+* Part 1 in the book [The Neurobiology of Spatial Behaviour [$]](http://amzn.to/2j6lXh4), K. J. Jeffery, last updated 2003
+
+<details>
+<summary>Other useful resources</summary>
+
+#### Keywords
+* [Subjective vs. objective space](https://doi.org/10.1016/j.sbspro.2011.10.231) ([simplified version](https://media.pdx.edu/media/Objective+vs+Subjective+info/0_4ey7n7cz))
+* [Place cell](https://en.wikipedia.org/wiki/Place_cell)
+* [Grid cell](https://en.wikipedia.org/wiki/Grid_cell)
+* [Head direction cells](https://en.wikipedia.org/wiki/Head_direction_cells)
+* [Different types of mazes](http://www.ratbehavior.org/RatsAndMazes.htm)
+  * The Classic maze
+  * The T-maze and The Multiple T-maze
+  * The Y-maze
+  * The Radial Arm maze
+  * The Morris Water maze
+* [Episodic-like memory](https://en.wikipedia.org/wiki/Episodic-like_memory)
+
+</details>
+
+### Navigation: Humans
+
+#### Books
+* [Handbook of Spatial Cognition [$]](http://amzn.to/2i4J6Qm) (1st Edition), David Waller, last updated 2012
+* Part 1, Chapter 7: Article [Comparative approaches to human navigation [$]](10.1093/acprof:oso/9780198515241.003.0007), Elizabeth S. Spelke, 30+ citations, in the book [The Neurobiology of Spatial Behaviour [$]](http://amzn.to/2j6lXh4), K. J. Jeffery, last updated 2003
+
+<details>
+<summary>Other useful resources</summary>
+
+#### Keywords
+* [Allocentric Spatial Processing (object-to-object)](https://doi.org/10.1037/0735-7044.110.1.74)
+* [Egocentric Spatial Processing (self-to-object)](https://doi.org/10.1037/0735-7044.110.1.74)
+* [Landmarks](https://en.wikipedia.org/wiki/Landmark)
+* [Dead reckoning](https://en.wikipedia.org/wiki/Dead_reckoning)
+* [Cognitive map](https://en.wikipedia.org/wiki/Cognitive_map)
+* [View-Dependent Representation](https://doi.org/10.1167/10.7.1008)
+
+</details>
+
+
+
+
+<!-- ### Computational models of hippocampus -->
 
 <br>Source: The structure of headlines was based on [Informatics and Cognitive Sciences](https://is.cuni.cz/studium/eng/predmety/index.php?do=predmet&kod=AISV5155) syllabus
