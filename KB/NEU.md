@@ -282,4 +282,35 @@ Behavioral Science involves the systematic analysis and investigation of human a
 
 </details>
 
-Source: Headlines structure in this file was based on [Informatics and Cognitive Sciences Syllabus](https://is.cuni.cz/studium/eng/predmety/index.php?do=predmet&kod=AISV5155)
+## Visual Systems of the Brain
+
+### Low-level Vision
+
+#### Books
+* Chapter 9-10 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear,‎ Barry W. Connors,‎ Michael A. Paradiso, last updated 2015
+* Chapter 3 of [Computational Maps in the Visual Cortex [$]](https://goo.gl/nEYbcL) (1st Edition), Risto Miikkulainen,‎ James A. Bednar,‎ Yoonsuck Choe, last updated 2010
+
+#### Scientific Papers
+* [What the Frog's Eye Tells the Frog's Brain](https://hearingbrain.org/docs/letvin_ieee_1959.pdf) ([doi](https://doi.org/10.1109/JRPROC.1959.287207)), [Jerome Lettvin](https://en.wikipedia.org/wiki/Jerome_Lettvin) et al., 1959, 2300+ citations
+
+<details>
+<summary>Other useful resources</summary>
+
+#### Keywords
+* [Retina](https://en.wikipedia.org/wiki/Retina)
+* [Lateral geniculate nucleus](https://en.wikipedia.org/wiki/Lateral_geniculate_nucleus)
+* [Primary visual cortex](https://en.wikipedia.org/wiki/Visual_cortex#Primary_visual_cortex_.28V1.29) (V1)
+* [Descriptive Models](https://www.coursera.org/learn/computational-neuroscience/lecture/W8Kg9/1-2-computational-neuroscience-descriptive-models) of [Receptive Fields](https://en.wikipedia.org/wiki/Receptive_field)
+* [Gabor filter](https://en.wikipedia.org/wiki/Gabor_filter)
+* Learning in primary visual cortex
+  * [Effects of perceptual learning on primary visual cortex activity in humans](https://doi.org/10.1016/j.visres.2007.10.027), Gilles Pourtois et al., 2007, 120 citations+
+* [RF-LISSOM Model](https://homepages.inf.ed.ac.uk/jbednar/rflissom_small.html), [TLDR version](http://www.inf.ed.ac.uk/teaching/courses/cnv/2011-2012/slides/lissom.pdf)
+
+</details>
+
+
+
+
+
+
+<br>Source: The structure of headlines was based on [Informatics and Cognitive Sciences](https://is.cuni.cz/studium/eng/predmety/index.php?do=predmet&kod=AISV5155) syllabus
