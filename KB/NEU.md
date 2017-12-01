@@ -414,7 +414,7 @@ Spatial cognition is a branch of cognitive psychology that studies how people or
 
 </details>
 
-### Computational models of hippocampus
+### Computational Models of Hippocampus
 
 #### Books
 * Chapter 24-25 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear,‎ Barry W. Connors,‎ Michael A. Paradiso, last updated 2015
