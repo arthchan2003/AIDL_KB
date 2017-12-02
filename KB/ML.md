@@ -13,9 +13,9 @@
 * [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/), Shai Shalev-Shwartz and Shai Ben-David
 * [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 * [Pattern Recognition and Machine Learning (or PRML) [$]](https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&field-keywords=pattern+recognition+and+machine+learning), Christopher Bishop
-* [Pattern Classification [$]](https://www.amazon.com/Pattern-Classification-Pt-1-Richard-Duda/dp/0471056693/ref=sr_1_1?s=books&ie=UTF8&qid=1470185816&sr=1-1&keywords=duda+and+hart) by R. Duda, P.E. Hart and D.G Stork
-* [Machine Learning [$]](https://www.amazon.com/Machine-Learning-Tom-M-Mitchell/dp/0070428077/ref=sr_1_1?s=books&ie=UTF8&qid=1470186644&sr=1-1&keywords=machine+learning+tom+mitchell) by Tom Mitchell
-* [Machine Learning: a Probabilistic Perspective [$]](http://www.cs.ubc.ca/~murphyk/MLbook/) by Kevin Patrick Murphy
+* [Pattern Classification [$]](https://www.amazon.com/Pattern-Classification-Pt-1-Richard-Duda/dp/0471056693/ref=sr_1_1?s=books&ie=UTF8&qid=1470185816&sr=1-1&keywords=duda+and+hart), R. Duda, P.E. Hart and D.G Stork
+* [Machine Learning [$]](https://www.amazon.com/Machine-Learning-Tom-M-Mitchell/dp/0070428077/ref=sr_1_1?s=books&ie=UTF8&qid=1470186644&sr=1-1&keywords=machine+learning+tom+mitchell), Tom Mitchell
+* [Machine Learning: a Probabilistic Perspective [$]](http://www.cs.ubc.ca/~murphyk/MLbook/), Kevin Patrick Murphy
 * [Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/itila/book.html)
 
 ## Leisure Reading
