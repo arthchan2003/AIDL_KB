@@ -19,6 +19,7 @@ Library | Rank | Overall | Github | Stack Overflow | Google Results
 <details>
 <summary>All 23 libraries and their usage (based on <a href="https://blog.thedataincubator.com/2017/10/ranking-popular-deep-learning-libraries-for-data-science/">Data Incubator ranking</a>)</summary>
 
+<br>
 Library | Rank | Overall | Github | Stack Overflow | Google Results
 ------- | ---- |-------- | ------ | -------------- | --------------
 [Tensorflow](https://www.tensorflow.org/) | 1 | 10.8676777173 | 4.25282914794 | 4.371905768 | 2.24294280139
@@ -111,6 +112,23 @@ Based on [Awesome DL Papers](https://github.com/terryum/awesome-deep-learning-pa
 - [Inception-v4, inception-resnet and the impact of residual connections on learning](http://arxiv.org/pdf/1602.07261), C. Szegedy et al., 2016, 400+ citations
 
 </details>
+
+## Cheat Sheet
+* [Gradient ∇ (Nabla)](https://en.wikipedia.org/wiki/Del)
+* [Backpropagation](https://en.wikipedia.org/wiki/Backpropagation)
+* [Sigmoid σ](https://en.wikipedia.org/wiki/Sigmoid_function)
+* [Rectifier (Rectified Linear Units or ReLU)](https://en.wikipedia.org/wiki/Rectifier_(neural_networks))
+* [Tanh](https://en.wikipedia.org/wiki/Hyperbolic_function)
+* [Gated recurrent unit (GRU)](https://en.wikipedia.org/wiki/Gated_recurrent_unit)
+* [Long short-term memory](https://en.wikipedia.org/wiki/Long_short-term_memory)
+* [Softmax](https://en.wikipedia.org/wiki/Softmax_function)
+* [Regularization](https://en.wikipedia.org/wiki/Regularization_(mathematics))
+  * [Difference between L1 and L2](http://www.chioka.in/differences-between-l1-and-l2-as-loss-function-and-regularization/)
+  * [Dropout](https://wiki.tum.de/display/lfdv/Dropout)
+* [Batch Normalization](https://wiki.tum.de/display/lfdv/Batch+Normalization)
+* [Objective Functions](https://en.wikipedia.org/wiki/Mathematical_optimization)
+* [F1 score](https://en.wikipedia.org/wiki/F1_score)
+* [Cross entropy](https://en.wikipedia.org/wiki/Cross_entropy)
 
 ## Capsule Networks
   * [Aurélien Géron's tutorial](https://youtu.be/pPN8d0E3900)
