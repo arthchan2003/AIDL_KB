@@ -136,5 +136,5 @@ Based on [Awesome DL Papers](https://github.com/terryum/awesome-deep-learning-pa
   * [Matrix capsules with EM routing](https://openreview.net/forum?id=HJWLfGWRb&noteId=HJWLfGWRb), Blind Submission of CapsNets with Reviews, 2017
 
 ### Explanation
-* [Aurélien Géron's tutorial](https://youtu.be/pPN8d0E3900)
+* [Aurélien Géron's tutorial](https://youtu.be/pPN8d0E3900), **recommended** by Geffrey Hinton himself
 * [Understanding Hinton’s Capsule Networks](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
