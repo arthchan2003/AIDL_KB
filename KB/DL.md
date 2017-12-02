@@ -14,21 +14,21 @@ Library | Rank | Overall | Github | Stack Overflow | Google Results
 ------- | ---- |-------- | ------ | -------------- | --------------
 [Tensorflow](https://www.tensorflow.org/) | 1 | 10.8676777173 | 4.25282914794 | 4.371905768 | 2.24294280139
 [Keras](https://keras.io/) | 2 | 1.92768682345 | 0.613405340454 | 0.830444013135 | 0.483837469861
-[Caffe](caffe.berkeleyvision.org/) | 3 | 1.85536658344 | 1.00172325244 | 0.301598379669 | 0.552044951334
+[Caffe](http://caffe.berkeleyvision.org/) | 3 | 1.85536658344 | 1.00172325244 | 0.301598379669 | 0.552044951334
 
 <details>
-<summary>All 23 libraries and their usage (based on [Data Incubator](https://blog.thedataincubator.com/2017/10/ranking-popular-deep-learning-libraries-for-data-science/))</summary>
+<summary>All 23 libraries and their usage (based on <a href="https://blog.thedataincubator.com/2017/10/ranking-popular-deep-learning-libraries-for-data-science/">Data Incubator ranking</a>)</summary>
 
 Library | Rank | Overall | Github | Stack Overflow | Google Results
 ------- | ---- |-------- | ------ | -------------- | --------------
 [Tensorflow](https://www.tensorflow.org/) | 1 | 10.8676777173 | 4.25282914794 | 4.371905768 | 2.24294280139
 [Keras](https://keras.io/) | 2 | 1.92768682345 | 0.613405340454 | 0.830444013135 | 0.483837469861
-[Caffe](caffe.berkeleyvision.org/) | 3 | 1.85536658344 | 1.00172325244 | 0.301598379669 | 0.552044951334
-[Theano](deeplearning.net/software/theano/) | 4 | 0.757142065184 | -0.156657475854 | 0.361637072631 | 0.552162468406
-[Pytorch](pytorch.org/) | 5 | 0.481418742361 | -0.198079135346 | -0.30225967424 | 0.981757551946
+[Caffe](http://caffe.berkeleyvision.org/) | 3 | 1.85536658344 | 1.00172325244 | 0.301598379669 | 0.552044951334
+[Theano](http://deeplearning.net/software/theano/) | 4 | 0.757142065184 | -0.156657475854 | 0.361637072631 | 0.552162468406
+[Pytorch](http://pytorch.org/) | 5 | 0.481418742361 | -0.198079135346 | -0.30225967424 | 0.981757551946
 [Sonnet](https://github.com/deepmind/sonnet) | 6 | 0.427865682184 | -0.326074511957 | -0.361634296039 | 1.11557449018
 [Mxnet](https://mxnet.incubator.apache.org/) | 7 | 0.0987996914674 | 0.121327235453 | -0.306328604959 | 0.283801060973
-[Torch](torch.ch/) | 8 | 0.00559731666893 | -0.153332101969 | -0.00824393023136 | 0.167173348869
+[Torch](http://torch.ch/) | 8 | 0.00559731666893 | -0.153332101969 | -0.00824393023136 | 0.167173348869
 [Cntk](https://github.com/Microsoft/CNTK) | 9 | -0.0205203098963 | 0.0965088202554 | -0.282173869559 | 0.165144739407
 [Dlib](http://dlib.net/ml.html) | 10 | -0.599823512154 | -0.39578194316 | -0.223382454956 | 0.0193408859617
 [Caffe2](https://github.com/caffe2) | 11 | -0.671062928351 | -0.274071118159 | -0.359648165565 | -0.0373436446266
@@ -40,10 +40,10 @@ Library | Rank | Overall | Github | Stack Overflow | Google Results
 [Dynet](https://github.com/clab/dynet) | 17 | -1.25088837288 | -0.465671394541 | -0.367690269684 | -0.417526708658
 [Apache Singa](https://singa.incubator.apache.org/) | 18 | -1.33963459336 | -0.502246959001 | -0.367824634082 | -0.469563000276
 [Nvidia Digits](https://developer.nvidia.com/digits) | 19 | -1.39248467556 | -0.407011549848 | -0.346078273813 | -0.639394851898
-[Matconvnet](www.vlfeat.org/matconvnet/) | 20 | -1.41327975079 | -0.487125591647 | -0.346308395531 | -0.579845763615
-[Tflearn](tflearn.org/) | 21 | -1.44982650865 | -0.226089464016 | -0.282710110548 | -0.941026934086
+[Matconvnet](http://www.vlfeat.org/matconvnet/) | 20 | -1.41327975079 | -0.487125591647 | -0.346308395531 | -0.579845763615
+[Tflearn](http://tflearn.org/) | 21 | -1.44982650865 | -0.226089464016 | -0.282710110548 | -0.941026934086
 [Nervana Neon](https://github.com/NervanaSystems/neon) | 22 | -1.65176202195 | -0.39497574163 | -0.366989720498 | -0.889796559818
-[Opennn](www.opennn.net/) | 23 | -1.97015587693 | -0.53381703821 | -0.366068321175 | -1.07027051754
+[Opennn](http://www.opennn.net/) | 23 | -1.97015587693 | -0.53381703821 | -0.366068321175 | -1.07027051754
 
 </details>
 
