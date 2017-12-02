@@ -20,6 +20,7 @@ Library | Rank | Overall | Github | Stack Overflow | Google Results
 <summary>All 23 libraries and their usage (based on <a href="https://blog.thedataincubator.com/2017/10/ranking-popular-deep-learning-libraries-for-data-science/">Data Incubator ranking</a>)</summary>
 
 <br>
+
 Library | Rank | Overall | Github | Stack Overflow | Google Results
 ------- | ---- |-------- | ------ | -------------- | --------------
 [Tensorflow](https://www.tensorflow.org/) | 1 | 10.8676777173 | 4.25282914794 | 4.371905768 | 2.24294280139
