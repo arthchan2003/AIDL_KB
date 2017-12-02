@@ -3,6 +3,27 @@
 # Deep Learning (DL)
 We recommend to firstly start with one or two [Machine Learning classes](ML.md), because Deep Learning is related to them and it will be easier for you.
 
+<details>
+<summary>Table of contents</summary>
+
+* [Courses](#courses)
+* [Libraries and Frameworks](#libraries-and-frameworks)
+* [Curated Lists](#curated-lists)
+* [Books](#books)
+* [Researchers to follow](#researchers-to-follow)
+* [Scientific Papers](#scientific-papers)
+  + [Understanding, Generalization, Transfer](#understanding--generalization--transfer)
+  + [Optimization, Training Techniques](#optimization--training-techniques)
+  + [Unsupervised, Generative Models](#unsupervised--generative-models)
+  + [Convolutional Neural Network Models](#convolutional-neural-network-models)
+* [Cheat Sheet](#cheat-sheet)
+* [Capsule Networks](#capsule-networks)
+  + [Scientific Papers](#scientific-papers-1)
+  + [Explanation](#explanation)
+
+<!-- Table of contents generated with http://ecotrust-canada.github.io/markdown-toc/ -->
+</details>
+
 ## Courses
 * The most recommended is [Andrew Ng's deeplearning.ai class](https://www.deeplearning.ai/)
 
