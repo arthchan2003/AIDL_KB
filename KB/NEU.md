@@ -65,10 +65,10 @@
     - [Books](#books-12)
     - [Keywords](#keywords-12)
 * [Spatial Cognition](#spatial-cognition)
-  + [Navigation: Animals](#navigation--animals)
+  + [Animal navigation](#animal-navigation)
     - [Books](#books-13)
     - [Keywords](#keywords-13)
-  + [Navigation: Humans](#navigation--humans)
+  + [Human navigation](#human-navigation)
     - [Books](#books-14)
     - [Keywords](#keywords-14)
   + [Computational Models of Hippocampus](#computational-models-of-hippocampus)
@@ -452,7 +452,7 @@ Low-level motor control is the process by which humans and animals use their bra
 ## Spatial Cognition
 Spatial cognition is a branch of cognitive psychology that studies how people or animals acquire and use knowledge about their environment to determine where they are.
 
-### Navigation: Animals
+### Animal navigation
 
 #### Books
 * Part 1 in the book [The Neurobiology of Spatial Behaviour [$]](http://amzn.to/2j6lXh4), K. J. Jeffery, last updated 2003
@@ -475,7 +475,7 @@ Spatial cognition is a branch of cognitive psychology that studies how people or
 
 </details>
 
-### Navigation: Humans
+### Human navigation
 
 #### Books
 * [Handbook of Spatial Cognition [$]](http://amzn.to/2i4J6Qm) (1st Edition), David Waller, last updated 2012
