@@ -3,6 +3,27 @@
 # Deep Learning (DL)
 We recommend to firstly start with one or two [Machine Learning classes](ML.md), because Deep Learning is related to them and it will be easier for you.
 
+<details>
+<summary>Table of contents</summary>
+
+* [Courses](#courses)
+* [Libraries and Frameworks](#libraries-and-frameworks)
+* [Curated Lists](#curated-lists)
+* [Books](#books)
+* [Researchers to follow](#researchers-to-follow)
+* [Scientific Papers](#scientific-papers)
+  + [Understanding, Generalization, Transfer](#understanding--generalization--transfer)
+  + [Optimization, Training Techniques](#optimization--training-techniques)
+  + [Unsupervised, Generative Models](#unsupervised--generative-models)
+  + [Convolutional Neural Network Models](#convolutional-neural-network-models)
+* [Cheat Sheet](#cheat-sheet)
+* [Capsule Networks](#capsule-networks)
+  + [Scientific Papers](#scientific-papers-1)
+  + [Explanation](#explanation)
+
+<!-- Table of contents generated with http://ecotrust-canada.github.io/markdown-toc/ -->
+</details>
+
 ## Courses
 * The most recommended is [Andrew Ng's deeplearning.ai class](https://www.deeplearning.ai/)
 
@@ -18,6 +39,7 @@ Library | Rank | Overall | Github | Stack Overflow | Google Results
 
 <details>
 <summary>All 23 libraries and their usage (based on <a href="https://blog.thedataincubator.com/2017/10/ranking-popular-deep-learning-libraries-for-data-science/">Data Incubator ranking</a>)</summary>
+<br>
 
 Library | Rank | Overall | Github | Stack Overflow | Google Results
 ------- | ---- |-------- | ------ | -------------- | --------------
@@ -112,5 +134,28 @@ Based on [Awesome DL Papers](https://github.com/terryum/awesome-deep-learning-pa
 
 </details>
 
+## Cheat Sheet
+* [Gradient ∇ (Nabla)](https://en.wikipedia.org/wiki/Del)
+* [Backpropagation](https://en.wikipedia.org/wiki/Backpropagation)
+* [Sigmoid σ](https://en.wikipedia.org/wiki/Sigmoid_function)
+* [Rectifier (Rectified Linear Units or ReLU)](https://en.wikipedia.org/wiki/Rectifier_(neural_networks))
+* [Tanh](https://en.wikipedia.org/wiki/Hyperbolic_function)
+* [Gated recurrent unit (GRU)](https://en.wikipedia.org/wiki/Gated_recurrent_unit)
+* [Long short-term memory](https://en.wikipedia.org/wiki/Long_short-term_memory)
+* [Softmax](https://en.wikipedia.org/wiki/Softmax_function)
+* [Regularization](https://en.wikipedia.org/wiki/Regularization_(mathematics))
+  * [Difference between L1 and L2](http://www.chioka.in/differences-between-l1-and-l2-as-loss-function-and-regularization/)
+  * [Dropout](https://wiki.tum.de/display/lfdv/Dropout)
+* [Batch Normalization](https://wiki.tum.de/display/lfdv/Batch+Normalization)
+* [Objective Functions](https://en.wikipedia.org/wiki/Mathematical_optimization)
+* [F1 score](https://en.wikipedia.org/wiki/F1_score)
+* [Cross entropy](https://en.wikipedia.org/wiki/Cross_entropy)
+
 ## Capsule Networks
-  * [Aurélien Géron's tutorial](https://youtu.be/pPN8d0E3900)
+### Scientific Papers
+* [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829), Sara Sabour, Nicholas Frosst, Geoffrey E Hinton, 2017
+  * [Matrix capsules with EM routing](https://openreview.net/forum?id=HJWLfGWRb&noteId=HJWLfGWRb), Blind Submission of CapsNets with Reviews, 2017
+
+### Explanation
+* [Aurélien Géron's tutorial](https://youtu.be/pPN8d0E3900), **recommended** by Geffrey Hinton himself
+* [Understanding Hinton’s Capsule Networks](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
