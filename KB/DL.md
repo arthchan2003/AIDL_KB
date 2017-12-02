@@ -18,7 +18,6 @@ Library | Rank | Overall | Github | Stack Overflow | Google Results
 
 <details>
 <summary>All 23 libraries and their usage (based on <a href="https://blog.thedataincubator.com/2017/10/ranking-popular-deep-learning-libraries-for-data-science/">Data Incubator ranking</a>)</summary>
-
 <br>
 
 Library | Rank | Overall | Github | Stack Overflow | Google Results
@@ -132,4 +131,10 @@ Based on [Awesome DL Papers](https://github.com/terryum/awesome-deep-learning-pa
 * [Cross entropy](https://en.wikipedia.org/wiki/Cross_entropy)
 
 ## Capsule Networks
-  * [Aurélien Géron's tutorial](https://youtu.be/pPN8d0E3900)
+### Scientific Papers
+* [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829), Sara Sabour, Nicholas Frosst, Geoffrey E Hinton, 2017
+  * [Matrix capsules with EM routing](https://openreview.net/forum?id=HJWLfGWRb&noteId=HJWLfGWRb), Blind Submission of CapsNets with Reviews, 2017
+
+### Explanation
+* [Aurélien Géron's tutorial](https://youtu.be/pPN8d0E3900)
+* [Understanding Hinton’s Capsule Networks](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
