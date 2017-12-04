@@ -10,7 +10,7 @@ If you don't follow this rule, you might be banned. In case you are not sure how
 ## What Not to Write
 **Already answered** questions, that are:
 - In the Knowledge Base,
-- Easily solved by Googling.
+- Easily solved by googling.
 
 We automatically delete posts that are:
 - Re-posts,
