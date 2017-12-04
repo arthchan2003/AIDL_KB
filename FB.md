@@ -30,7 +30,7 @@ If you believe that other members are often asking repetitive or dull questions 
 
 ### Think and Google Before You Post
 Before you ask your question, such as:
-* Use Technique X with Language Y?
+* Use Technique X with Language Y
 * Explain Concept X, List 3 Properties of Concept Y
 * Find an Idea for My AI Project, FYP, Thesis, and Competition
 
