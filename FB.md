@@ -12,11 +12,11 @@ If you don't follow this rule, you might be banned. In case you are not sure how
 - In the Knowledge Base,
 - Easily solved by Googling.
 
-We **automatically delete** posts that are:
+We automatically delete posts that are:
 - Re-posts,
 - Copyrighted material.
 
-**Except for Saturdays** we delete posts that are:
+Except for Saturdays we delete posts that are:
 - Promotions of another group, conference, event, product or a brand,
 - Job recruitment or solicitation.
 
