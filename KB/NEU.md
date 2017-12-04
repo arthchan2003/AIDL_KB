@@ -102,9 +102,9 @@
   * [Competition between engrams influences fear memory formation and recall](https://dx.doi.org/10.1126/science.aaf0594), scientific paper from 2016, 50+ citations
 
 ### Brain as a Computer
-"Does human brain work like a computer or not?" has the rather complicated answer. And with certainty, it's not possible to answer it with current knowledge. It's also good to mention that Artificial Neural Networks are inspired by Biological Neural Networks, therefore they could possibly simulate them, although with current technology it's [still very inefficient](http://agi-roadmap.sablatura.info/).
+"Does human brain work like a computer or not?" has a somewhat complicated answer. And with certainty, it's not possible to answer it with current knowledge. It's also good to mention that Artificial Neural Networks are inspired by Biological Neural Networks. Therefore they could simulate them, although with current technology it's [still very inefficient](http://agi-roadmap.sablatura.info/).
 
-It's recommended to read [Robert Epstein's post](https://aeon.co/essays/your-brain-does-not-process-information-and-it-is-not-a-computer) that looking at the brain as a computer is wrong, followed by counterarguments such as [Perengras's](http://lukependergrass.work/blog/the-information-processing-brain) (followed by [Golder's review of both](https://medium.com/@gdoteof/a-response-to-a-response-to-the-empty-brain-the-information-processing-brain-dde4c6d3aecd)), [Shallit's](http://recursed.blogspot.com/2016/05/yes-your-brain-certainly-is-computer.html) and [Graziosi's](https://sergiograziosi.wordpress.com/2016/05/22/robert-epsteins-empty-essay/).
+[Robert Epstein's post](https://aeon.co/essays/your-brain-does-not-process-information-and-it-is-not-a-computer) explains, why looking at the brain as a computer is wrong. We recommend to read the following counterarguments from [Perengras](http://lukependergrass.work/blog/the-information-processing-brain) (followed by [Golder's review of both](https://medium.com/@gdoteof/a-response-to-a-response-to-the-empty-brain-the-information-processing-brain-dde4c6d3aecd)), [Shallit](http://recursed.blogspot.com/2016/05/yes-your-brain-certainly-is-computer.html) and [Graziosi](https://sergiograziosi.wordpress.com/2016/05/22/robert-epsteins-empty-essay/).
 
 ---
 
@@ -119,7 +119,7 @@ It's recommended to read [Robert Epstein's post](https://aeon.co/essays/your-bra
 <summary>Other useful resources</summary>
 
 #### Interesting
-* [Why we have blind spots - and how to see the blood vessels inside your own eye](https://youtu.be/L_W-IXqoxHA)
+* [Why we have blind spots - and how to see the blood vessels inside your eye](https://youtu.be/L_W-IXqoxHA)
 * [Example of the motion aftereffect](https://strobe.cool/)
 
 #### Keywords
@@ -211,7 +211,7 @@ It's recommended to read [Robert Epstein's post](https://aeon.co/essays/your-bra
 </details>
 
 ### Mathematical Models of a Neuron
-**Lebedev and Lutsky** ([1972](https://scholar.google.com/scholar_lookup?title=Physiology%20of%20movements%20and%20activity&author=NA.%20Bernstein&publication_year=1990)) pioneered the concept of modeling the dynamics of neurons on the basis of equations with delay. Generally, researchers agree that it is not necessary to introduce delay in explicit form into equations that describe the neuron. In examining the fundamental role of delays in neuron modeling, **Hodgkin and Huxley** ([1939](https://scholar.google.com/scholar_lookup?title=Models%20of%20neural%20dynamics%20in%20brain%20information%20processing%E2%80%94Results%20of%20%E2%80%9Cdecade%E2%80%9D&author=GN.%20Borisyuk&author=RM.%20Borisyuk&author=YB.%20Kazanovich&author=GR.%20Ivanitsky&journal=UFMN&volume=172&issue=10&pages=1189-1214&publication_year=2002)) achieved the effect of delay through the use of a chain of ordinary differential equations. A model always reflects the interpretation of a phenomenon; simultaneously, some aspects are taken for granted while some others are typically ignored. The purposes of modeling also differ. Some models are used to study processes taking place inside the object under examination; others are used to explain the relationship of objects to each other. The neuron is a complex formation, and it is difficult to expect the monotony of representations. In our view, a variety of mathematical models of neurons can be divided into two classes: static and dynamic. – Citation (simplified) from [The Model of a Single Neuron](https://link.springer.com/chapter/10.1007/978-3-319-19866-8_1), Serguey Kashchenko, last updated 2015
+**Lebedev and Lutsky** ([1972](https://scholar.google.com/scholar_lookup?title=Physiology%20of%20movements%20and%20activity&author=NA.%20Bernstein&publication_year=1990)) pioneered the concept of modeling the dynamics of neurons by equations with delay. Researchers agree that it is not necessary to introduce delay in explicit form into equations that describe the neuron. In examining the fundamental role of delays in neuron modeling, **Hodgkin and Huxley** ([1939](https://scholar.google.com/scholar_lookup?title=Models%20of%20neural%20dynamics%20in%20brain%20information%20processing%E2%80%94Results%20of%20%E2%80%9Cdecade%E2%80%9D&author=GN.%20Borisyuk&author=RM.%20Borisyuk&author=YB.%20Kazanovich&author=GR.%20Ivanitsky&journal=UFMN&volume=172&issue=10&pages=1189-1214&publication_year=2002)) achieved the effect of delay through the use of a chain of ordinary differential equations. A model always reflects the interpretation of a phenomenon. The neuron is a complex formation, and it is difficult to expect the monotony of representations. Mathematical models of neurons can be divided into two classes: static and dynamic. – Citation (simplified) from [The Model of a Single Neuron](https://link.springer.com/chapter/10.1007/978-3-319-19866-8_1), Serguey Kashchenko, last updated 2015.
 
 #### Books
 * Chapter 2-5 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear, Barry W. Connors, Michael A. Paradiso, last updated 2015
@@ -235,7 +235,7 @@ It's recommended to read [Robert Epstein's post](https://aeon.co/essays/your-bra
 ## Neurobiology: Large-Scale Circuits, Networks
 
 ### Neural Coding
-Neural coding is a neuroscience related field concerned with characterizing the relationship between the stimulus and the individual or ensemble neuronal responses and the relationship among the electrical activity of the neurons in the ensemble.
+Neural coding is a neuroscience-related field concerned with characterizing the relationship between the stimulus and the individual or ensemble neuronal responses and the relationship among the electrical activity of the neurons in the ensemble.
 
 #### Books
 * [Principles of Neural Coding [$]](http://amzn.to/2j1OzZ0), Rodrigo Quian Quiroga,‎ Stefano Panzeri, last updated 2013
@@ -287,7 +287,7 @@ Neuroanatomy is the study of the anatomy and stereotyped organization of nervous
 ## Learning
 
 ### Behavioral Science
-Behavioral Science involves the systematic analysis and investigation of human and animal behavior through the study of the past, controlled and naturalistic observation of the present, and disciplined scientific experimentation. It attempts to accomplish legitimate, objective conclusions through rigorous formulations and observation.
+Behavioral Science involves the systematic analysis and investigation of human and animal behavior through the study of the past, controlled and naturalistic observation of the present, and disciplined scientific experimentation.
 
 #### Books and Articles
 * Chapter 2 of [Mechanisms of Memory [$]](http://amzn.to/2jAJzKp) (2nd Edition), J. David Sweatt, last updated 2009
@@ -390,7 +390,7 @@ Behavioral Science involves the systematic analysis and investigation of human a
 ## Motor Control
 
 ### Low-Level Motor Control
-Low-level motor control is the process by which humans and animals use their brain/cognition to activate and coordinate the muscles and limbs involved in the performance of a motor skill. Fundamentally, it is the integration of sensory information, both about the world and the current state of the body, to determine the appropriate set of muscle forces and joint activations to generate some desired movement or action. This process requires cooperative interaction between the central nervous system and the musculoskeletal system, and is thus a problem of information processing, coordination, mechanics, physics, and cognition. Successful motor control is crucial to interacting with the world, not only determining action capabilities, but regulating balance and stability as well. – Citation from [Motor Control](https://en.wikipedia.org/wiki/Motor_control)
+Low-level motor control is the process by which humans and animals use their brain/cognition to activate and coordinate the muscles and limbs involved in the performance of a motor skill. Fundamentally, it is the integration of sensory information, both about the world and the current state of the body, to determine the appropriate set of muscle forces and joint activations to generate some desired movement or action. This process requires cooperative interaction between the central nervous system and the musculoskeletal system and is thus a problem of information processing, coordination, mechanics, physics, and cognition. Successful motor control is crucial to interacting with the world, not only determining action capabilities but regulating balance and stability as well. – Citation from [Motor Control](https://en.wikipedia.org/wiki/Motor_control)
 
 #### Books
 * Chapter 12-14 of [Neuroscience: Exploring the Brain [$]](http://amzn.to/2zMmWxl) (4th Edition), Mark F. Bear, Barry W. Connors, Michael A. Paradiso, last updated 2015
@@ -403,7 +403,7 @@ Low-level motor control is the process by which humans and animals use their bra
 <summary>Other useful resources</summary>
 
 #### Notes
-* Majority of human **fingers and toes are replaceable** and theoretically redundant. From 5 toes per a leg, Homo Sapiens would be able to move without all of them, although [toes play the role in the effectivity of movement](https://doi.org/10.1038/nature03052). Speaking about fingers, [three are necessary for object manipulation](https://blog.robotiq.com/why-use-a-robot-gripper-with-3-fingers) if at least one is in the opposition.
+* Majority of human **fingers and toes are replaceable** and theoretically redundant. From 5 toes per a leg, Homo Sapiens would be able to move without all of them, although [toes play a role in the effectivity of movement](https://doi.org/10.1038/nature03052). Speaking about fingers, [three are necessary for object manipulation](https://blog.robotiq.com/why-use-a-robot-gripper-with-3-fingers) if at least one is in the opposition.
 
 #### Keywords
 * Organization of the motor system
@@ -469,8 +469,8 @@ Spatial cognition is a branch of cognitive psychology that studies how people or
   * The Classic maze
   * The T-maze and The Multiple T-maze
   * The Y-maze
-  * The Radial Arm maze
-  * The Morris Water maze
+  * The Radial Arm Maze
+  * The Morris Water Maze
 * [Episodic-like memory](https://en.wikipedia.org/wiki/Episodic-like_memory)
 
 </details>
@@ -524,4 +524,4 @@ Spatial cognition is a branch of cognitive psychology that studies how people or
 
 </details>
 
-<br>Source: The structure of headlines was based on [Informatics and Cognitive Sciences](https://is.cuni.cz/studium/eng/predmety/index.php?do=predmet&kod=AISV5155) syllabus
+<br>Source: [Informatics and Cognitive Sciences](https://is.cuni.cz/studium/eng/predmety/index.php?do=predmet&kod=AISV5155) syllabus inspired the structure of headlines in this text.
