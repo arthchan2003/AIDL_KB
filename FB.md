@@ -34,7 +34,7 @@ Before you ask your question, such as:
 * Explain Concept X, List 3 Properties of Concept Y
 * Find an Idea for My AI Project, FYP, Thesis, and Competition
 
-Always check out if you took enough time Googling because there's a possibility someone already solved it. Searching on Github could help also.
+Always check out if you took enough time googling because there's a possibility someone already solved it. Searching on Github could help also.
 
 We are sorry, but we can't do your homework for you. Don't be lazy. Coming up with an idea is part of the training no matter if you are doing a project, writing a thesis or joining a competition. Partially it would be cheating if we are the one who comes up with the idea for you.
 
