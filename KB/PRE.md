@@ -22,11 +22,15 @@ The most liked resource on Mathematics in our group is [MIT course](https://ocw.
 * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/), Cam Davidson-Pilon
 * [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf), Trevor Hastie, Robert Tibshirani and Jerome Friedman
 
-#### Statistical Inference and Learning
-* [Computer-age Statistical Inference [$]](http://amzn.to/2wnRtQi), Bradley Efron and Trevor Hastie
-* [An Introduction to Statistical Learning [$]](http://amzn.to/1HkaNvu), Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
-* [The Elements of Statistical Learning [$]](http://amzn.to/1GBbVWR), Trevor Hastie, Robert Tibshirani and Jerome Friedman, Advanced difficulty
+#### Linear Algebra
+* [Introduction to Linear Algebra [$]](https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/), Gilbert Strang
 
+### Courses
+#### Probability and Statistics
+* [Introduction to Probability](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2)
+
+#### Linear Algebra
+* [Linear Algebra by Gilbert Strang from MIT OCW](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
 
 ## Programming
 
@@ -39,6 +43,7 @@ The most liked resource on Mathematics in our group is [MIT course](https://ocw.
 * [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf), Avrim Blum, John Hopcroft, and Ravindran Kannan
 * [A Programmer's Guide to Data Mining: The Ancient Art of the Numerati](http://guidetodatamining.com/), Ron Zacharski
 * [Mining of Massive Datasets](http://mmds.org/), Jure Leskovec, Anand Rajaraman and Jeff Ullman
+* [Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow, 2nd Edition [$]](https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow/) by Sebastian Raschka and‎ Vahid Mirjalili
 
 #### Python
 * [Think Python [$]](http://amzn.to/1Hj5bn6), Allen B. Downey

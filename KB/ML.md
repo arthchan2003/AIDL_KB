@@ -17,6 +17,9 @@
 * [Machine Learning [$]](https://www.amazon.com/Machine-Learning-Tom-M-Mitchell/dp/0070428077/ref=sr_1_1?s=books&ie=UTF8&qid=1470186644&sr=1-1&keywords=machine+learning+tom+mitchell), Tom Mitchell
 * [Machine Learning: a Probabilistic Perspective [$]](http://www.cs.ubc.ca/~murphyk/MLbook/), Kevin Patrick Murphy
 * [Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/itila/book.html)
+* [Computer-age Statistical Inference [$]](http://amzn.to/2wnRtQi), Bradley Efron and Trevor Hastie
+* [An Introduction to Statistical Learning [$]](http://amzn.to/1HkaNvu), Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
+* [The Elements of Statistical Learning [$]](http://amzn.to/1GBbVWR), Trevor Hastie, Robert Tibshirani and Jerome Friedman, Advanced difficulty
 
 ## Leisure Reading
 * [Machine Learning Yearning](http://www.mlyearning.org/), Andrew Ng
