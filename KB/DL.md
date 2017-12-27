@@ -25,11 +25,17 @@ We recommend to firstly start with one or two [Machine Learning classes](ML.md),
 </details>
 
 ## Courses
-* The most recommended is [Andrew Ng's deeplearning.ai class](https://www.deeplearning.ai/)
+* [Andrew Ng's deeplearning.ai class](https://www.deeplearning.ai/)
+* [fast.ai](http://www.fast.ai/)
+* [Stanford cs231n](http://cs231n.stanford.edu/)
+* [Richard Socher's Deep Learning and Natural Language Processing](http://web.stanford.edu/class/cs224n/)
+* [Hugo Larochelle's course](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html)
+* [Nando de Freita's class on Machine/Deep Learning](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
+* [Hinton's Neural Network Machine Learning](https://www.coursera.org/learn/neural-networks)
+* [Oxfords Deep NLP](https://github.com/oxford-cs-deepnlp-2017/lectures)
 
 ## Libraries and Frameworks
 If you don't know which DL library to start with, we suggest you to check [Ranking Popular DL Libraries](https://blog.thedataincubator.com/2017/10/ranking-popular-deep-learning-libraries-for-data-science/) from 10/2017 where the winner is [Tensorflow](https://www.tensorflow.org/), followed by [Keras](https://keras.io/) and [Caffe](http://caffe.berkeleyvision.org/).
-
 
 Library | Rank | Overall | Github | Stack Overflow | Google Results
 ------- | ---- |-------- | ------ | -------------- | --------------
@@ -79,6 +85,9 @@ Library | Rank | Overall | Github | Stack Overflow | Google Results
 
 ## Researchers to follow
 * [Geoffrey Hinton](http://www.cs.toronto.edu/~hinton/nntut.html)
+* [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/)
+* [Yann Lecun](http://yann.lecun.com/)
+* [Andrew Ng](http://www.andrewng.org/)
 * [Andrew Karpathay](http://cs.stanford.edu/people/karpathy/)
 * [Richard Socher](http://www.socher.org/)
 * [Hugo Larochelle](https://research.google.com/pubs/105144.html)
