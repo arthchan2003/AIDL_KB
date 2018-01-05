@@ -123,8 +123,6 @@ Based on [Awesome DL Papers](https://github.com/terryum/awesome-deep-learning-pa
 - [Improved techniques for training GANs](http://papers.nips.cc/paper/6125-improved-techniques-for-training-gans.pdf), T. Salimans et al., 2016
 - [Pixel recurrent neural networks](http://arxiv.org/pdf/1601.06759v2.pdf), A. Oord et al., 2016
 
-### Reinforcement Learning
-
 </details>
 
 ## Cheat Sheet
