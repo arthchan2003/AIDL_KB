@@ -41,14 +41,15 @@
 * [By Georgia Tech on Udacity](https://www.udacity.com/course/reinforcement-learning--ud600)
 
 ### Scientific Papers
-Based on [Awesome DL Papers](https://github.com/terryum/awesome-deep-learning-papers#reinforcement-learning--robotics), counted since 2012 (last 5 years).
+Based on [Awesome DL Papers](https://github.com/terryum/awesome-deep-learning-papers#reinforcement-learning--robotics)
 
-- [Human-level control through deep reinforcement learning](http://www.davidqiu.com:8888/research/nature14236.pdf), V. Mnih et al., 2015, 1800+ citations
-- [Mastering the game of Go with deep neural networks and tree search](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html), D. Silver et al., 2016, 1700+ citations
-- [Playing Atari with deep reinforcement learning](http://arxiv.org/pdf/1312.5602.pdf), V. Mnih et al., 2013, 800+ citations
-- [End-to-end training of deep visuomotor policies](http://www.jmlr.org/papers/volume17/15-522/source/15-522.pdf), S. Levine et al., 2016, 400+ citations
-- [Asynchronous methods for deep reinforcement learning](http://www.jmlr.org/proceedings/papers/v48/mniha16.pdf), V. Mnih et al., 2016, 300+ citations
-- [Continuous control with deep reinforcement learning](https://arxiv.org/pdf/1509.02971), T. Lillicrap et al., 2015, 300+ citations
-- [Deep learning for detecting robotic grasps](http://www.cs.cornell.edu/~asaxena/papers/lenz_lee_saxena_deep_learning_grasping_ijrr2014.pdf), I. Lenz et al., 2015, 300+ citations
-- [Deep Reinforcement Learning with Double Q-Learning](https://arxiv.org/pdf/1509.06461.pdf), H. Hasselt et al., 2016, 200+ citations
-- [Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection](https://arxiv.org/pdf/1603.02199), S. Levine et al., 2016, 100+ citations
+- [Human-level control through deep reinforcement learning](http://www.davidqiu.com:8888/research/nature14236.pdf), V. Mnih et al., 2015
+- [Mastering the game of Go with deep neural networks and tree search](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html), D. Silver et al., 2016
+- [Playing Atari with deep reinforcement learning](http://arxiv.org/pdf/1312.5602.pdf), V. Mnih et al., 2013
+- [End-to-end training of deep visuomotor policies](http://www.jmlr.org/papers/volume17/15-522/source/15-522.pdf), S. Levine et al., 2016
+- [Asynchronous methods for deep reinforcement learning](http://www.jmlr.org/proceedings/papers/v48/mniha16.pdf), V. Mnih et al., 2016
+- [Continuous control with deep reinforcement learning](https://arxiv.org/pdf/1509.02971), T. Lillicrap et al., 2015
+- [Deep learning for detecting robotic grasps](http://www.cs.cornell.edu/~asaxena/papers/lenz_lee_saxena_deep_learning_grasping_ijrr2014.pdf), I. Lenz et al., 2015
+- [Deep Reinforcement Learning with Double Q-Learning](https://arxiv.org/pdf/1509.06461.pdf), H. Hasselt et al., 2016
+- [Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection](https://arxiv.org/pdf/1603.02199), S. Levine et al., 2016
+

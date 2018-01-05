@@ -15,8 +15,7 @@ Our goal is to provide knowledge base for all AI&DL members and public.
   * [Natural Language Processing](KB/NLP.md) (NLP)
   * [Speech](KB/ASR.md) (ASR)
   * [Psychology and Neuroscience](KB/NEU.md)
-* [How to](HOW.md)
-* [Scientific Papers](KB/SCI.md)
+* [Other List of Papers and People to Follow](KB/SCI.md)
 * [Public Datasets](KB/DAT.md)
 
 <!--  * [Philosophy](KB/PHI.md) add, uncomment once not empty -->
@@ -27,6 +26,8 @@ Our goal is to provide knowledge base for all AI&DL members and public.
 * [Reddit's Machine Learning FAQ](https://www.reddit.com/r/MachineLearning/wiki/index)
 -->
 
-## Newsletters and Youtube
+## Newsletters 
+* [Jack Clark's Import AI](https://jack-clark.net/)
+* [Denny Britz's This Week in AI](https://www.getrevue.co/profile/wildml)
 * [AIDL Weekly Newsletter](http://aidl.io/)
-* [AIDL Office Hour](https://www.youtube.com/channel/UC3YM5TEbSqIpFGH85d6gjKg) Youtube channel
+

@@ -96,10 +96,10 @@
 ### Memory Theory
 [Overview of memory model](https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Memory) with likely future changes:
 * Protein synthesis possibly plays a role
-  * [The role of protein synthesis in memory consolidation: Progress amid decades of debate](https://dx.doi.org/10.1016%2Fj.nlm.2007.09.010), scientific paper from 2008, 130+ citations
+  * [The role of protein synthesis in memory consolidation: Progress amid decades of debate](https://dx.doi.org/10.1016%2Fj.nlm.2007.09.010), scientific paper from 2008
   * [Protein synthesis is associated with high-speed dynamics and broad-band stability of functional hubs in the brain](https://dx.doi.org/10.1016%2Fj.neuroimage.2017.04.062), scientific paper from 2017
 * Memory formation possibly happens due to engram competition
-  * [Competition between engrams influences fear memory formation and recall](https://dx.doi.org/10.1126/science.aaf0594), scientific paper from 2016, 50+ citations
+  * [Competition between engrams influences fear memory formation and recall](https://dx.doi.org/10.1126/science.aaf0594), scientific paper from 2016
 
 ### Brain as a Computer
 "Does human brain work like a computer or not?" has a somewhat complicated answer. And with certainty, it's not possible to answer it with current knowledge. It's also good to mention that Artificial Neural Networks are inspired by Biological Neural Networks. Therefore they could simulate them, although with current technology it's [still very inefficient](http://agi-roadmap.sablatura.info/).

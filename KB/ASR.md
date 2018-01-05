@@ -10,9 +10,9 @@ For audio the data requires different preprocessing, the course [cs224s](http://
 ## Scientific Papers
 Based on [Awesome DL Papers](https://github.com/terryum/awesome-deep-learning-papers#speech--other-domain), counted since 2012 (last 5 years).
 
-- [Deep neural networks for acoustic modeling in speech recognition: The shared views of four research groups](http://www.cs.toronto.edu/~asamir/papers/SPM_DNN_12.pdf), G. Hinton et al., 2012, 3400+ citations
-- [Speech recognition with deep recurrent neural networks](http://arxiv.org/pdf/1303.5778.pdf), A. Graves, 2013, 1600+ citations
-- [Context-dependent pre-trained deep neural networks for large-vocabulary speech recognition](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.337.7548&rep=rep1&type=pdf), G. Dahl et al., 2012, 1600+ citations
-- [Acoustic modeling using deep belief networks](http://www.cs.toronto.edu/~asamir/papers/speechDBN_jrnl.pdf), A. Mohamed et al., 2012, 1000+ citations
-- [Deep speech 2: End-to-end speech recognition in English and Mandarin](https://arxiv.org/pdf/1512.02595), D. Amodei et al., 2015, 300+ citations
-- [End-to-end attention-based large vocabulary speech recognition](https://arxiv.org/pdf/1508.04395), D. Bahdanau et al., 2016, 100+ citations
+- [Deep neural networks for acoustic modeling in speech recognition: The shared views of four research groups](http://www.cs.toronto.edu/~asamir/papers/SPM_DNN_12.pdf), G. Hinton et al., 2012
+- [Speech recognition with deep recurrent neural networks](http://arxiv.org/pdf/1303.5778.pdf), A. Graves, 2013
+- [Context-dependent pre-trained deep neural networks for large-vocabulary speech recognition](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.337.7548&rep=rep1&type=pdf), G. Dahl et al., 2012
+- [Acoustic modeling using deep belief networks](http://www.cs.toronto.edu/~asamir/papers/speechDBN_jrnl.pdf), A. Mohamed et al., 2012
+- [Deep speech 2: End-to-end speech recognition in English and Mandarin](https://arxiv.org/pdf/1512.02595), D. Amodei et al., 2015
+- [End-to-end attention-based large vocabulary speech recognition](https://arxiv.org/pdf/1508.04395), D. Bahdanau et al., 2016
