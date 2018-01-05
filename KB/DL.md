@@ -97,49 +97,31 @@ Library | Rank | Overall | Github | Stack Overflow | Google Results
 Based on [Awesome DL Papers](https://github.com/terryum/awesome-deep-learning-papers#reinforcement-learning--robotics), counted since 2012 (last 5 years).
 
 ### Understanding, Generalization, Transfer
-- [Visualizing and understanding convolutional networks](http://arxiv.org/pdf/1311.2901), M. Zeiler and R. Fergus, 2014, 2700+ citations
-- [Decaf: A deep convolutional activation feature for generic visual recognition](http://arxiv.org/pdf/1310.1531), J. Donahue et al., 2014, 1700+ citations
-- [CNN features off-the-Shelf: An astounding baseline for recognition](http://www.cv-foundation.org//openaccess/content_cvpr_workshops_2014/W15/papers/Razavian_CNN_Features_Off-the-Shelf_2014_CVPR_paper.pdf), A. Razavian et al., 2014, 1500+ citations
-- [How transferable are features in deep neural networks?](http://papers.nips.cc/paper/5347-how-transferable-are-features-in-deep-neural-networks.pdf), J. Yosinski et al., 2014, 900+ citations
-- [Learning and transferring mid-Level image representations using convolutional neural networks](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Oquab_Learning_and_Transferring_2014_CVPR_paper.pdf), M. Oquab et al., 2014, 800+ citations
-- [Distilling the knowledge in a neural network](http://arxiv.org/pdf/1503.02531), G. Hinton et al., 2015, 500+ citations
-- [Deep neural networks are easily fooled: High confidence predictions for unrecognizable images](http://arxiv.org/pdf/1412.1897), A. Nguyen et al., 2015, 500+ citations
+- [Visualizing and understanding convolutional networks](http://arxiv.org/pdf/1311.2901), M. Zeiler and R. Fergus, 2014
+- [Decaf: A deep convolutional activation feature for generic visual recognition](http://arxiv.org/pdf/1310.1531), J. Donahue et al., 2014
+- [CNN features off-the-Shelf: An astounding baseline for recognition](http://www.cv-foundation.org//openaccess/content_cvpr_workshops_2014/W15/papers/Razavian_CNN_Features_Off-the-Shelf_2014_CVPR_paper.pdf), A. Razavian et al., 2014
+- [How transferable are features in deep neural networks?](http://papers.nips.cc/paper/5347-how-transferable-are-features-in-deep-neural-networks.pdf), J. Yosinski et al., 2014
+- [Learning and transferring mid-Level image representations using convolutional neural networks](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Oquab_Learning_and_Transferring_2014_CVPR_paper.pdf), M. Oquab et al., 2014
+- [Distilling the knowledge in a neural network](http://arxiv.org/pdf/1503.02531), G. Hinton et al., 2015
+- [Deep neural networks are easily fooled: High confidence predictions for unrecognizable images](http://arxiv.org/pdf/1412.1897), A. Nguyen et al., 2015
 
 ### Optimization, Training Techniques
-- [Adam: A method for stochastic optimization](http://arxiv.org/pdf/1412.6980), D. Kingma and J. Ba, 2014, 5100+ citations
-- [Dropout: A simple way to prevent neural networks from overfitting](http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf), N. Srivastava et al., 2014, 4300+ citations
-- [Batch normalization: Accelerating deep network training by reducing internal covariate shift](http://arxiv.org/pdf/1502.03167), S. Loffe and C. Szegedy, 2015, 3000+ citations
-- [Improving neural networks by preventing co-adaptation of feature detectors](http://arxiv.org/pdf/1207.0580.pdf), G. Hinton et al., 2012, 2300+ citations
-- [Delving deep into rectifiers: Surpassing human-level performance on imagenet classification](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/He_Delving_Deep_into_ICCV_2015_paper.pdf), K. He et al., 2015, 1700+ citations
-- [Random search for hyper-parameter optimization](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a), J. Bergstra and Y. Bengio, 2012, 1100+ citations
-- [Training very deep networks](http://papers.nips.cc/paper/5850-training-very-deep-networks.pdf), R. Srivastava et al., 2015, 300+ citations
+- [Adam: A method for stochastic optimization](http://arxiv.org/pdf/1412.6980), D. Kingma and J. Ba, 2014
+- [Dropout: A simple way to prevent neural networks from overfitting](http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf), N. Srivastava et al., 2014
+- [Batch normalization: Accelerating deep network training by reducing internal covariate shift](http://arxiv.org/pdf/1502.03167), S. Loffe and C. Szegedy, 2015
+- [Improving neural networks by preventing co-adaptation of feature detectors](http://arxiv.org/pdf/1207.0580.pdf), G. Hinton et al., 2012
+- [Delving deep into rectifiers: Surpassing human-level performance on imagenet classification](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/He_Delving_Deep_into_ICCV_2015_paper.pdf), K. He et al., 2015
+- [Random search for hyper-parameter optimization](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a), J. Bergstra and Y. Bengio, 2012
+- [Training very deep networks](http://papers.nips.cc/paper/5850-training-very-deep-networks.pdf), R. Srivastava et al., 2015
 
 ### Unsupervised, Generative Models
-- [Generative adversarial nets](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf), I. Goodfellow et al., 2014, 1600+ citations
-- [Building high-level features using large scale unsupervised learning](http://arxiv.org/pdf/1112.6209), Q. Le et al., 2013, 1400+ citations
-- [Auto-encoding variational Bayes](http://arxiv.org/pdf/1312.6114), D. Kingma and M. Welling, 2013, 1300+ citations
-- [Unsupervised representation learning with deep convolutional generative adversarial networks](https://arxiv.org/pdf/1511.06434v2), A. Radford et al., 2015, 800+ citations
-- [DRAW: A recurrent neural network for image generation](http://arxiv.org/pdf/1502.04623), K. Gregor et al., 2015, 500+ citations
-- [Improved techniques for training GANs](http://papers.nips.cc/paper/6125-improved-techniques-for-training-gans.pdf), T. Salimans et al., 2016, 400+ citations
-- [Pixel recurrent neural networks](http://arxiv.org/pdf/1601.06759v2.pdf), A. Oord et al., 2016, 200+ citations
-
-### Convolutional Neural Network Models
-- [ImageNet classification with deep convolutional neural networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf), A. Krizhevsky et al., 2012, 17300+ citations
-- [Very deep convolutional networks for large-scale image recognition](http://arxiv.org/pdf/1409.1556), K. Simonyan and A. Zisserman, 2014, 7500+ citations
-- [Going deeper with convolutions](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf), C. Szegedy et al., 2015, 5200+ citations
-- [Deep residual learning for image recognition](http://arxiv.org/pdf/1512.03385), K. He et al., 2016, 4800+ citations
-- [OverFeat: Integrated recognition, localization and detection using convolutional networks](http://arxiv.org/pdf/1312.6229), P. Sermanet et al., 2013, 1700+ citations
-- [Return of the devil in the details: delving deep into convolutional nets](http://arxiv.org/pdf/1405.3531), K. Chatfield et al., 2014, 1200+ citations
-- [Network in network](http://arxiv.org/pdf/1312.4400), M. Lin et al., 2013, 1000+ citations
-
-<details>
-<summary>Papers with less than 1000 citations</summary>
-
-- [Maxout networks](http://arxiv.org/pdf/1302.4389v4), I. Goodfellow et al., 2013, 900+ citations
-- [Rethinking the inception architecture for computer vision](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Szegedy_Rethinking_the_Inception_CVPR_2016_paper.pdf), C. Szegedy et al., 2016, 700+ citations
-- [Identity Mappings in Deep Residual Networks](https://arxiv.org/pdf/1603.05027v2.pdf), K. He et al., 2016, 500+ citations
-- [Spatial transformer network](http://papers.nips.cc/paper/5854-spatial-transformer-networks.pdf), M. Jaderberg et al., 2015, 500+ citations
-- [Inception-v4, inception-resnet and the impact of residual connections on learning](http://arxiv.org/pdf/1602.07261), C. Szegedy et al., 2016, 400+ citations
+- [Generative adversarial nets](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf), I. Goodfellow et al., 2014
+- [Building high-level features using large scale unsupervised learning](http://arxiv.org/pdf/1112.6209), Q. Le et al., 2013
+- [Auto-encoding variational Bayes](http://arxiv.org/pdf/1312.6114), D. Kingma and M. Welling, 2013
+- [Unsupervised representation learning with deep convolutional generative adversarial networks](https://arxiv.org/pdf/1511.06434v2), A. Radford et al., 2015
+- [DRAW: A recurrent neural network for image generation](http://arxiv.org/pdf/1502.04623), K. Gregor et al.
+- [Improved techniques for training GANs](http://papers.nips.cc/paper/6125-improved-techniques-for-training-gans.pdf), T. Salimans et al., 2016
+- [Pixel recurrent neural networks](http://arxiv.org/pdf/1601.06759v2.pdf), A. Oord et al., 2016
 
 </details>
 

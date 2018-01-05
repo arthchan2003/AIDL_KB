@@ -23,6 +23,9 @@ Based on various sources, including Awesome Deep Learning and Adit Deshpande's [
 - (VGGNet) [Very Deep Convolutional Networks For Large-scale Image Recognition](https://arxiv.org/pdf/1409.1556v6.pdf) Karen Simonyan and Andrew Zisserman 2015
 - (GoogLeNet)[Going Deeper with Convolutions](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf) Christian Szegedy et al 2015
 - (ResNet)[Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385v1.pdf)
+- (OverFeat) [OverFeat: Integrated recognition, localization and detection using convolutional networks](http://arxiv.org/pdf/1312.6229), P. Sermanet et al., 2013, 1700+ citations
+- [Return of the devil in the details: delving deep into convolutional nets](http://arxiv.org/pdf/1405.3531), K. Chatfield et al., 2014, 1200+ citations
+- (Network in Network or 1x1 convolution) [Network in network](http://arxiv.org/pdf/1312.4400), M. Lin et al., 2013, 1000+ citations
 
 ### Segmentation, Object Detection
 - [Rich feature hierarchies for accurate object detection and semantic segmentation](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf), R. Girshick et al., 2014
