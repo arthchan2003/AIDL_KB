@@ -125,7 +125,7 @@ Based on [Awesome DL Papers](https://github.com/terryum/awesome-deep-learning-pa
 
 </details>
 
-## Cheat Sheet
+## Wikipedia entries on Basic Concepts
 * [Gradient ∇ (Nabla)](https://en.wikipedia.org/wiki/Del)
 * [Backpropagation](https://en.wikipedia.org/wiki/Backpropagation)
 * [Sigmoid σ](https://en.wikipedia.org/wiki/Sigmoid_function)
