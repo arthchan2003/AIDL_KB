@@ -37,11 +37,9 @@ NLP one of the important area of research in AI. A good resource for NLP is [cs2
 - [Convolutional neural networks for sentence classification](http://arxiv.org/pdf/1408.5882), Y. Kim, 2014
 - [A convolutional neural network for modeling sentences](http://arxiv.org/pdf/1404.2188v1), N. Kalchbrenner et al., 2014
 
-<details>
-<summary>Other interesting papers</summary>
+### Other interesting papers
 - [Conditional random fields as recurrent neural networks](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Zheng_Conditional_Random_Fields_ICCV_2015_paper.pdf), S. Zheng and S. Jayasumana, 2015
 - [Neural turing machines](https://arxiv.org/pdf/1410.5401), A. Graves et al., 2014
 - [Memory networks](https://arxiv.org/pdf/1410.3916), J. Weston et al., 2014
 - [Teaching machines to read and comprehend](http://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf), K. Hermann et al., 2015
 - [Neural Architectures for Named Entity Recognition](http://aclweb.org/anthology/N/N16/N16-1030.pdf), G. Lample et al., 2016
-</details>
