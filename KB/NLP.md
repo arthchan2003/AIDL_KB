@@ -14,7 +14,7 @@ NLP one of the important area of research in AI. A good resource for NLP is [cs2
 ## Scientific Papers
 
 ### LSTM/RNN
-- [Long Short Term Memory](ftp://ftp.idsia.ch/pub/juergen/lstm.pdf)  by S. Hochreiter and J. Schmidhuber, 1997. 
+- [Long Short Term Memory](http://www.bioinf.jku.at/publications/older/2604.pdf) by S. Hochreiter and J. Schmidhuber, 1997. 
 
 ### Sparse Representation
 - [Distributed representations of words and phrases and their compositionality](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf), T. Mikolov et al., 2013
