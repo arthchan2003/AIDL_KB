@@ -21,12 +21,12 @@ For audio the data requires different preprocessing, the course [cs224s](http://
 
 ## Scientific Papers
 
-DNN as a replacement of Gaussian Mixture Model
+### DNN as a replacement of Gaussian Mixture Model
 - [Deep neural networks for acoustic modeling in speech recognition: The shared views of four research groups](http://www.cs.toronto.edu/~asamir/papers/SPM_DNN_12.pdf), G. Hinton et al., 2012
 - [Context-dependent pre-trained deep neural networks for large-vocabulary speech recognition](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.337.7548&rep=rep1&type=pdf), G. Dahl et al., 2012
 - [Acoustic modeling using deep belief networks](http://www.cs.toronto.edu/~asamir/papers/speechDBN_jrnl.pdf), A. Mohamed et al., 2012
 
-End-to-end models
+### End-to-end models
 - [Deep speech 2: End-to-end speech recognition in English and Mandarin](https://arxiv.org/pdf/1512.02595), D. Amodei et al., 2015
 - [End-to-end attention-based large vocabulary speech recognition](https://arxiv.org/pdf/1508.04395), D. Bahdanau et al., 2016
 - [Speech recognition with deep recurrent neural networks](http://arxiv.org/pdf/1303.5778.pdf), A. Graves, 2013
