@@ -31,3 +31,9 @@ Our goal is to provide knowledge base for all AI&DL members and public.
 * [Denny Britz's This Week in AI](https://www.getrevue.co/profile/wildml)
 * [AIDL Weekly Newsletter](http://aidl.io/)
 
+## Contributors of AIDL_KB
+* Jan Šablatura
+* Arthur Chan
+* Amitā Kapoor
+* Adam Milton-Barker
+* Danielius Visockas
