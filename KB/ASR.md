@@ -6,10 +6,10 @@ For audio the data requires different preprocessing, the course [cs224s](http://
 ## Books
 ### Non-DL based
 * [Fundamentals of Speech Recognition [$] ](https://www.amazon.com/Fundamentals-Speech-Recognition-Lawrence-Rabiner/dp/0130151572/ref=sr_1_4?ie=UTF8&qid=1519180205&sr=8-4&keywords=lawrence+rabiner) by L. Rabiner and B-H Juang 1st Edition
-* [Statistical Methods for Speech Recognition (Language, Speech, and Communication) [$]](https://www.amazon.com/Statistical-Methods-Recognition-Language-Communication/dp/0262100665/ref=sr_1_2?s=books&ie=UTF8&qid=1519180382&sr=1-2&keywords=speech+recognition) by F. Jelinek Fourth Printing Edition. 
+* [Statistical Methods for Speech Recognition - Language, Speech, and Communication [$]](https://www.amazon.com/Statistical-Methods-Recognition-Language-Communication/dp/0262100665/ref=sr_1_2?s=books&ie=UTF8&qid=1519180382&sr=1-2&keywords=speech+recognition) by F. Jelinek Fourth Printing Edition. 
 
 ### DL based
-* [Automatic Speech Recognition: A Deep Learning Approach (Signals and Communication Technology) [$]](https://www.amazon.com/Automatic-Speech-Recognition-Communication-Technology/dp/1447157788/ref=sr_1_1?s=books&ie=UTF8&qid=1519180382&sr=1-1&keywords=speech+recognition by D. Yu and L. Deng 2015th Edition
+* [Automatic Speech Recognition: A Deep Learning Approach - Signals and Communication Technology [$]](https://www.amazon.com/Automatic-Speech-Recognition-Communication-Technology/dp/1447157788/ref=sr_1_1?s=books&ie=UTF8&qid=1519180382&sr=1-1&keywords=speech+recognition) by D. Yu and L. Deng 2015th Edition
 
 ## Toolkits and Tools
 ### Non-DL-based
