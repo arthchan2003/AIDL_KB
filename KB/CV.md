@@ -47,7 +47,7 @@ Based on various sources, including Awesome Deep Learning and Adit Deshpande's [
 - [Show and tell: A neural image caption generator](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Vinyals_Show_and_Tell_2015_CVPR_paper.pdf), O. Vinyals et al., 2015
 - [Show, attend and tell: Neural image caption generation with visual attention](http://arxiv.org/pdf/1502.03044), K. Xu et al., 2015
 - [Deep visual-semantic alignments for generating image descriptions](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Karpathy_Deep_Visual-Semantic_Alignments_2015_CVPR_paper.pdf), A. Karpathy and L. Fei-Fei, 2015
-- [Long-term recurrent convolutional networks for visual recognition and description ](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Donahue_Long-Term_Recurrent_Convolutional_2015_CVPR_paper.pdf), J. Donahue et al., 2015
+- [Long-term recurrent convolutional networks for visual recognition and description](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Donahue_Long-Term_Recurrent_Convolutional_2015_CVPR_paper.pdf), J. Donahue et al., 2015
 - [3D convolutional neural networks for human action recognition](http://machinelearning.wustl.edu/mlpapers/paper_files/icml2010_JiXYY10.pdf), S. Ji et al., 2013
 - [Two-stream convolutional networks for action recognition in videos](http://papers.nips.cc/paper/5353-two-stream-convolutional-networks-for-action-recognition-in-videos.pdf), K. Simonyan et al., 2014
 
