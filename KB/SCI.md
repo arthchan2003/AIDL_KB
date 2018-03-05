@@ -7,6 +7,11 @@
 * [Deeplearning.net](http://deeplearning.net/reading-list/)
 * [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#papers)
 
+## Exploring arXiv
+
+[arXiv Sanity](http://arxiv-sanity.com) by [Andrej Karpathy](https://scholar.google.com/citations?user=l8WuQJgAAAAJ) allows you to discover trending papers, those related to the ones you have read, get recommendations from your friends and more.
+
+
 ## Email Alerts
 * [Google Scholar Alert Query](https://scholar.google.com/scholar_alerts?view_op=create_alert_options&alert_query=%22machine+learning%22+or+%22deep+learning%22+or+%22neural+network%22+or+%22artificial+intelligence%22)
 
