@@ -40,6 +40,11 @@
 * [David Silver's videos](http://rll.berkeley.edu/deeprlcourse/)
 * [John Schulman's lectures](http://joschu.net/)
 * [By Georgia Tech on Udacity](https://www.udacity.com/course/reinforcement-learning--ud600)
+* [AI: Reinforcement Learning in Python](https://www.udemy.com/artificial-intelligence-reinforcement-learning-in-python/)
+* [AI: Deep Reinforcement Learning in Python](https://www.udemy.com/deep-reinforcement-learning-in-python/)
+
+### TextBooks
+* [Reinforcement Learning: an introduction, R. Sutton et al., 2nd Edition 2018](http://incompleteideas.net/book/the-book.html)
 
 ### Scientific Papers
 Based on [Awesome DL Papers](https://github.com/terryum/awesome-deep-learning-papers#reinforcement-learning--robotics)
