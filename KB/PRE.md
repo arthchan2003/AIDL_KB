@@ -43,7 +43,7 @@ Check out this resource list on Mathematics in our group is [MIT course](https:/
 
 ### Books on Algorithm 
 * [The Art of Computer Programming, all volumes [$]](https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/), by Donald Knuth et al 
-* [Introduction to Algorithms 3rd Edition [$]] Commonly known as *CLRS*](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/) by Thomas H. Cormen, Clifford Stein, Ronald L. Rivest, Charles E. Leiserson
+* [Introduction to Algorithms 3rd Edition (commonly known as *CLRS*) [$]](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/) by Thomas H. Cormen, Clifford Stein, Ronald L. Rivest, Charles E. Leiserson
 * [Algorithms in C [$]](https://www.amazon.com/Algorithms-Parts-1-5-Bundle-Fundamentals/) by Roberts Sedgewick 
 
 ### Books on ML Programming
