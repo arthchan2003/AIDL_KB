@@ -53,3 +53,7 @@ Based on [Awesome DL Papers](https://github.com/terryum/awesome-deep-learning-pa
 - [Deep Reinforcement Learning with Double Q-Learning](https://arxiv.org/pdf/1509.06461.pdf), H. Hasselt et al., 2016
 - [Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection](https://arxiv.org/pdf/1603.02199), S. Levine et al., 2016
 
+### Classical Research Papers
+- The first neural network model: McCullotch Pitts Model [A logical calculus of the ideas immanent in nervous activity] (https://link.springer.com/article/10.1007/bf02478259)
+- First Networks which could learn: Perceptron [The perceptron: A probabilistic model for information storage and organization in the brain] (http://psycnet.apa.org/record/1959-09865-001)
+- The holy algorithm of DL: Back Propagation [Learning representations by back-propagating errors](https://www.nature.com/articles/323533a0)
