@@ -33,6 +33,7 @@ We recommend to firstly start with one or two [Machine Learning classes](ML.md),
 * [Nando de Freita's class on Machine/Deep Learning](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 * [Hinton's Neural Network Machine Learning](https://www.coursera.org/learn/neural-networks)
 * [Oxfords Deep NLP](https://github.com/oxford-cs-deepnlp-2017/lectures)
+* [DeepSchool.io](https://github.com/sachinruk/deepschool.io)
 
 ## Libraries and Frameworks
 If you don't know which DL library to start with, we suggest you to check [Ranking Popular DL Libraries](https://blog.thedataincubator.com/2017/10/ranking-popular-deep-learning-libraries-for-data-science/) from 10/2017 where the winner is [Tensorflow](https://www.tensorflow.org/), followed by [Keras](https://keras.io/) and [Caffe](http://caffe.berkeleyvision.org/).
