@@ -17,6 +17,7 @@ Our goal is to provide knowledge base for all AI&DL members and public.
   * [Psychology and Neuroscience](KB/NEU.md)
 * [Other Lists and People to Follow](KB/SCI.md)
 * [Public Datasets](KB/DAT.md)
+* [Blogs](BLOGS.md)
 
 <!--  * [Philosophy](KB/PHI.md) add, uncomment once not empty -->
 
