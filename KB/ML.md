@@ -8,7 +8,7 @@
 * [Learning From Data by CalTech](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x-0) on edX
 * [University of Washington's ML specialization](https://www.coursera.org/specializations/machine-learning) on Coursera
 * [Udacity courses](https://www.udacity.com/courses/machine-learning), some could be easier for beginners
-* [Carnegie Melon University Machine Learning Course] (https://www.youtube.com/watch?v=U1xIBLLzP1g&list=PLZSO_6-bSqHQmMKwWVvYwKreGu4b4kMU9)  YouTube Play list. 
+* [Carnegie Melon University Machine Learning Course](https://www.youtube.com/watch?v=U1xIBLLzP1g&list=PLZSO_6-bSqHQmMKwWVvYwKreGu4b4kMU9) YouTube playlist
 
 ## Textbooks
 * [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/), Shai Shalev-Shwartz and Shai Ben-David
@@ -60,6 +60,6 @@ Based on [Awesome DL Papers](https://github.com/terryum/awesome-deep-learning-pa
 - [Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection](https://arxiv.org/pdf/1603.02199), S. Levine et al., 2016
 
 ### Classical Research Papers
-- The first neural network model: McCullotch Pitts Model [A logical calculus of the ideas immanent in nervous activity] (https://link.springer.com/article/10.1007/bf02478259)
-- First Networks which could learn: Perceptron [The perceptron: A probabilistic model for information storage and organization in the brain] (http://psycnet.apa.org/record/1959-09865-001)
-- The holy algorithm of DL: Back Propagation [Learning representations by back-propagating errors](https://www.nature.com/articles/323533a0)
+- The first neural network model: McCullotch Pitts Model; [A logical calculus of the ideas immanent in nervous activity](https://link.springer.com/article/10.1007/bf02478259)
+- First Networks which could learn: Perceptron; [The perceptron: A probabilistic model for information storage and organization in the brain](http://psycnet.apa.org/record/1959-09865-001)
+- The holy algorithm of DL: Back Propagation; [Learning representations by back-propagating errors](https://www.nature.com/articles/323533a0)
