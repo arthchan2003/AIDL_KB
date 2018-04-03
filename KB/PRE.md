@@ -17,8 +17,8 @@ Check out this resource list on Mathematics in our group is [MIT course](https:/
 ### Books
 
 #### Probability and Statistics
-* [Think Stats [$]](http://amzn.to/1Jn4JVd), Allen B. Downey - [Free book from publisher](http://greenteapress.com/wp/think-stats-2e/)
-* [Think Bayes [$]](http://amzn.to/1IgUgZW), Allen B. Downey - [Free book from publisher](http://greenteapress.com/wp/think-bayes/)
+* [Think Stats](http://greenteapress.com/wp/think-stats-2e/), Allen B. Downey
+* [Think Bayes](http://greenteapress.com/wp/think-bayes/), Allen B. Downey
 * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/), Cam Davidson-Pilon
 * [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf), Trevor Hastie, Robert Tibshirani and Jerome Friedman
 
