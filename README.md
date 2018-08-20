@@ -38,3 +38,4 @@ Our goal is to provide knowledge base for all AI&DL members and public.
 * Amitā Kapoor
 * Adam Milton-Barker
 * Danielius Visockas
+just to practice
